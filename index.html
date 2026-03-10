@@ -128,7 +128,9 @@ function render(d) {
       <table style="width:100%;border-collapse:collapse;font-size:0.85rem;">
         <tr style="border-bottom:1px solid var(--border);color:var(--muted);text-align:left;">
           <th style="padding:8px 6px;">Name</th>
+          <th style="padding:8px 6px;">Age</th>
           <th style="padding:8px 6px;">Phone</th>
+          <th style="padding:8px 6px;">Email</th>
           <th style="padding:8px 6px;">Logs</th>
           <th style="padding:8px 6px;">Goal</th>
           <th style="padding:8px 6px;">Joined</th>
@@ -137,8 +139,10 @@ function render(d) {
         </tr>
         ${d.fitsortedUsers.map(u => `
           <tr style="border-bottom:1px solid var(--border);">
-            <td style="padding:8px 6px;font-weight:600;">${u.name}</td>
+            <td style="padding:8px 6px;font-weight:600;">${u.name} ${u.gender === 'female' ? '♀' : u.gender === 'male' ? '♂' : ''}</td>
+            <td style="padding:8px 6px;">${u.age || '-'}</td>
             <td style="padding:8px 6px;font-family:monospace;font-size:0.8rem;">${u.phone}</td>
+            <td style="padding:8px 6px;font-size:0.8rem;">${u.email ? '<span style="color:var(--green);">' + u.email + '</span>' : '<span style="color:var(--muted);">-</span>'}</td>
             <td style="padding:8px 6px;">${u.logs}</td>
             <td style="padding:8px 6px;">${u.goal} cal</td>
             <td style="padding:8px 6px;">${u.joined}</td>

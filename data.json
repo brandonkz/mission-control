@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/10, 21:51:27",
+  "updated": "2026/03/10, 21:53:26",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "0h 49m",
+      "val": "0h 51m",
       "color": "blue"
     },
     "Restarts": {
@@ -112,6 +112,9 @@
       "joined": "2026/03/06",
       "lastActive": "2026-03-10",
       "goal": "?",
+      "age": 38,
+      "gender": "male",
+      "email": "",
       "premium": false,
       "active7d": true
     },
@@ -122,6 +125,9 @@
       "joined": "2026/03/03",
       "lastActive": "2026-03-06",
       "goal": "?",
+      "age": 38,
+      "gender": "male",
+      "email": "",
       "premium": false,
       "active7d": true
     },
@@ -132,6 +138,9 @@
       "joined": "2026/03/04",
       "lastActive": "2026-03-10",
       "goal": "?",
+      "age": 61,
+      "gender": "female",
+      "email": "mineenk@gmail.com",
       "premium": false,
       "active7d": true
     },
@@ -142,6 +151,9 @@
       "joined": "?",
       "lastActive": "2026-03-03",
       "goal": "?",
+      "age": 42,
+      "gender": "male",
+      "email": "",
       "premium": false,
       "active7d": false
     },
@@ -152,6 +164,9 @@
       "joined": "2026/03/09",
       "lastActive": "2026-03-10",
       "goal": "?",
+      "age": 36,
+      "gender": "female",
+      "email": "",
       "premium": false,
       "active7d": true
     },
@@ -162,6 +177,9 @@
       "joined": "2026/03/04",
       "lastActive": "2026-03-04",
       "goal": "?",
+      "age": 36,
+      "gender": "female",
+      "email": "",
       "premium": false,
       "active7d": true
     },
@@ -172,6 +190,9 @@
       "joined": "2026/03/06",
       "lastActive": "2026-03-06",
       "goal": "?",
+      "age": 99,
+      "gender": "male",
+      "email": "",
       "premium": false,
       "active7d": true
     },
@@ -182,6 +203,9 @@
       "joined": "2026/03/04",
       "lastActive": "2026-03-05",
       "goal": "?",
+      "age": 35,
+      "gender": "female",
+      "email": "",
       "premium": false,
       "active7d": true
     },
@@ -192,6 +216,9 @@
       "joined": "2026/03/10",
       "lastActive": "2026-03-10",
       "goal": "?",
+      "age": 21,
+      "gender": "male",
+      "email": "",
       "premium": false,
       "active7d": true
     },
@@ -202,6 +229,9 @@
       "joined": "?",
       "lastActive": "2026-03-03",
       "goal": "?",
+      "age": 42,
+      "gender": "female",
+      "email": "",
       "premium": false,
       "active7d": false
     },
@@ -212,6 +242,9 @@
       "joined": "2026/03/04",
       "lastActive": "never",
       "goal": "?",
+      "age": "",
+      "gender": "",
+      "email": "",
       "premium": false
     },
     {
@@ -221,6 +254,9 @@
       "joined": "2026/03/05",
       "lastActive": "2026-03-05",
       "goal": "?",
+      "age": 35,
+      "gender": "male",
+      "email": "",
       "premium": false,
       "active7d": true
     },
@@ -231,6 +267,9 @@
       "joined": "2026/03/09",
       "lastActive": "never",
       "goal": "?",
+      "age": 39,
+      "gender": "male",
+      "email": "",
       "premium": false
     },
     {
@@ -240,6 +279,9 @@
       "joined": "2026/03/09",
       "lastActive": "never",
       "goal": "?",
+      "age": 45,
+      "gender": "male",
+      "email": "",
       "premium": false
     },
     {
@@ -249,6 +291,9 @@
       "joined": "2026/03/09",
       "lastActive": "never",
       "goal": "?",
+      "age": 30,
+      "gender": "male",
+      "email": "",
       "premium": false
     },
     {
@@ -258,6 +303,9 @@
       "joined": "2026/03/09",
       "lastActive": "never",
       "goal": "?",
+      "age": 44,
+      "gender": "male",
+      "email": "",
       "premium": false
     },
     {
@@ -267,6 +315,9 @@
       "joined": "2026/03/09",
       "lastActive": "never",
       "goal": "?",
+      "age": 37,
+      "gender": "male",
+      "email": "",
       "premium": false
     },
     {
@@ -276,6 +327,9 @@
       "joined": "2026/03/09",
       "lastActive": "never",
       "goal": "?",
+      "age": 40,
+      "gender": "male",
+      "email": "",
       "premium": false
     },
     {
@@ -285,6 +339,9 @@
       "joined": "2026/03/10",
       "lastActive": "never",
       "goal": "?",
+      "age": 27,
+      "gender": "male",
+      "email": "",
       "premium": false
     }
   ],
