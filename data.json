@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/10, 21:25:19",
+  "updated": "2026/03/10, 21:36:43",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "0h 23m",
+      "val": "0h 35m",
       "color": "blue"
     },
     "Restarts": {
@@ -372,6 +372,33 @@
       "error": "/Users/brandonkatz/.pm2/logs/fitsorted-error.log last 100 lines:"
     }
   ],
+  "analytics": {
+    "FitSorted": {
+      "sessions": "0",
+      "users": "0",
+      "pageviews": "0"
+    },
+    "PaidProperly": {
+      "sessions": "119",
+      "users": "106",
+      "pageviews": "134"
+    },
+    "BetSorted": {
+      "sessions": "39",
+      "users": "28",
+      "pageviews": "70"
+    },
+    "RetirementSorted": {
+      "sessions": "46",
+      "users": "36",
+      "pageviews": "55"
+    },
+    "CryptoCasinoSorted": {
+      "sessions": "49",
+      "users": "20",
+      "pageviews": "129"
+    }
+  },
   "revenue": {
     "FitSorted MRR": {
       "val": "R0",

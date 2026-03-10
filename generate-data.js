@@ -214,6 +214,57 @@ const todos = [
   'Lock in Bloomberg terminal tweet card style in daily cron',
 ];
 
+// ── Google Analytics ──
+let analytics = {};
+try {
+  // Run the analytics report script and capture output
+  const gaOutput = run('cd /Users/brandonkatz/.openclaw/workspace/scripts && node -e "\
+    const fs = require(\'fs\');\
+    const { google } = require(\'googleapis\');\
+    const keyFile = JSON.parse(fs.readFileSync(\'../analytics-service-account.json\'));\
+    const auth = new google.auth.GoogleAuth({ credentials: keyFile, scopes: [\'https://www.googleapis.com/auth/analytics.readonly\'] });\
+    const PROPERTIES = {\
+      \'FitSorted\': \'527761095\',\
+      \'PaidProperly\': \'523629608\',\
+      \'BetSorted\': \'523748260\',\
+      \'RetirementSorted\': \'524131705\',\
+      \'CryptoCasinoSorted\': \'524493667\'\
+    };\
+    (async () => {\
+      const client = await auth.getClient();\
+      const ad = google.analyticsdata(\'v1beta\');\
+      const results = {};\
+      for (const [name, id] of Object.entries(PROPERTIES)) {\
+        try {\
+          const r = await ad.properties.runReport({\
+            auth: client,\
+            property: \'properties/\' + id,\
+            requestBody: {\
+              dateRanges: [{ startDate: \'7daysAgo\', endDate: \'yesterday\' }],\
+              metrics: [{ name: \'sessions\' }, { name: \'totalUsers\' }, { name: \'screenPageViews\' }]\
+            }\
+          });\
+          const row = r.data.rows?.[0]?.metricValues || [];\
+          results[name] = { sessions: row[0]?.value || \'0\', users: row[1]?.value || \'0\', pageviews: row[2]?.value || \'0\' };\
+        } catch (e) { results[name] = { sessions: \'?\', users: \'?\', pageviews: \'?\', error: e.message }; }\
+      }\
+      console.log(JSON.stringify(results));\
+    })();\
+  " 2>/dev/null');
+  
+  if (gaOutput) {
+    const gaData = JSON.parse(gaOutput);
+    analytics = {};
+    for (const [site, d] of Object.entries(gaData)) {
+      analytics[site] = {
+        sessions: d.sessions,
+        users: d.users,
+        pageviews: d.pageviews,
+      };
+    }
+  }
+} catch (e) { console.error('GA error:', e.message); }
+
 // ── Output ──
 const data = {
   updated: new Date().toLocaleString('en-ZA', { timeZone: 'Africa/Johannesburg' }),
@@ -222,6 +273,7 @@ const data = {
   fitsortedUsers,
   fitsortedTopFoods,
   fitsortedErrors,
+  analytics,
   revenue,
   cryptoCasinos,
   automations,
