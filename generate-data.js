@@ -60,7 +60,7 @@ try {
         logs: userLogs,
         joined: u.joinedAt ? new Date(u.joinedAt).toLocaleDateString('en-ZA') : '?',
         lastActive: lastDate || 'never',
-        goal: u.dailyCalories || u.adjustedGoal || '?',
+        goal: u.goal || u.dailyCalories || u.adjustedGoal || '?',
         age: u.profile?.age || u.setup?.age || '',
         gender: u.profile?.gender || u.setup?.gender || '',
         email: u.email || '',
