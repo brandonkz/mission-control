@@ -240,13 +240,23 @@ try {
             auth: client,\
             property: \'properties/\' + id,\
             requestBody: {\
-              dateRanges: [{ startDate: \'7daysAgo\', endDate: \'yesterday\' }],\
+              dateRanges: [\
+                { startDate: \'yesterday\', endDate: \'yesterday\', name: \'daily\' },\
+                { startDate: \'7daysAgo\', endDate: \'yesterday\', name: \'weekly\' }\
+              ],\
               metrics: [{ name: \'sessions\' }, { name: \'totalUsers\' }, { name: \'screenPageViews\' }]\
             }\
           });\
-          const row = r.data.rows?.[0]?.metricValues || [];\
-          results[name] = { sessions: row[0]?.value || \'0\', users: row[1]?.value || \'0\', pageviews: row[2]?.value || \'0\' };\
-        } catch (e) { results[name] = { sessions: \'?\', users: \'?\', pageviews: \'?\', error: e.message }; }\
+          const rows = r.data.rows || [];\
+          const daily = rows.find(r => r.dimensionValues?.[0]?.value === \'daily\') || rows[0];\
+          const weekly = rows.find(r => r.dimensionValues?.[0]?.value === \'weekly\') || rows[1];\
+          const dv = daily?.metricValues || [];\
+          const wv = weekly?.metricValues || [];\
+          results[name] = {\
+            daily: { sessions: dv[0]?.value || \'0\', users: dv[1]?.value || \'0\', pageviews: dv[2]?.value || \'0\' },\
+            weekly: { sessions: wv[0]?.value || \'0\', users: wv[1]?.value || \'0\', pageviews: wv[2]?.value || \'0\' }\
+          };\
+        } catch (e) { results[name] = { daily: { sessions: \'?\', users: \'?\', pageviews: \'?\' }, weekly: { sessions: \'?\', users: \'?\', pageviews: \'?\' } }; }\
       }\
       console.log(JSON.stringify(results));\
     })();\
@@ -257,9 +267,8 @@ try {
     analytics = {};
     for (const [site, d] of Object.entries(gaData)) {
       analytics[site] = {
-        sessions: d.sessions,
-        users: d.users,
-        pageviews: d.pageviews,
+        daily: d.daily || { sessions: '0', users: '0', pageviews: '0' },
+        weekly: d.weekly || { sessions: '0', users: '0', pageviews: '0' },
       };
     }
   }
