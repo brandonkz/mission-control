@@ -1,0 +1,254 @@
+{
+  "updated": "2026/03/10, 21:18:04",
+  "projects": [
+    {
+      "name": "FitSorted",
+      "url": "https://fitsorted.co.za",
+      "status": "live",
+      "traffic": "undefined active",
+      "trafficColor": "green"
+    },
+    {
+      "name": "BetSorted",
+      "url": "https://betsorted.co.za",
+      "status": "live",
+      "traffic": "",
+      "trafficColor": "blue"
+    },
+    {
+      "name": "CryptoCasinoSorted",
+      "url": "https://cryptocasinosorted.com",
+      "status": "live",
+      "traffic": "",
+      "trafficColor": "purple"
+    },
+    {
+      "name": "RetirementSorted",
+      "url": "https://retirementsorted.co.za",
+      "status": "live",
+      "traffic": "",
+      "trafficColor": ""
+    },
+    {
+      "name": "PaidProperly",
+      "url": "https://paidproperly.co.za",
+      "status": "live",
+      "traffic": "",
+      "trafficColor": ""
+    },
+    {
+      "name": "DeFi Yield DEX",
+      "url": "https://dex.defiyield.live",
+      "status": "live",
+      "traffic": "",
+      "trafficColor": ""
+    },
+    {
+      "name": "TradeSorted",
+      "url": "https://tradesorted.co.za",
+      "status": "idea",
+      "traffic": "",
+      "trafficColor": ""
+    },
+    {
+      "name": "CVSorted",
+      "url": "#",
+      "status": "idea",
+      "traffic": "Scoped",
+      "trafficColor": "orange"
+    }
+  ],
+  "fitsorted": {
+    "Food Database": {
+      "val": "445 foods",
+      "color": "blue"
+    }
+  },
+  "revenue": {
+    "FitSorted MRR": {
+      "val": "R0",
+      "color": "red"
+    },
+    "FitSorted Target": {
+      "val": "R1,800/mo (100 users)",
+      "color": "orange"
+    },
+    "Affiliate Revenue": {
+      "val": "R0 (pending signups)",
+      "color": "red"
+    },
+    "Orderly DEX Fees": {
+      "val": "Active",
+      "color": "green"
+    },
+    "Gold LP Yield": {
+      "val": "~15% APY ($20K)",
+      "color": "green"
+    }
+  },
+  "cryptoCasinos": {
+    "Deposits Today": {
+      "val": "3,236",
+      "color": "purple"
+    },
+    "Total Volume": {
+      "val": "$3.3M",
+      "color": "green"
+    },
+    "Whale Deposits": {
+      "val": "51 (>$10K)",
+      "color": "orange"
+    },
+    "Casinos Tracked": {
+      "val": "8",
+      "color": "blue"
+    }
+  },
+  "automations": [
+    {
+      "time": "01:00",
+      "name": "FitSorted Food DB Expansion",
+      "enabled": true
+    },
+    {
+      "time": "06:00",
+      "name": "BetSorted Morning Odds",
+      "enabled": true
+    },
+    {
+      "time": "08:30",
+      "name": "Crypto Casino Tweet Drafts",
+      "enabled": true
+    },
+    {
+      "time": "09:00",
+      "name": "Arkham Deposit Addresses Reminder",
+      "enabled": true
+    },
+    {
+      "time": "18:00",
+      "name": "BetSorted Evening Odds",
+      "enabled": true
+    },
+    {
+      "time": "20:00",
+      "name": "FitSorted Evening Summary",
+      "enabled": true
+    },
+    {
+      "time": "20:05",
+      "name": "FitSorted Dashboard Update",
+      "enabled": true
+    },
+    {
+      "time": "Every 5m",
+      "name": "FitSorted Stats Regen",
+      "enabled": true
+    }
+  ],
+  "apiCredits": {
+    "The Odds API": {
+      "val": "350/500 remaining",
+      "color": "orange"
+    },
+    "OpenAI": {
+      "val": "Active",
+      "color": "green"
+    },
+    "Gemini": {
+      "val": "Active (free tier)",
+      "color": "green"
+    },
+    "Resend (email)": {
+      "val": "100/day free",
+      "color": "green"
+    },
+    "Etherscan": {
+      "val": "100K/day",
+      "color": "green"
+    }
+  },
+  "ideas": [
+    {
+      "emoji": "📖",
+      "name": "VerseSorted",
+      "status": "idea",
+      "buildTime": "2 days",
+      "revenue": "R49/mo freemium"
+    },
+    {
+      "emoji": "🍺",
+      "name": "DrunkSorted",
+      "status": "idea",
+      "buildTime": "1-2 weeks",
+      "revenue": "Ads + Uber affiliate"
+    },
+    {
+      "emoji": "📄",
+      "name": "CVSorted",
+      "status": "idea",
+      "buildTime": "1-2 weeks",
+      "revenue": "R99/CV"
+    },
+    {
+      "emoji": "💰",
+      "name": "BudgetSorted",
+      "status": "idea",
+      "buildTime": "1 week",
+      "revenue": "R29/mo"
+    },
+    {
+      "emoji": "🏋️",
+      "name": "FitSorted App",
+      "status": "wip",
+      "buildTime": "Awaiting Apple account",
+      "revenue": "Companion to WhatsApp"
+    },
+    {
+      "emoji": "📈",
+      "name": "TradeSorted",
+      "status": "idea",
+      "buildTime": "4-6 hours",
+      "revenue": "R2K-20K/mo affiliates"
+    },
+    {
+      "emoji": "🩺",
+      "name": "Dietician Suite",
+      "status": "idea",
+      "buildTime": "4-6 weeks",
+      "revenue": "R50/client/mo B2B"
+    },
+    {
+      "emoji": "🎰",
+      "name": "Betting Tipster Bot",
+      "status": "idea",
+      "buildTime": "1 week",
+      "revenue": "R99/mo"
+    },
+    {
+      "emoji": "🏠",
+      "name": "Rental Auto-Responder",
+      "status": "idea",
+      "buildTime": "3 days",
+      "revenue": "R199/mo per landlord"
+    },
+    {
+      "emoji": "💸",
+      "name": "Crypto Price Alerts",
+      "status": "idea",
+      "buildTime": "2 days",
+      "revenue": "R49/mo"
+    }
+  ],
+  "todos": [
+    "Test full FitSorted onboarding flow on WhatsApp",
+    "Test email export (email, export, export week)",
+    "Complete Apple Developer Account enrollment ($99/yr)",
+    "Sign up for Google Play Console ($25)",
+    "Run FitSorted stable for 1 week, then pitch influencers",
+    "Post Reddit/Twitter content drafts",
+    "Get more deposit addresses from Arkham",
+    "Build React Native companion app (scope ready)",
+    "Lock in Bloomberg terminal tweet card style in daily cron"
+  ]
+}
