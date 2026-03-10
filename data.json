@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/10, 21:18:04",
+  "updated": "2026/03/10, 21:25:19",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "undefined active",
+      "traffic": "9 active",
       "trafficColor": "green"
     },
     {
@@ -59,11 +59,319 @@
     }
   ],
   "fitsorted": {
+    "Total Users": {
+      "val": "19",
+      "color": "green"
+    },
+    "Active (24h)": {
+      "val": "4",
+      "color": "green"
+    },
+    "Active (7d)": {
+      "val": "9",
+      "color": "green"
+    },
+    "Premium Users": {
+      "val": "0",
+      "color": "red"
+    },
+    "Total Logs": {
+      "val": "186",
+      "color": "blue"
+    },
+    "Today's Logs": {
+      "val": "34",
+      "color": "green"
+    },
+    "Total Calories Tracked": {
+      "val": "43,244",
+      "color": "blue"
+    },
+    "Bot Status": {
+      "val": "online",
+      "color": "green"
+    },
+    "Uptime": {
+      "val": "0h 23m",
+      "color": "blue"
+    },
+    "Restarts": {
+      "val": "197",
+      "color": "orange"
+    },
     "Food Database": {
       "val": "445 foods",
       "color": "blue"
     }
   },
+  "fitsortedUsers": [
+    {
+      "name": "Brandon",
+      "phone": "2783****970",
+      "logs": 87,
+      "joined": "2026/03/06",
+      "lastActive": "2026-03-10",
+      "goal": "?",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Brandon",
+      "phone": "2783****kup",
+      "logs": 40,
+      "joined": "2026/03/03",
+      "lastActive": "2026-03-06",
+      "goal": "?",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Mineen",
+      "phone": "2783****590",
+      "logs": 20,
+      "joined": "2026/03/04",
+      "lastActive": "2026-03-10",
+      "goal": "?",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Unknown",
+      "phone": "2783****111",
+      "logs": 9,
+      "joined": "?",
+      "lastActive": "2026-03-03",
+      "goal": "?",
+      "premium": false,
+      "active7d": false
+    },
+    {
+      "name": "Robyn",
+      "phone": "2782****893",
+      "logs": 8,
+      "joined": "2026/03/09",
+      "lastActive": "2026-03-10",
+      "goal": "?",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Unknown",
+      "phone": "2782****778",
+      "logs": 7,
+      "joined": "2026/03/04",
+      "lastActive": "2026-03-04",
+      "goal": "?",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Shane",
+      "phone": "2771****067",
+      "logs": 6,
+      "joined": "2026/03/06",
+      "lastActive": "2026-03-06",
+      "goal": "?",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Unknown",
+      "phone": "2782****201",
+      "logs": 5,
+      "joined": "2026/03/04",
+      "lastActive": "2026-03-05",
+      "goal": "?",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "C",
+      "phone": "1774****855",
+      "logs": 3,
+      "joined": "2026/03/10",
+      "lastActive": "2026-03-10",
+      "goal": "?",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Unknown",
+      "phone": "2784****566",
+      "logs": 1,
+      "joined": "?",
+      "lastActive": "2026-03-03",
+      "goal": "?",
+      "premium": false,
+      "active7d": false
+    },
+    {
+      "name": "Unknown",
+      "phone": "4477****350",
+      "logs": 0,
+      "joined": "2026/03/04",
+      "lastActive": "never",
+      "goal": "?",
+      "premium": false
+    },
+    {
+      "name": "Idan",
+      "phone": "2773****213",
+      "logs": 0,
+      "joined": "2026/03/05",
+      "lastActive": "2026-03-05",
+      "goal": "?",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Rael",
+      "phone": "2772****516",
+      "logs": 0,
+      "joined": "2026/03/09",
+      "lastActive": "never",
+      "goal": "?",
+      "premium": false
+    },
+    {
+      "name": "Kyle",
+      "phone": "2772****966",
+      "logs": 0,
+      "joined": "2026/03/09",
+      "lastActive": "never",
+      "goal": "?",
+      "premium": false
+    },
+    {
+      "name": "Meko",
+      "phone": "2760****906",
+      "logs": 0,
+      "joined": "2026/03/09",
+      "lastActive": "never",
+      "goal": "?",
+      "premium": false
+    },
+    {
+      "name": "Unknown",
+      "phone": "4475****982",
+      "logs": 0,
+      "joined": "2026/03/09",
+      "lastActive": "never",
+      "goal": "?",
+      "premium": false
+    },
+    {
+      "name": "Avi",
+      "phone": "9725****354",
+      "logs": 0,
+      "joined": "2026/03/09",
+      "lastActive": "never",
+      "goal": "?",
+      "premium": false
+    },
+    {
+      "name": "Unknown",
+      "phone": "2782****193",
+      "logs": 0,
+      "joined": "2026/03/09",
+      "lastActive": "never",
+      "goal": "?",
+      "premium": false
+    },
+    {
+      "name": "Ola",
+      "phone": "2349****603",
+      "logs": 0,
+      "joined": "2026/03/10",
+      "lastActive": "never",
+      "goal": "?",
+      "premium": false
+    }
+  ],
+  "fitsortedTopFoods": [
+    [
+      "coffee with milk (1 cup) (1 cup)",
+      6
+    ],
+    [
+      "toast (white bread, 2 slices) (2 slices)",
+      5
+    ],
+    [
+      "coffee with almond milk",
+      4
+    ],
+    [
+      "black coffee 1 cup",
+      4
+    ],
+    [
+      "steak",
+      4
+    ],
+    [
+      "coffee",
+      4
+    ],
+    [
+      "water",
+      4
+    ],
+    [
+      "chicken",
+      4
+    ],
+    [
+      "braai steak (sirloin, 150g) (150g)",
+      3
+    ],
+    [
+      "apple",
+      3
+    ],
+    [
+      "half chicken",
+      2
+    ],
+    [
+      "black coffee",
+      2
+    ],
+    [
+      "hamburger",
+      2
+    ],
+    [
+      "mcdonald's hamburger",
+      2
+    ],
+    [
+      "mcchicken",
+      2
+    ]
+  ],
+  "fitsortedErrors": [
+    {
+      "count": 6,
+      "error": "SyntaxError: Unexpected token ','"
+    },
+    {
+      "count": 4,
+      "error": "Workout lookup error: Request failed with status code 429"
+    },
+    {
+      "count": 2,
+      "error": "Coach error: Request failed with status code 429"
+    },
+    {
+      "count": 1,
+      "error": "Food lookup error: Request failed with status code 429"
+    },
+    {
+      "count": 1,
+      "error": "/Users/brandonkatz/.pm2/logs/fitsorted-error.log last 100 lines:"
+    }
+  ],
   "revenue": {
     "FitSorted MRR": {
       "val": "R0",

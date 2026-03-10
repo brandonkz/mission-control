@@ -17,27 +17,98 @@ function readJSON(file) {
 
 // ── FitSorted Stats ──
 let fitsortedStats = {};
+let fitsortedUsers = [];
+let fitsortedTopFoods = [];
+let fitsortedErrors = [];
 try {
-  const usersDir = path.join(WORKSPACE, 'fitsorted', 'users');
-  if (fs.existsSync(usersDir)) {
-    const userFiles = fs.readdirSync(usersDir).filter(f => f.endsWith('.json'));
-    let totalLogs = 0, activeLast7 = 0, premiumCount = 0;
+  const usersFile = path.join(WORKSPACE, 'fitsorted', 'users.json');
+  if (fs.existsSync(usersFile)) {
+    const users = readJSON(usersFile) || {};
+    const phones = Object.keys(users);
     const now = Date.now();
-    for (const f of userFiles) {
-      const u = readJSON(path.join(usersDir, f));
-      if (!u) continue;
-      if (u.premium) premiumCount++;
+    const today = new Date().toISOString().split('T')[0];
+    let totalLogs = 0, activeLast7 = 0, activeLast24h = 0, premiumCount = 0, todayLogs = 0;
+    let foodFreq = {};
+    let totalCalories = 0;
+
+    for (const p of phones) {
+      const u = users[p];
+      if (u.isPro || u.premium) premiumCount++;
       const logDates = Object.keys(u.log || {});
-      totalLogs += logDates.reduce((s, d) => s + (u.log[d]?.length || 0), 0);
-      const lastLog = logDates.sort().pop();
-      if (lastLog && (now - new Date(lastLog).getTime()) < 7 * 86400000) activeLast7++;
+      let userLogs = 0;
+      for (const d of logDates) {
+        const entries = u.log[d] || [];
+        totalLogs += entries.length;
+        userLogs += entries.length;
+        if (d === today) todayLogs += entries.length;
+        for (const e of entries) {
+          totalCalories += e.calories || 0;
+          const food = (e.food || '').toLowerCase();
+          if (food) foodFreq[food] = (foodFreq[food] || 0) + 1;
+        }
+      }
+      const lastDate = logDates.sort().pop();
+      const lastActive = lastDate ? new Date(lastDate).getTime() : 0;
+      if (lastDate && (now - lastActive) < 7 * 86400000) activeLast7++;
+      if (lastDate && (now - lastActive) < 86400000) activeLast24h++;
+
+      // Build user list for dashboard
+      const masked = p.slice(0, 4) + '****' + p.slice(-3);
+      fitsortedUsers.push({
+        name: u.name || 'Unknown',
+        phone: masked,
+        logs: userLogs,
+        joined: u.joinedAt ? new Date(u.joinedAt).toLocaleDateString('en-ZA') : '?',
+        lastActive: lastDate || 'never',
+        goal: u.dailyCalories || u.adjustedGoal || '?',
+        premium: !!(u.isPro || u.premium),
+        active7d: lastDate && (now - lastActive) < 7 * 86400000,
+      });
     }
+
+    fitsortedUsers.sort((a, b) => b.logs - a.logs);
+    fitsortedTopFoods = Object.entries(foodFreq).sort((a, b) => b[1] - a[1]).slice(0, 15);
+
+    // Bot status
+    let botStatus = 'unknown';
+    let restarts = '?';
+    let uptime = '?';
+    try {
+      const pm2Data = JSON.parse(run('pm2 jlist 2>/dev/null') || '[]');
+      const proc = pm2Data.find(p => p.name === 'fitsorted');
+      if (proc) {
+        botStatus = proc.pm2_env.status;
+        restarts = proc.pm2_env.restart_time;
+        const uptimeMs = now - proc.pm2_env.pm_uptime;
+        const uptimeH = Math.floor(uptimeMs / 3600000);
+        const uptimeM = Math.floor((uptimeMs % 3600000) / 60000);
+        uptime = uptimeH > 24 ? Math.floor(uptimeH / 24) + 'd ' + (uptimeH % 24) + 'h' : uptimeH + 'h ' + uptimeM + 'm';
+      }
+    } catch {}
+
+    // Recent errors
+    try {
+      const errorLog = run('pm2 logs fitsorted --lines 100 --nostream 2>&1 | grep -i "error\\|Error" | sort | uniq -c | sort -rn | head -5');
+      if (errorLog) {
+        fitsortedErrors = errorLog.split('\n').map(line => {
+          const match = line.trim().match(/^(\d+)\s+(.+)/);
+          if (match) return { count: parseInt(match[1]), error: match[2].replace(/^0\|fitsorte \| /, '') };
+          return null;
+        }).filter(Boolean);
+      }
+    } catch {}
+
     fitsortedStats = {
-      'Total Users': { val: userFiles.length.toString(), color: 'green' },
+      'Total Users': { val: phones.length.toString(), color: 'green' },
+      'Active (24h)': { val: activeLast24h.toString(), color: activeLast24h > 3 ? 'green' : 'orange' },
       'Active (7d)': { val: activeLast7.toString(), color: activeLast7 > 5 ? 'green' : 'orange' },
       'Premium Users': { val: premiumCount.toString(), color: premiumCount > 0 ? 'green' : 'red' },
       'Total Logs': { val: totalLogs.toLocaleString(), color: 'blue' },
-      'Bot Status': { val: run('pm2 jlist 2>/dev/null | node -e "const d=JSON.parse(require(\'fs\').readFileSync(\'/dev/stdin\',\'utf8\')); const f=d.find(p=>p.name===\'fitsorted\'); console.log(f?f.pm2_env.status:\'unknown\')"') || 'unknown', color: 'green' },
+      'Today\'s Logs': { val: todayLogs.toString(), color: todayLogs > 10 ? 'green' : 'orange' },
+      'Total Calories Tracked': { val: totalCalories.toLocaleString(), color: 'blue' },
+      'Bot Status': { val: botStatus, color: botStatus === 'online' ? 'green' : 'red' },
+      'Uptime': { val: uptime, color: 'blue' },
+      'Restarts': { val: restarts.toString(), color: 'orange' },
     };
   }
 } catch (e) { console.error('FitSorted error:', e.message); }
@@ -148,6 +219,9 @@ const data = {
   updated: new Date().toLocaleString('en-ZA', { timeZone: 'Africa/Johannesburg' }),
   projects,
   fitsorted: fitsortedStats,
+  fitsortedUsers,
+  fitsortedTopFoods,
+  fitsortedErrors,
   revenue,
   cryptoCasinos,
   automations,

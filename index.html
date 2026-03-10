@@ -120,6 +120,65 @@ function render(d) {
     `).join('')}
   </div>`;
 
+  // FitSorted Users
+  if (d.fitsortedUsers && d.fitsortedUsers.length > 0) {
+    html += `<div class="card full-width">
+      <h2><span class="dot" style="background:var(--green)"></span>FitSorted Users</h2>
+      <div style="overflow-x:auto;">
+      <table style="width:100%;border-collapse:collapse;font-size:0.85rem;">
+        <tr style="border-bottom:1px solid var(--border);color:var(--muted);text-align:left;">
+          <th style="padding:8px 6px;">Name</th>
+          <th style="padding:8px 6px;">Phone</th>
+          <th style="padding:8px 6px;">Logs</th>
+          <th style="padding:8px 6px;">Goal</th>
+          <th style="padding:8px 6px;">Joined</th>
+          <th style="padding:8px 6px;">Last Active</th>
+          <th style="padding:8px 6px;">Status</th>
+        </tr>
+        ${d.fitsortedUsers.map(u => `
+          <tr style="border-bottom:1px solid var(--border);">
+            <td style="padding:8px 6px;font-weight:600;">${u.name}</td>
+            <td style="padding:8px 6px;font-family:monospace;font-size:0.8rem;">${u.phone}</td>
+            <td style="padding:8px 6px;">${u.logs}</td>
+            <td style="padding:8px 6px;">${u.goal} cal</td>
+            <td style="padding:8px 6px;">${u.joined}</td>
+            <td style="padding:8px 6px;">${u.lastActive}</td>
+            <td style="padding:8px 6px;">
+              ${u.premium ? '<span class="tag tag-live">PRO</span>' : u.active7d ? '<span class="tag tag-wip">ACTIVE</span>' : '<span class="tag tag-paused">INACTIVE</span>'}
+            </td>
+          </tr>
+        `).join('')}
+      </table>
+      </div>
+    </div>`;
+  }
+
+  // Top Foods
+  if (d.fitsortedTopFoods && d.fitsortedTopFoods.length > 0) {
+    html += `<div class="card">
+      <h2><span class="dot" style="background:var(--green)"></span>Top Foods Logged</h2>
+      ${d.fitsortedTopFoods.map(([food, count], i) => `
+        <div class="stat-row">
+          <span>${i + 1}. ${food}</span>
+          <span class="stat-val blue">${count}x</span>
+        </div>
+      `).join('')}
+    </div>`;
+  }
+
+  // FitSorted Errors
+  if (d.fitsortedErrors && d.fitsortedErrors.length > 0) {
+    html += `<div class="card">
+      <h2><span class="dot" style="background:var(--red)"></span>Recent Errors</h2>
+      ${d.fitsortedErrors.map(e => `
+        <div class="stat-row">
+          <span style="font-size:0.8rem;font-family:monospace;word-break:break-all;">${e.error}</span>
+          <span class="stat-val red">${e.count}x</span>
+        </div>
+      `).join('')}
+    </div>`;
+  }
+
   // Revenue
   html += `<div class="card">
     <h2><span class="dot" style="background:var(--orange)"></span>Revenue</h2>
