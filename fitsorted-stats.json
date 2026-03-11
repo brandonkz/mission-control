@@ -1,6 +1,6 @@
 {
   "totalUsers": 27,
-  "setupComplete": 21,
+  "setupComplete": 22,
   "proUsers": 0,
   "activeToday": 6,
   "activeWeek": 10,
@@ -19,9 +19,9 @@
   "recentSignups": [
     {
       "phone": "276***48",
-      "name": "anon",
+      "name": "Brooklyn",
       "created": "2026-03-11T20:56:59.887Z",
-      "setup": false
+      "setup": true
     },
     {
       "phone": "277***80",
@@ -78,5 +78,5 @@
       "setup": true
     }
   ],
-  "updatedAt": "2026-03-11T20:57:07.987Z"
+  "updatedAt": "2026-03-11T21:27:08.002Z"
 }
