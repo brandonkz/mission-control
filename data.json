@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/11, 20:04:05",
+  "updated": "2026/03/11, 22:04:10",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "11 active",
+      "traffic": "12 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "25",
+      "val": "27",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "5",
+      "val": "6",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "11",
+      "val": "12",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "221",
+      "val": "235",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "34",
+      "val": "48",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "51,118",
+      "val": "54,179",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "1h 36m",
+      "val": "3h 36m",
       "color": "blue"
     },
     "Restarts": {
@@ -108,7 +108,7 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 108,
+      "logs": 110,
       "joined": "2026/03/06",
       "lastActive": "2026-03-11",
       "goal": 1999,
@@ -145,6 +145,19 @@
       "active7d": true
     },
     {
+      "name": "Dilshad",
+      "phone": "2779****580",
+      "logs": 11,
+      "joined": "2026/03/11",
+      "lastActive": "2026-03-11",
+      "goal": 1103,
+      "age": 35,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Unknown",
       "phone": "2783****111",
       "logs": 9,
@@ -156,6 +169,19 @@
       "email": "",
       "premium": false,
       "active7d": false
+    },
+    {
+      "name": "Avi",
+      "phone": "9725****354",
+      "logs": 8,
+      "joined": "2026/03/09",
+      "lastActive": "2026-03-11",
+      "goal": 1867,
+      "age": 37,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
     },
     {
       "name": "Robyn",
@@ -182,19 +208,6 @@
       "email": "",
       "premium": false,
       "active7d": false
-    },
-    {
-      "name": "Avi",
-      "phone": "9725****354",
-      "logs": 7,
-      "joined": "2026/03/09",
-      "lastActive": "2026-03-11",
-      "goal": 1867,
-      "age": 37,
-      "gender": "male",
-      "email": "",
-      "premium": false,
-      "active7d": true
     },
     {
       "name": "Shane",
@@ -416,6 +429,18 @@
       "goal": "?",
       "age": "",
       "gender": "",
+      "email": "",
+      "premium": false
+    },
+    {
+      "name": "Chris",
+      "phone": "2783****942",
+      "logs": 0,
+      "joined": "2026/03/11",
+      "lastActive": "never",
+      "goal": 2083,
+      "age": 47,
+      "gender": "male",
       "email": "",
       "premium": false
     }
