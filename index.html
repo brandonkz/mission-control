@@ -90,7 +90,7 @@ async function loadData() {
   }
 }
 
-function render(d) {
+async function render(d) {
   document.getElementById('last-updated').textContent = 'Updated: ' + d.updated;
   
   let html = '';
