@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/11, 16:04:05",
+  "updated": "2026/03/11, 18:04:02",
   "projects": [
     {
       "name": "FitSorted",
@@ -60,7 +60,7 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "22",
+      "val": "24",
       "color": "green"
     },
     "Active (24h)": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "217",
+      "val": "218",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "30",
+      "val": "31",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "49,168",
+      "val": "49,668",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "0h 8m",
+      "val": "0h 34m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "217",
+      "val": "235",
       "color": "orange"
     },
     "Food Database": {
@@ -108,7 +108,7 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 107,
+      "logs": 108,
       "joined": "2026/03/06",
       "lastActive": "2026-03-11",
       "goal": 1999,
@@ -382,6 +382,30 @@
       "gender": "male",
       "email": "",
       "premium": false
+    },
+    {
+      "name": "Unknown",
+      "phone": "2778****917",
+      "logs": 0,
+      "joined": "2026/03/11",
+      "lastActive": "never",
+      "goal": "?",
+      "age": "",
+      "gender": "female",
+      "email": "",
+      "premium": false
+    },
+    {
+      "name": "Unknown",
+      "phone": "2763****178",
+      "logs": 0,
+      "joined": "2026/03/11",
+      "lastActive": "never",
+      "goal": "?",
+      "age": "",
+      "gender": "",
+      "email": "",
+      "premium": false
     }
   ],
   "fitsortedTopFoods": [
@@ -457,15 +481,15 @@
     },
     {
       "count": 2,
+      "error": "Webhook error: (user.customFoods || []).map is not a function TypeError: (user.customFoods || []).map is not a function"
+    },
+    {
+      "count": 2,
       "error": "Coach error: Request failed with status code 429"
     },
     {
       "count": 1,
       "error": "Food lookup error: Request failed with status code 429"
-    },
-    {
-      "count": 1,
-      "error": "/Users/brandonkatz/.pm2/logs/fitsorted-error.log last 100 lines:"
     }
   ],
   "analytics": {
