@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/11, 12:04:04",
+  "updated": "2026/03/11, 14:04:07",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "9 active",
+      "traffic": "10 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "19",
+      "val": "20",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "3",
-      "color": "orange"
+      "val": "4",
+      "color": "green"
     },
     "Active (7d)": {
-      "val": "9",
+      "val": "10",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "209",
+      "val": "213",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "22",
+      "val": "26",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "46,518",
+      "val": "47,968",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "1h 34m",
+      "val": "0h 40m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "207",
+      "val": "210",
       "color": "orange"
     },
     "Food Database": {
@@ -108,7 +108,7 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 104,
+      "logs": 105,
       "joined": "2026/03/06",
       "lastActive": "2026-03-11",
       "goal": 1999,
@@ -134,7 +134,7 @@
     {
       "name": "Mineen",
       "phone": "2783****590",
-      "logs": 21,
+      "logs": 22,
       "joined": "2026/03/04",
       "lastActive": "2026-03-11",
       "goal": 1377,
@@ -231,6 +231,19 @@
       "goal": 2701,
       "age": 21,
       "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Yael",
+      "phone": "2772****984",
+      "logs": 2,
+      "joined": "2026/03/11",
+      "lastActive": "2026-03-11",
+      "goal": 2514,
+      "age": 37,
+      "gender": "female",
       "email": "",
       "premium": false,
       "active7d": true
