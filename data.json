@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/11, 22:04:10",
+  "updated": "2026/03/12, 00:13:39",
   "projects": [
     {
       "name": "FitSorted",
@@ -60,7 +60,7 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "27",
+      "val": "28",
       "color": "green"
     },
     "Active (24h)": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "3h 36m",
+      "val": "5h 46m",
       "color": "blue"
     },
     "Restarts": {
@@ -443,6 +443,18 @@
       "gender": "male",
       "email": "",
       "premium": false
+    },
+    {
+      "name": "Brooklyn",
+      "phone": "2766****348",
+      "logs": 0,
+      "joined": "2026/03/11",
+      "lastActive": "never",
+      "goal": 2549,
+      "age": 22,
+      "gender": "male",
+      "email": "",
+      "premium": false
     }
   ],
   "fitsortedTopFoods": [
@@ -509,7 +521,7 @@
   ],
   "fitsortedErrors": [
     {
-      "count": 6,
+      "count": 5,
       "error": "SyntaxError: Unexpected token ','"
     },
     {
@@ -526,56 +538,56 @@
     },
     {
       "count": 1,
-      "error": "Food lookup error: Request failed with status code 429"
+      "error": "Food lookup error: Unexpected non-whitespace character after JSON at position 152 (line 9 column 2)"
     }
   ],
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "16",
-        "users": "14",
-        "pageviews": "15"
+        "sessions": "42",
+        "users": "39",
+        "pageviews": "41"
       },
       "weekly": {
-        "sessions": "16",
-        "users": "14",
-        "pageviews": "15"
+        "sessions": "58",
+        "users": "51",
+        "pageviews": "56"
       }
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "19",
-        "users": "17",
-        "pageviews": "18"
+        "sessions": "20",
+        "users": "16",
+        "pageviews": "19"
       },
       "weekly": {
-        "sessions": "112",
-        "users": "97",
-        "pageviews": "124"
+        "sessions": "119",
+        "users": "103",
+        "pageviews": "128"
       }
     },
     "BetSorted": {
       "daily": {
-        "sessions": "3",
-        "users": "3",
-        "pageviews": "5"
+        "sessions": "31",
+        "users": "20",
+        "pageviews": "59"
       },
       "weekly": {
-        "sessions": "33",
-        "users": "22",
-        "pageviews": "62"
+        "sessions": "31",
+        "users": "20",
+        "pageviews": "59"
       }
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "7",
-        "users": "6",
-        "pageviews": "7"
+        "sessions": "3",
+        "users": "3",
+        "pageviews": "2"
       },
       "weekly": {
-        "sessions": "39",
-        "users": "28",
-        "pageviews": "46"
+        "sessions": "33",
+        "users": "26",
+        "pageviews": "38"
       }
     },
     "CryptoCasinoSorted": {
