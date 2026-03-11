@@ -109,9 +109,62 @@ function render(d) {
     `).join('')}
   </div>`;
 
-  // FitSorted Stats
+  // FitSorted Live Stats (from fitsorted-stats.json)
+  try {
+    const fsRes = await fetch('fitsorted-stats.json?' + Date.now());
+    const fs = await fsRes.json();
+    html += `<div class="card">
+      <h2><span class="dot" style="background:var(--green)"></span>FitSorted Live</h2>
+      <div class="stat-row"><span>Total Users</span><span class="stat-val green">${fs.totalUsers}</span></div>
+      <div class="stat-row"><span>Signups Today</span><span class="stat-val blue">${fs.signupsToday}</span></div>
+      <div class="stat-row"><span>Signups This Week</span><span class="stat-val purple">${fs.signupsThisWeek}</span></div>
+      <div class="stat-row"><span>Active Today</span><span class="stat-val orange">${fs.activeToday}</span></div>
+      <div class="stat-row"><span>Active This Week</span><span class="stat-val orange">${fs.activeWeek}</span></div>
+      <div class="stat-row"><span>Food Logs Today</span><span class="stat-val blue">${fs.logsToday}</span></div>
+      <div class="stat-row"><span>Total Logs All Time</span><span class="stat-val green">${fs.totalLogsAllTime.toLocaleString()}</span></div>
+      <div class="stat-row"><span>Pro Users</span><span class="stat-val green">${fs.proUsers}</span></div>
+      <div class="stat-row"><span style="color:var(--muted);font-size:0.75rem">Updated ${new Date(fs.updatedAt).toLocaleTimeString('en-ZA')}</span><span></span></div>
+    </div>`;
+    
+    // Recent signups card
+    if (fs.recentSignups && fs.recentSignups.length > 0) {
+      html += `<div class="card">
+        <h2><span class="dot" style="background:var(--blue)"></span>Recent Signups</h2>
+        ${fs.recentSignups.map(u => {
+          const when = u.created ? new Date(u.created).toLocaleDateString('en-ZA', {day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'}) : '?';
+          return `<div class="stat-row">
+            <span>${u.name} ${u.setup ? '✅' : '⏳'}</span>
+            <span class="stat-val" style="color:var(--muted);font-size:0.8rem">${when}</span>
+          </div>`;
+        }).join('')}
+      </div>`;
+    }
+    
+    // Signup chart
+    if (fs.signupsByDay) {
+      const days = Object.entries(fs.signupsByDay).sort((a,b) => a[0].localeCompare(b[0]));
+      const maxSignups = Math.max(...days.map(d => d[1]));
+      html += `<div class="card">
+        <h2><span class="dot" style="background:var(--purple)"></span>Signups by Day</h2>
+        ${days.map(([day, count]) => {
+          const pct = Math.round((count / maxSignups) * 100);
+          const label = new Date(day + 'T12:00:00').toLocaleDateString('en-ZA', {weekday:'short',day:'numeric',month:'short'});
+          return `<div style="display:flex;align-items:center;gap:10px;padding:4px 0;font-size:0.85rem;">
+            <span style="width:90px;color:var(--muted)">${label}</span>
+            <div style="flex:1;background:var(--border);border-radius:4px;height:20px;overflow:hidden">
+              <div style="width:${pct}%;background:var(--green);height:100%;border-radius:4px;min-width:2px"></div>
+            </div>
+            <span style="width:24px;text-align:right;font-weight:600;color:var(--green)">${count}</span>
+          </div>`;
+        }).join('')}
+      </div>`;
+    }
+  } catch(e) { console.log('No FitSorted live stats'); }
+
+  // FitSorted Stats (from data.json fallback)
+  if (d.fitsorted) {
   html += `<div class="card">
-    <h2><span class="dot" style="background:var(--green)"></span>FitSorted</h2>
+    <h2><span class="dot" style="background:var(--green)"></span>FitSorted Details</h2>
     ${Object.entries(d.fitsorted).map(([k, v]) => `
       <div class="stat-row">
         <span>${k}</span>
@@ -119,6 +172,7 @@ function render(d) {
       </div>
     `).join('')}
   </div>`;
+  }
 
   // FitSorted Users
   if (d.fitsortedUsers && d.fitsortedUsers.length > 0) {
