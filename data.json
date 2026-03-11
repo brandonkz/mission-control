@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/11, 06:04:02",
+  "updated": "2026/03/11, 08:04:01",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "8 active",
+      "traffic": "9 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "3",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "8",
+      "val": "9",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "187",
+      "val": "199",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
-      "color": "orange"
+      "val": "12",
+      "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "43,444",
+      "val": "44,923",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "3h 3m",
+      "val": "0h 35m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "199",
+      "val": "200",
       "color": "orange"
     },
     "Food Database": {
@@ -108,9 +108,9 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 88,
+      "logs": 95,
       "joined": "2026/03/06",
-      "lastActive": "2026-03-10",
+      "lastActive": "2026-03-11",
       "goal": 1999,
       "age": 38,
       "gender": "male",
@@ -134,9 +134,9 @@
     {
       "name": "Mineen",
       "phone": "2783****590",
-      "logs": 20,
+      "logs": 21,
       "joined": "2026/03/04",
-      "lastActive": "2026-03-10",
+      "lastActive": "2026-03-11",
       "goal": 1377,
       "age": 61,
       "gender": "female",
@@ -205,6 +205,19 @@
       "goal": 1247,
       "age": 35,
       "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Avi",
+      "phone": "9725****354",
+      "logs": 4,
+      "joined": "2026/03/09",
+      "lastActive": "2026-03-11",
+      "goal": 1867,
+      "age": 37,
+      "gender": "male",
       "email": "",
       "premium": false,
       "active7d": true
@@ -309,18 +322,6 @@
       "premium": false
     },
     {
-      "name": "Avi",
-      "phone": "9725****354",
-      "logs": 0,
-      "joined": "2026/03/09",
-      "lastActive": "never",
-      "goal": 1867,
-      "age": 37,
-      "gender": "male",
-      "email": "",
-      "premium": false
-    },
-    {
       "name": "Unknown",
       "phone": "2782****193",
       "logs": 0,
@@ -351,15 +352,15 @@
       6
     ],
     [
+      "black coffee 1 cup",
+      5
+    ],
+    [
       "toast (white bread, 2 slices) (2 slices)",
       5
     ],
     [
       "coffee with almond milk",
-      4
-    ],
-    [
-      "black coffee 1 cup",
       4
     ],
     [
@@ -379,7 +380,19 @@
       4
     ],
     [
+      "black coffee",
+      3
+    ],
+    [
+      "1x banana",
+      3
+    ],
+    [
       "braai steak (sirloin, 150g) (150g)",
+      3
+    ],
+    [
+      "3x scrambled eggs",
       3
     ],
     [
@@ -391,19 +404,7 @@
       2
     ],
     [
-      "black coffee",
-      2
-    ],
-    [
       "hamburger",
-      2
-    ],
-    [
-      "mcdonald's hamburger",
-      2
-    ],
-    [
-      "mcchicken",
       2
     ]
   ],
