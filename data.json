@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/11, 18:04:02",
+  "updated": "2026/03/11, 20:04:05",
   "projects": [
     {
       "name": "FitSorted",
@@ -60,7 +60,7 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "24",
+      "val": "25",
       "color": "green"
     },
     "Active (24h)": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "218",
+      "val": "221",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "31",
+      "val": "34",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "49,668",
+      "val": "51,118",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "0h 34m",
+      "val": "1h 36m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "235",
+      "val": "236",
       "color": "orange"
     },
     "Food Database": {
@@ -184,6 +184,19 @@
       "active7d": false
     },
     {
+      "name": "Avi",
+      "phone": "9725****354",
+      "logs": 7,
+      "joined": "2026/03/09",
+      "lastActive": "2026-03-11",
+      "goal": 1867,
+      "age": 37,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Shane",
       "phone": "2771****067",
       "logs": 6,
@@ -210,19 +223,6 @@
       "active7d": true
     },
     {
-      "name": "Avi",
-      "phone": "9725****354",
-      "logs": 5,
-      "joined": "2026/03/09",
-      "lastActive": "2026-03-11",
-      "goal": 1867,
-      "age": 37,
-      "gender": "male",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
       "name": "C",
       "phone": "1774****855",
       "logs": 3,
@@ -236,6 +236,19 @@
       "active7d": true
     },
     {
+      "name": "Shivali",
+      "phone": "2764****003",
+      "logs": 3,
+      "joined": "2026/03/11",
+      "lastActive": "2026-03-11",
+      "goal": 1184,
+      "age": 19,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Yael",
       "phone": "2772****984",
       "logs": 2,
@@ -243,19 +256,6 @@
       "lastActive": "2026-03-11",
       "goal": 2514,
       "age": 37,
-      "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Shivali",
-      "phone": "2764****003",
-      "logs": 2,
-      "joined": "2026/03/11",
-      "lastActive": "2026-03-11",
-      "goal": 1184,
-      "age": 19,
       "gender": "female",
       "email": "",
       "premium": false,
@@ -398,6 +398,18 @@
     {
       "name": "Unknown",
       "phone": "2763****178",
+      "logs": 0,
+      "joined": "2026/03/11",
+      "lastActive": "never",
+      "goal": "?",
+      "age": "",
+      "gender": "",
+      "email": "",
+      "premium": false
+    },
+    {
+      "name": "Mia",
+      "phone": "2783****798",
       "logs": 0,
       "joined": "2026/03/11",
       "lastActive": "never",
