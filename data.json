@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/11, 08:04:01",
+  "updated": "2026/03/11, 09:32:43",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "199",
+      "val": "201",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "12",
+      "val": "14",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "44,923",
+      "val": "45,203",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "0h 35m",
+      "val": "1h 12m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "200",
+      "val": "201",
       "color": "orange"
     },
     "Food Database": {
@@ -108,7 +108,7 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 95,
+      "logs": 96,
       "joined": "2026/03/06",
       "lastActive": "2026-03-11",
       "goal": 1999,
@@ -212,7 +212,7 @@
     {
       "name": "Avi",
       "phone": "9725****354",
-      "logs": 4,
+      "logs": 5,
       "joined": "2026/03/09",
       "lastActive": "2026-03-11",
       "goal": 1867,
@@ -445,14 +445,14 @@
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "18",
-        "users": "16",
-        "pageviews": "16"
+        "sessions": "19",
+        "users": "17",
+        "pageviews": "18"
       },
       "weekly": {
-        "sessions": "111",
-        "users": "96",
-        "pageviews": "122"
+        "sessions": "112",
+        "users": "97",
+        "pageviews": "124"
       }
     },
     "BetSorted": {
@@ -471,12 +471,12 @@
       "daily": {
         "sessions": "7",
         "users": "6",
-        "pageviews": "6"
+        "pageviews": "7"
       },
       "weekly": {
         "sessions": "39",
         "users": "28",
-        "pageviews": "45"
+        "pageviews": "46"
       }
     },
     "CryptoCasinoSorted": {
@@ -678,5 +678,162 @@
     "Get more deposit addresses from Arkham",
     "Build React Native companion app (scope ready)",
     "Lock in Bloomberg terminal tweet card style in daily cron"
+  ],
+  "quickLinks": [
+    {
+      "section": "Content & Social",
+      "links": [
+        {
+          "name": "Postiz Dashboard",
+          "url": "https://app.postiz.com",
+          "icon": "📱"
+        },
+        {
+          "name": "X — @alphaxasset",
+          "url": "https://x.com/alphaxasset",
+          "icon": "🎰"
+        },
+        {
+          "name": "X — @brandonkz",
+          "url": "https://x.com/brandonkz",
+          "icon": "🐦"
+        },
+        {
+          "name": "LinkedIn — Brandon",
+          "url": "https://linkedin.com/in/katzbrandon",
+          "icon": "💼"
+        },
+        {
+          "name": "Instagram — FitSorted",
+          "url": "https://instagram.com/fitsorted",
+          "icon": "📸"
+        }
+      ]
+    },
+    {
+      "section": "Analytics & Data",
+      "links": [
+        {
+          "name": "Google Analytics",
+          "url": "https://analytics.google.com",
+          "icon": "📊"
+        },
+        {
+          "name": "Google Search Console",
+          "url": "https://search.google.com/search-console",
+          "icon": "🔍"
+        },
+        {
+          "name": "Arkham Intelligence",
+          "url": "https://platform.arkhamintelligence.com",
+          "icon": "🕵️"
+        },
+        {
+          "name": "Etherscan",
+          "url": "https://etherscan.io",
+          "icon": "⛓️"
+        },
+        {
+          "name": "DeBank",
+          "url": "https://debank.com",
+          "icon": "💰"
+        }
+      ]
+    },
+    {
+      "section": "Sites",
+      "links": [
+        {
+          "name": "BetSorted",
+          "url": "https://betsorted.co.za",
+          "icon": "⚽"
+        },
+        {
+          "name": "CryptoCasinoSorted",
+          "url": "https://cryptocasinosorted.com",
+          "icon": "🎰"
+        },
+        {
+          "name": "FitSorted",
+          "url": "https://fitsorted.co.za",
+          "icon": "🏋️"
+        },
+        {
+          "name": "RetirementSorted",
+          "url": "https://retirementsorted.co.za",
+          "icon": "🏖️"
+        },
+        {
+          "name": "PaidProperly",
+          "url": "https://paidproperly.co.za",
+          "icon": "💸"
+        },
+        {
+          "name": "DeFi Yield DEX",
+          "url": "https://dex.defiyield.live",
+          "icon": "📈"
+        }
+      ]
+    },
+    {
+      "section": "GitHub Repos",
+      "links": [
+        {
+          "name": "BetSorted",
+          "url": "https://github.com/brandonkz/betsorted",
+          "icon": "⚽"
+        },
+        {
+          "name": "CryptoCasinoSorted",
+          "url": "https://github.com/brandonkz/crypto-casinos",
+          "icon": "🎰"
+        },
+        {
+          "name": "FitSorted",
+          "url": "https://github.com/brandonkz/fitsorted",
+          "icon": "🏋️"
+        },
+        {
+          "name": "RetirementSorted",
+          "url": "https://github.com/brandonkz/retirementsorted",
+          "icon": "🏖️"
+        },
+        {
+          "name": "PaidProperly",
+          "url": "https://github.com/brandonkz/paidproperly",
+          "icon": "💸"
+        }
+      ]
+    },
+    {
+      "section": "Admin & Tools",
+      "links": [
+        {
+          "name": "Cloudflare",
+          "url": "https://dash.cloudflare.com",
+          "icon": "☁️"
+        },
+        {
+          "name": "Supabase",
+          "url": "https://supabase.com/dashboard",
+          "icon": "🗄️"
+        },
+        {
+          "name": "PayFast",
+          "url": "https://merchant.payfast.co.za",
+          "icon": "💳"
+        },
+        {
+          "name": "XTP Dashboard",
+          "url": "https://brandonkz.github.io/xtp/",
+          "icon": "🎮"
+        },
+        {
+          "name": "The Odds API",
+          "url": "https://the-odds-api.com",
+          "icon": "🎲"
+        }
+      ]
+    }
   ]
 }

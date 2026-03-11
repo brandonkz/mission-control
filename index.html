@@ -285,6 +285,25 @@ function render(d) {
     </div>
   </div>`;
 
+  // Quick Links
+  if (d.quickLinks && d.quickLinks.length > 0) {
+    html += `<div class="card full-width">
+      <h2><span class="dot" style="background:var(--green)"></span>Quick Links</h2>
+      <div class="grid" style="grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px;">
+      ${d.quickLinks.map(section => `
+        <div style="padding: 8px 0;">
+          <div style="font-size: 0.8rem; color: var(--muted); font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 8px;">${section.section}</div>
+          ${section.links.map(l => `
+            <div style="padding: 5px 0;">
+              <a href="${l.url}" target="_blank" style="font-size: 0.9rem;">${l.icon} ${l.name}</a>
+            </div>
+          `).join('')}
+        </div>
+      `).join('')}
+      </div>
+    </div>`;
+  }
+
   // TODOs
   html += `<div class="card full-width">
     <h2><span class="dot" style="background:var(--red)"></span>Open TODOs</h2>

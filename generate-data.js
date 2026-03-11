@@ -277,6 +277,46 @@ try {
   }
 } catch (e) { console.error('GA error:', e.message); }
 
+// ── Quick Links ──
+const quickLinks = [
+  { section: "Content & Social", links: [
+    { name: "Postiz Dashboard", url: "https://app.postiz.com", icon: "📱" },
+    { name: "X — @alphaxasset", url: "https://x.com/alphaxasset", icon: "🎰" },
+    { name: "X — @brandonkz", url: "https://x.com/brandonkz", icon: "🐦" },
+    { name: "LinkedIn — Brandon", url: "https://linkedin.com/in/katzbrandon", icon: "💼" },
+    { name: "Instagram — FitSorted", url: "https://instagram.com/fitsorted", icon: "📸" },
+  ]},
+  { section: "Analytics & Data", links: [
+    { name: "Google Analytics", url: "https://analytics.google.com", icon: "📊" },
+    { name: "Google Search Console", url: "https://search.google.com/search-console", icon: "🔍" },
+    { name: "Arkham Intelligence", url: "https://platform.arkhamintelligence.com", icon: "🕵️" },
+    { name: "Etherscan", url: "https://etherscan.io", icon: "⛓️" },
+    { name: "DeBank", url: "https://debank.com", icon: "💰" },
+  ]},
+  { section: "Sites", links: [
+    { name: "BetSorted", url: "https://betsorted.co.za", icon: "⚽" },
+    { name: "CryptoCasinoSorted", url: "https://cryptocasinosorted.com", icon: "🎰" },
+    { name: "FitSorted", url: "https://fitsorted.co.za", icon: "🏋️" },
+    { name: "RetirementSorted", url: "https://retirementsorted.co.za", icon: "🏖️" },
+    { name: "PaidProperly", url: "https://paidproperly.co.za", icon: "💸" },
+    { name: "DeFi Yield DEX", url: "https://dex.defiyield.live", icon: "📈" },
+  ]},
+  { section: "GitHub Repos", links: [
+    { name: "BetSorted", url: "https://github.com/brandonkz/betsorted", icon: "⚽" },
+    { name: "CryptoCasinoSorted", url: "https://github.com/brandonkz/crypto-casinos", icon: "🎰" },
+    { name: "FitSorted", url: "https://github.com/brandonkz/fitsorted", icon: "🏋️" },
+    { name: "RetirementSorted", url: "https://github.com/brandonkz/retirementsorted", icon: "🏖️" },
+    { name: "PaidProperly", url: "https://github.com/brandonkz/paidproperly", icon: "💸" },
+  ]},
+  { section: "Admin & Tools", links: [
+    { name: "Cloudflare", url: "https://dash.cloudflare.com", icon: "☁️" },
+    { name: "Supabase", url: "https://supabase.com/dashboard", icon: "🗄️" },
+    { name: "PayFast", url: "https://merchant.payfast.co.za", icon: "💳" },
+    { name: "XTP Dashboard", url: "https://brandonkz.github.io/xtp/", icon: "🎮" },
+    { name: "The Odds API", url: "https://the-odds-api.com", icon: "🎲" },
+  ]},
+];
+
 // ── Output ──
 const data = {
   updated: new Date().toLocaleString('en-ZA', { timeZone: 'Africa/Johannesburg' }),
@@ -292,6 +332,7 @@ const data = {
   apiCredits,
   ideas,
   todos,
+  quickLinks,
 };
 
 fs.writeFileSync(OUT, JSON.stringify(data, null, 2));
