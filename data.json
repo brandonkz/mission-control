@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/11, 09:32:43",
+  "updated": "2026/03/11, 09:47:02",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "1h 12m",
+      "val": "1h 27m",
       "color": "blue"
     },
     "Restarts": {
@@ -680,6 +680,41 @@
     "Lock in Bloomberg terminal tweet card style in daily cron"
   ],
   "quickLinks": [
+    {
+      "section": "Content Calendars",
+      "links": [
+        {
+          "name": "FitSorted Content Calendar",
+          "url": "https://fitsorted.co.za/content-calendar.html",
+          "icon": "🏋️"
+        },
+        {
+          "name": "Orderly Content Hub",
+          "url": "https://brandonkz.github.io/orderly-dashboard/hub.html",
+          "icon": "📋"
+        },
+        {
+          "name": "Orderly Dashboard",
+          "url": "https://brandonkz.github.io/orderly-dashboard/dashboard.html",
+          "icon": "📊"
+        },
+        {
+          "name": "Orderly War Room",
+          "url": "https://brandonkz.github.io/orderly-dashboard/warroom.html",
+          "icon": "⚔️"
+        },
+        {
+          "name": "Orderly Tasks",
+          "url": "https://brandonkz.github.io/orderly-dashboard/tasks.html",
+          "icon": "✅"
+        },
+        {
+          "name": "BetSorted Content",
+          "url": "https://brandonkz.github.io/orderly-dashboard/betsorted.html",
+          "icon": "⚽"
+        }
+      ]
+    },
     {
       "section": "Content & Social",
       "links": [

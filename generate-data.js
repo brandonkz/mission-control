@@ -279,6 +279,14 @@ try {
 
 // ── Quick Links ──
 const quickLinks = [
+  { section: "Content Calendars", links: [
+    { name: "FitSorted Content Calendar", url: "https://fitsorted.co.za/content-calendar.html", icon: "🏋️" },
+    { name: "Orderly Content Hub", url: "https://brandonkz.github.io/orderly-dashboard/hub.html", icon: "📋" },
+    { name: "Orderly Dashboard", url: "https://brandonkz.github.io/orderly-dashboard/dashboard.html", icon: "📊" },
+    { name: "Orderly War Room", url: "https://brandonkz.github.io/orderly-dashboard/warroom.html", icon: "⚔️" },
+    { name: "Orderly Tasks", url: "https://brandonkz.github.io/orderly-dashboard/tasks.html", icon: "✅" },
+    { name: "BetSorted Content", url: "https://brandonkz.github.io/orderly-dashboard/betsorted.html", icon: "⚽" },
+  ]},
   { section: "Content & Social", links: [
     { name: "Postiz Dashboard", url: "https://app.postiz.com", icon: "📱" },
     { name: "X — @alphaxasset", url: "https://x.com/alphaxasset", icon: "🎰" },
