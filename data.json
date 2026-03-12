@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/12, 08:04:01",
+  "updated": "2026/03/12, 10:04:02",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "10 active",
+      "traffic": "11 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "1",
-      "color": "orange"
+      "val": "4",
+      "color": "green"
     },
     "Active (7d)": {
-      "val": "10",
+      "val": "11",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "236",
+      "val": "242",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "1",
+      "val": "7",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "54,429",
+      "val": "56,079",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "5h 3m",
+      "val": "0h 23m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "239",
+      "val": "250",
       "color": "orange"
     },
     "Food Database": {
@@ -108,9 +108,9 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 110,
+      "logs": 113,
       "joined": "2026/03/06",
-      "lastActive": "2026-03-11",
+      "lastActive": "2026-03-12",
       "goal": 1999,
       "age": 38,
       "gender": "male",
@@ -173,9 +173,9 @@
     {
       "name": "Avi",
       "phone": "9725****354",
-      "logs": 8,
+      "logs": 9,
       "joined": "2026/03/09",
-      "lastActive": "2026-03-11",
+      "lastActive": "2026-03-12",
       "goal": 1867,
       "age": 37,
       "gender": "male",
@@ -270,6 +270,19 @@
       "goal": 2514,
       "age": 37,
       "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Brooklyn",
+      "phone": "2766****348",
+      "logs": 2,
+      "joined": "2026/03/11",
+      "lastActive": "2026-03-12",
+      "goal": 2549,
+      "age": 22,
+      "gender": "male",
       "email": "",
       "premium": false,
       "active7d": true
@@ -445,18 +458,6 @@
       "premium": false
     },
     {
-      "name": "Brooklyn",
-      "phone": "2766****348",
-      "logs": 0,
-      "joined": "2026/03/11",
-      "lastActive": "never",
-      "goal": 2549,
-      "age": 22,
-      "gender": "male",
-      "email": "",
-      "premium": false
-    },
-    {
       "name": "Unknown",
       "phone": "2782****854",
       "logs": 0,
@@ -500,6 +501,10 @@
     ],
     [
       "black coffee 1 cup",
+      5
+    ],
+    [
+      "margarita cocktail (1 glass (250ml))",
       5
     ],
     [
@@ -549,10 +554,6 @@
     [
       "apple",
       3
-    ],
-    [
-      "avocado (1 medium) (1 medium)",
-      3
     ]
   ],
   "fitsortedErrors": [
@@ -566,28 +567,28 @@
     },
     {
       "count": 2,
+      "error": "Webhook error: msgLower is not defined ReferenceError: msgLower is not defined"
+    },
+    {
+      "count": 2,
       "error": "Webhook error: (user.customFoods || []).map is not a function TypeError: (user.customFoods || []).map is not a function"
     },
     {
       "count": 2,
       "error": "Coach error: Request failed with status code 429"
-    },
-    {
-      "count": 1,
-      "error": "Food lookup error: Unexpected non-whitespace character after JSON at position 152 (line 9 column 2)"
     }
   ],
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "52",
-        "users": "49",
-        "pageviews": "53"
+        "sessions": "58",
+        "users": "55",
+        "pageviews": "60"
       },
       "weekly": {
-        "sessions": "68",
-        "users": "61",
-        "pageviews": "68"
+        "sessions": "74",
+        "users": "67",
+        "pageviews": "75"
       }
     },
     "PaidProperly": {
