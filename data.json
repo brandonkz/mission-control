@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/12, 06:04:01",
+  "updated": "2026/03/12, 08:04:01",
   "projects": [
     {
       "name": "FitSorted",
@@ -60,11 +60,11 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "30",
+      "val": "31",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "1",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "235",
+      "val": "236",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "1",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "54,179",
+      "val": "54,429",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "3h 3m",
+      "val": "5h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -134,9 +134,9 @@
     {
       "name": "Mineen",
       "phone": "2783****590",
-      "logs": 22,
+      "logs": 23,
       "joined": "2026/03/04",
-      "lastActive": "2026-03-11",
+      "lastActive": "2026-03-12",
       "goal": 1377,
       "age": 61,
       "gender": "female",
@@ -469,14 +469,26 @@
       "premium": false
     },
     {
-      "name": "Unknown",
+      "name": "Clemmy",
       "phone": "2760****808",
       "logs": 0,
       "joined": "2026/03/12",
       "lastActive": "never",
-      "goal": "?",
-      "age": "",
-      "gender": "",
+      "goal": 3280,
+      "age": 43,
+      "gender": "male",
+      "email": "",
+      "premium": false
+    },
+    {
+      "name": "Caleigh",
+      "phone": "2776****602",
+      "logs": 0,
+      "joined": "2026/03/12",
+      "lastActive": "never",
+      "goal": 1512,
+      "age": 24,
+      "gender": "female",
       "email": "",
       "premium": false
     }
@@ -568,14 +580,14 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "51",
-        "users": "48",
-        "pageviews": "52"
+        "sessions": "52",
+        "users": "49",
+        "pageviews": "53"
       },
       "weekly": {
-        "sessions": "67",
-        "users": "60",
-        "pageviews": "67"
+        "sessions": "68",
+        "users": "61",
+        "pageviews": "68"
       }
     },
     "PaidProperly": {
