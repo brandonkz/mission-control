@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/12, 10:04:02",
+  "updated": "2026/03/12, 12:04:03",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "11 active",
+      "traffic": "13 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "31",
+      "val": "32",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "4",
+      "val": "6",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "11",
+      "val": "13",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "242",
+      "val": "248",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "7",
-      "color": "orange"
+      "val": "13",
+      "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "56,079",
+      "val": "57,647",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "0h 23m",
+      "val": "0h 17m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "250",
+      "val": "251",
       "color": "orange"
     },
     "Food Database": {
@@ -108,7 +108,7 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 113,
+      "logs": 114,
       "joined": "2026/03/06",
       "lastActive": "2026-03-12",
       "goal": 1999,
@@ -158,6 +158,19 @@
       "active7d": true
     },
     {
+      "name": "Avi",
+      "phone": "9725****354",
+      "logs": 10,
+      "joined": "2026/03/09",
+      "lastActive": "2026-03-12",
+      "goal": 1867,
+      "age": 37,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Unknown",
       "phone": "2783****111",
       "logs": 9,
@@ -169,19 +182,6 @@
       "email": "",
       "premium": false,
       "active7d": false
-    },
-    {
-      "name": "Avi",
-      "phone": "9725****354",
-      "logs": 9,
-      "joined": "2026/03/09",
-      "lastActive": "2026-03-12",
-      "goal": 1867,
-      "age": 37,
-      "gender": "male",
-      "email": "",
-      "premium": false,
-      "active7d": true
     },
     {
       "name": "Robyn",
@@ -262,6 +262,19 @@
       "active7d": true
     },
     {
+      "name": "Kelly",
+      "phone": "2769****046",
+      "logs": 3,
+      "joined": "2026/03/12",
+      "lastActive": "2026-03-12",
+      "goal": 2669,
+      "age": 36,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Yael",
       "phone": "2772****984",
       "logs": 2,
@@ -299,6 +312,19 @@
       "email": "",
       "premium": false,
       "active7d": false
+    },
+    {
+      "name": "Caleigh",
+      "phone": "2776****602",
+      "logs": 1,
+      "joined": "2026/03/12",
+      "lastActive": "2026-03-12",
+      "goal": 1512,
+      "age": 24,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
     },
     {
       "name": "Unknown",
@@ -478,18 +504,6 @@
       "goal": 3280,
       "age": 43,
       "gender": "male",
-      "email": "",
-      "premium": false
-    },
-    {
-      "name": "Caleigh",
-      "phone": "2776****602",
-      "logs": 0,
-      "joined": "2026/03/12",
-      "lastActive": "never",
-      "goal": 1512,
-      "age": 24,
-      "gender": "female",
       "email": "",
       "premium": false
     }
