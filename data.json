@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/13, 10:04:02",
+  "updated": "2026/03/13, 16:04:05",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "14 active",
+      "traffic": "16 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "37",
+      "val": "39",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "7",
+      "val": "11",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "14",
+      "val": "16",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "320",
+      "val": "358",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "18",
+      "val": "56",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "72,458",
+      "val": "83,100",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "0h 1m",
+      "val": "4h 35m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "267",
+      "val": "18",
       "color": "orange"
     },
     "Food Database": {
@@ -108,7 +108,7 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 125,
+      "logs": 147,
       "joined": "2026/03/06",
       "lastActive": "2026-03-13",
       "goal": 1999,
@@ -134,13 +134,26 @@
     {
       "name": "Mineen",
       "phone": "2783****590",
-      "logs": 25,
+      "logs": 28,
       "joined": "2026/03/04",
       "lastActive": "2026-03-13",
       "goal": 1377,
       "age": 61,
       "gender": "female",
       "email": "mineenk@gmail.com",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Avi",
+      "phone": "9725****354",
+      "logs": 23,
+      "joined": "2026/03/09",
+      "lastActive": "2026-03-13",
+      "goal": 1867,
+      "age": 37,
+      "gender": "male",
+      "email": "avimarko29@gmail.com",
       "premium": false,
       "active7d": true
     },
@@ -154,19 +167,6 @@
       "age": 35,
       "gender": "female",
       "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Avi",
-      "phone": "9725****354",
-      "logs": 19,
-      "joined": "2026/03/09",
-      "lastActive": "2026-03-13",
-      "goal": 1867,
-      "age": 37,
-      "gender": "male",
-      "email": "avimarko29@gmail.com",
       "premium": false,
       "active7d": true
     },
@@ -186,9 +186,9 @@
     {
       "name": "Jarred",
       "phone": "2782****932",
-      "logs": 12,
+      "logs": 13,
       "joined": "2026/03/12",
-      "lastActive": "2026-03-12",
+      "lastActive": "2026-03-13",
       "goal": 1648,
       "age": 35,
       "gender": "male",
@@ -277,12 +277,25 @@
     {
       "name": "Brooklyn",
       "phone": "2766****348",
-      "logs": 4,
+      "logs": 5,
       "joined": "2026/03/11",
       "lastActive": "2026-03-13",
       "goal": 2549,
       "age": 22,
       "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "S",
+      "phone": "2782****069",
+      "logs": 5,
+      "joined": "2026/03/12",
+      "lastActive": "2026-03-13",
+      "goal": 940,
+      "age": 39,
+      "gender": "female",
       "email": "",
       "premium": false,
       "active7d": true
@@ -296,6 +309,19 @@
       "goal": 1779,
       "age": 36,
       "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Mzee",
+      "phone": "2773****352",
+      "logs": 4,
+      "joined": "2026/03/13",
+      "lastActive": "2026-03-13",
+      "goal": 3456,
+      "age": 18,
+      "gender": "male",
       "email": "",
       "premium": false,
       "active7d": true
@@ -340,19 +366,6 @@
       "active7d": true
     },
     {
-      "name": "S",
-      "phone": "2782****069",
-      "logs": 3,
-      "joined": "2026/03/12",
-      "lastActive": "2026-03-12",
-      "goal": 940,
-      "age": 39,
-      "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
       "name": "Unknown",
       "phone": "2784****566",
       "logs": 1,
@@ -364,6 +377,19 @@
       "email": "",
       "premium": false,
       "active7d": false
+    },
+    {
+      "name": "Joseph",
+      "phone": "2782****126",
+      "logs": 1,
+      "joined": "2026/03/13",
+      "lastActive": "2026-03-13",
+      "goal": 2828,
+      "age": 31,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
     },
     {
       "name": "Unknown",
@@ -573,6 +599,10 @@
   ],
   "fitsortedTopFoods": [
     [
+      "scrambled eggs (2 eggs) (2 eggs)",
+      14
+    ],
+    [
       "coffee with milk (1 cup) (1 cup)",
       7
     ],
@@ -601,7 +631,19 @@
       4
     ],
     [
+      "barebells caramel choco protein bar",
+      4
+    ],
+    [
+      "3x scrambled eggs",
+      4
+    ],
+    [
       "coffee",
+      4
+    ],
+    [
+      "apple",
       4
     ],
     [
@@ -615,44 +657,16 @@
     [
       "1x banana",
       3
-    ],
-    [
-      "braai steak (sirloin, 150g) (150g)",
-      3
-    ],
-    [
-      "barebells caramel choco protein bar",
-      3
-    ],
-    [
-      "3x scrambled eggs",
-      3
-    ],
-    [
-      "apple",
-      3
     ]
   ],
   "fitsortedErrors": [
     {
-      "count": 4,
-      "error": "Workout lookup error: Request failed with status code 429"
+      "count": 6,
+      "error": "SyntaxError: Identifier 'fs' has already been declared"
     },
     {
-      "count": 4,
-      "error": "SyntaxError: Unexpected token ','"
-    },
-    {
-      "count": 2,
-      "error": "Webhook error: msgLower is not defined ReferenceError: msgLower is not defined"
-    },
-    {
-      "count": 2,
-      "error": "Webhook error: (user.customFoods || []).map is not a function TypeError: (user.customFoods || []).map is not a function"
-    },
-    {
-      "count": 2,
-      "error": "Coach error: Request failed with status code 429"
+      "count": 1,
+      "error": "/Users/brandonkatz/.pm2/logs/fitsorted-error.log last 100 lines:"
     }
   ],
   "analytics": {
