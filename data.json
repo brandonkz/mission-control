@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/13, 18:04:01",
+  "updated": "2026/03/13, 20:04:04",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "18 active",
+      "traffic": "19 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "42",
+      "val": "43",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "13",
+      "val": "14",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "18",
+      "val": "19",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "360",
+      "val": "373",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "58",
+      "val": "71",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "83,520",
+      "val": "85,945",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "6h 35m",
+      "val": "8h 35m",
       "color": "blue"
     },
     "Restarts": {
@@ -147,7 +147,7 @@
     {
       "name": "Avi",
       "phone": "9725****354",
-      "logs": 23,
+      "logs": 25,
       "joined": "2026/03/09",
       "lastActive": "2026-03-13",
       "goal": 1867,
@@ -173,7 +173,7 @@
     {
       "name": "Yael",
       "phone": "2772****984",
-      "logs": 13,
+      "logs": 19,
       "joined": "2026/03/11",
       "lastActive": "2026-03-13",
       "goal": 2514,
@@ -262,6 +262,19 @@
       "active7d": false
     },
     {
+      "name": "Meg",
+      "phone": "2783****932",
+      "logs": 6,
+      "joined": "2026/03/13",
+      "lastActive": "2026-03-13",
+      "goal": 1779,
+      "age": 36,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Unknown",
       "phone": "2782****201",
       "logs": 5,
@@ -301,22 +314,9 @@
       "active7d": true
     },
     {
-      "name": "Meg",
-      "phone": "2783****932",
-      "logs": 4,
-      "joined": "2026/03/13",
-      "lastActive": "2026-03-13",
-      "goal": 1779,
-      "age": 36,
-      "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
       "name": "Mzee",
       "phone": "2773****352",
-      "logs": 4,
+      "logs": 5,
       "joined": "2026/03/13",
       "lastActive": "2026-03-13",
       "goal": 3456,
@@ -360,6 +360,19 @@
       "lastActive": "2026-03-12",
       "goal": 1512,
       "age": 24,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Nkay",
+      "phone": "2783****782",
+      "logs": 2,
+      "joined": "2026/03/13",
+      "lastActive": "2026-03-13",
+      "goal": 2153,
+      "age": 33,
       "gender": "female",
       "email": "",
       "premium": false,
@@ -623,14 +636,14 @@
       "premium": false
     },
     {
-      "name": "Unknown",
+      "name": "Dorian",
       "phone": "2773****768",
       "logs": 0,
       "joined": "2026/03/13",
       "lastActive": "never",
-      "goal": "?",
-      "age": "",
-      "gender": "",
+      "goal": 3506,
+      "age": 33,
+      "gender": "male",
       "email": "",
       "premium": false
     }
@@ -701,6 +714,10 @@
     {
       "count": 6,
       "error": "SyntaxError: Identifier 'fs' has already been declared"
+    },
+    {
+      "count": 1,
+      "error": "Food lookup error: Cannot read properties of null (reading 'toLowerCase')"
     },
     {
       "count": 1,
