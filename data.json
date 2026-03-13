@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/13, 22:04:02",
+  "updated": "2026/03/14, 00:05:22",
   "projects": [
     {
       "name": "FitSorted",
@@ -60,7 +60,7 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "44",
+      "val": "45",
       "color": "green"
     },
     "Active (24h)": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "10h 35m",
+      "val": "12h 36m",
       "color": "blue"
     },
     "Restarts": {
@@ -659,6 +659,18 @@
       "gender": "male",
       "email": "",
       "premium": false
+    },
+    {
+      "name": "Talisha",
+      "phone": "2773****538",
+      "logs": 0,
+      "joined": "2026/03/13",
+      "lastActive": "never",
+      "goal": 1851,
+      "age": 27,
+      "gender": "female",
+      "email": "",
+      "premium": false
     }
   ],
   "fitsortedTopFoods": [
@@ -745,49 +757,49 @@
     "FitSorted": {
       "daily": {
         "sessions": "60",
-        "users": "55",
-        "pageviews": "62"
+        "users": "57",
+        "pageviews": "56"
       },
       "weekly": {
-        "sessions": "134",
-        "users": "120",
-        "pageviews": "137"
+        "sessions": "194",
+        "users": "175",
+        "pageviews": "193"
       }
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "15",
-        "users": "13",
-        "pageviews": "16"
+        "sessions": "12",
+        "users": "11",
+        "pageviews": "12"
       },
       "weekly": {
         "sessions": "110",
-        "users": "94",
+        "users": "91",
         "pageviews": "112"
       }
     },
     "BetSorted": {
       "daily": {
-        "sessions": "20",
-        "users": "15",
-        "pageviews": "47"
+        "sessions": "3",
+        "users": "1",
+        "pageviews": "36"
       },
       "weekly": {
-        "sessions": "20",
-        "users": "15",
-        "pageviews": "47"
+        "sessions": "14",
+        "users": "6",
+        "pageviews": "69"
       }
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "4",
-        "users": "4",
-        "pageviews": "4"
+        "sessions": "27",
+        "users": "22",
+        "pageviews": "29"
       },
       "weekly": {
-        "sessions": "29",
-        "users": "23",
-        "pageviews": "30"
+        "sessions": "27",
+        "users": "22",
+        "pageviews": "29"
       }
     },
     "CryptoCasinoSorted": {
