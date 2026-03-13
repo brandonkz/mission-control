@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/13, 08:04:22",
+  "updated": "2026/03/13, 10:04:02",
   "projects": [
     {
       "name": "FitSorted",
@@ -60,12 +60,12 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "36",
+      "val": "37",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "2",
-      "color": "orange"
+      "val": "7",
+      "color": "green"
     },
     "Active (7d)": {
       "val": "14",
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "304",
+      "val": "320",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "2",
-      "color": "orange"
+      "val": "18",
+      "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "70,308",
+      "val": "72,458",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "0h 6m",
+      "val": "0h 1m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "259",
+      "val": "267",
       "color": "orange"
     },
     "Food Database": {
@@ -108,7 +108,7 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 124,
+      "logs": 125,
       "joined": "2026/03/06",
       "lastActive": "2026-03-13",
       "goal": 1999,
@@ -134,9 +134,9 @@
     {
       "name": "Mineen",
       "phone": "2783****590",
-      "logs": 23,
+      "logs": 25,
       "joined": "2026/03/04",
-      "lastActive": "2026-03-12",
+      "lastActive": "2026-03-13",
       "goal": 1377,
       "age": 61,
       "gender": "female",
@@ -160,13 +160,26 @@
     {
       "name": "Avi",
       "phone": "9725****354",
-      "logs": 14,
+      "logs": 19,
       "joined": "2026/03/09",
-      "lastActive": "2026-03-12",
+      "lastActive": "2026-03-13",
       "goal": 1867,
       "age": 37,
       "gender": "male",
       "email": "avimarko29@gmail.com",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Yael",
+      "phone": "2772****984",
+      "logs": 13,
+      "joined": "2026/03/11",
+      "lastActive": "2026-03-13",
+      "goal": 2514,
+      "age": 37,
+      "gender": "female",
+      "email": "",
       "premium": false,
       "active7d": true
     },
@@ -184,14 +197,14 @@
       "active7d": true
     },
     {
-      "name": "Yael",
-      "phone": "2772****984",
+      "name": "Kelly",
+      "phone": "2769****046",
       "logs": 10,
-      "joined": "2026/03/11",
-      "lastActive": "2026-03-12",
-      "goal": 2514,
-      "age": 37,
-      "gender": "female",
+      "joined": "2026/03/12",
+      "lastActive": "2026-03-13",
+      "goal": 2669,
+      "age": 36,
+      "gender": "male",
       "email": "",
       "premium": false,
       "active7d": true
@@ -218,19 +231,6 @@
       "goal": 1859,
       "age": 36,
       "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Kelly",
-      "phone": "2769****046",
-      "logs": 8,
-      "joined": "2026/03/12",
-      "lastActive": "2026-03-12",
-      "goal": 2669,
-      "age": 36,
-      "gender": "male",
       "email": "",
       "premium": false,
       "active7d": true
@@ -275,6 +275,32 @@
       "active7d": false
     },
     {
+      "name": "Brooklyn",
+      "phone": "2766****348",
+      "logs": 4,
+      "joined": "2026/03/11",
+      "lastActive": "2026-03-13",
+      "goal": 2549,
+      "age": 22,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Meg",
+      "phone": "2783****932",
+      "logs": 4,
+      "joined": "2026/03/13",
+      "lastActive": "2026-03-13",
+      "goal": 1779,
+      "age": 36,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "C",
       "phone": "1774****855",
       "logs": 3,
@@ -301,19 +327,6 @@
       "active7d": true
     },
     {
-      "name": "Brooklyn",
-      "phone": "2766****348",
-      "logs": 3,
-      "joined": "2026/03/11",
-      "lastActive": "2026-03-12",
-      "goal": 2549,
-      "age": 22,
-      "gender": "male",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
       "name": "Caleigh",
       "phone": "2776****602",
       "logs": 3,
@@ -334,19 +347,6 @@
       "lastActive": "2026-03-12",
       "goal": 940,
       "age": 39,
-      "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Meg",
-      "phone": "2783****932",
-      "logs": 2,
-      "joined": "2026/03/13",
-      "lastActive": "2026-03-13",
-      "goal": 1779,
-      "age": 36,
       "gender": "female",
       "email": "",
       "premium": false,
@@ -557,12 +557,24 @@
       "gender": "male",
       "email": "",
       "premium": false
+    },
+    {
+      "name": "Unknown",
+      "phone": "2772****081",
+      "logs": 0,
+      "joined": "2026/03/13",
+      "lastActive": "never",
+      "goal": "?",
+      "age": "",
+      "gender": "",
+      "email": "",
+      "premium": false
     }
   ],
   "fitsortedTopFoods": [
     [
       "coffee with milk (1 cup) (1 cup)",
-      6
+      7
     ],
     [
       "black coffee 1 cup",
@@ -646,26 +658,26 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "56",
-        "users": "51",
-        "pageviews": "57"
+        "sessions": "60",
+        "users": "55",
+        "pageviews": "62"
       },
       "weekly": {
-        "sessions": "130",
-        "users": "117",
-        "pageviews": "132"
+        "sessions": "134",
+        "users": "120",
+        "pageviews": "137"
       }
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "14",
-        "users": "12",
-        "pageviews": "15"
+        "sessions": "15",
+        "users": "13",
+        "pageviews": "16"
       },
       "weekly": {
-        "sessions": "109",
-        "users": "93",
-        "pageviews": "111"
+        "sessions": "110",
+        "users": "94",
+        "pageviews": "112"
       }
     },
     "BetSorted": {
@@ -682,14 +694,14 @@
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "2",
-        "users": "2",
-        "pageviews": "3"
+        "sessions": "4",
+        "users": "4",
+        "pageviews": "4"
       },
       "weekly": {
-        "sessions": "27",
-        "users": "22",
-        "pageviews": "29"
+        "sessions": "29",
+        "users": "23",
+        "pageviews": "30"
       }
     },
     "CryptoCasinoSorted": {
