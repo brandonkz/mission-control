@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/13, 16:04:05",
+  "updated": "2026/03/13, 18:04:01",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "16 active",
+      "traffic": "18 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "39",
+      "val": "42",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "11",
+      "val": "13",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "16",
+      "val": "18",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "358",
+      "val": "360",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "56",
+      "val": "58",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "83,100",
+      "val": "83,520",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "4h 35m",
+      "val": "6h 35m",
       "color": "blue"
     },
     "Restarts": {
@@ -379,6 +379,19 @@
       "active7d": false
     },
     {
+      "name": "Dan",
+      "phone": "2782****438",
+      "logs": 1,
+      "joined": "2026/03/13",
+      "lastActive": "2026-03-13",
+      "goal": 2127,
+      "age": 24,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Joseph",
       "phone": "2782****126",
       "logs": 1,
@@ -386,6 +399,19 @@
       "lastActive": "2026-03-13",
       "goal": 2828,
       "age": 31,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Junaid",
+      "phone": "2784****007",
+      "logs": 1,
+      "joined": "2026/03/13",
+      "lastActive": "2026-03-13",
+      "goal": 2031,
+      "age": 39,
       "gender": "male",
       "email": "",
       "premium": false,
@@ -573,20 +599,32 @@
       "premium": false
     },
     {
-      "name": "Dan",
-      "phone": "2782****438",
+      "name": "Unknown",
+      "phone": "2772****081",
       "logs": 0,
       "joined": "2026/03/13",
       "lastActive": "never",
-      "goal": 2127,
-      "age": 24,
-      "gender": "male",
+      "goal": "?",
+      "age": "",
+      "gender": "",
       "email": "",
       "premium": false
     },
     {
       "name": "Unknown",
-      "phone": "2772****081",
+      "phone": "2773****287",
+      "logs": 0,
+      "joined": "2026/03/13",
+      "lastActive": "never",
+      "goal": "?",
+      "age": "",
+      "gender": "",
+      "email": "",
+      "premium": false
+    },
+    {
+      "name": "Unknown",
+      "phone": "2773****768",
       "logs": 0,
       "joined": "2026/03/13",
       "lastActive": "never",
