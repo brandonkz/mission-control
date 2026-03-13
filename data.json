@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/13, 20:04:04",
+  "updated": "2026/03/13, 22:04:02",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "19 active",
+      "traffic": "20 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "43",
+      "val": "44",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "14",
+      "val": "15",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "19",
+      "val": "20",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "373",
+      "val": "375",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "71",
+      "val": "73",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "85,945",
+      "val": "86,465",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "8h 35m",
+      "val": "10h 35m",
       "color": "blue"
     },
     "Restarts": {
@@ -134,7 +134,7 @@
     {
       "name": "Mineen",
       "phone": "2783****590",
-      "logs": 28,
+      "logs": 29,
       "joined": "2026/03/04",
       "lastActive": "2026-03-13",
       "goal": 1377,
@@ -431,6 +431,19 @@
       "active7d": true
     },
     {
+      "name": "Karin",
+      "phone": "2766****782",
+      "logs": 1,
+      "joined": "2026/03/13",
+      "lastActive": "2026-03-13",
+      "goal": 1636,
+      "age": 52,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Unknown",
       "phone": "4477****350",
       "logs": 0,
@@ -714,6 +727,10 @@
     {
       "count": 6,
       "error": "SyntaxError: Identifier 'fs' has already been declared"
+    },
+    {
+      "count": 1,
+      "error": "Food lookup error: Unexpected non-whitespace character after JSON at position 115 (line 1 column 116)"
     },
     {
       "count": 1,
