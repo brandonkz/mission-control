@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/13, 06:04:02",
+  "updated": "2026/03/13, 08:04:22",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "13 active",
+      "traffic": "14 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "35",
+      "val": "36",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "2",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "13",
+      "val": "14",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "302",
+      "val": "304",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "2",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "69,648",
+      "val": "70,308",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "3h 3m",
+      "val": "0h 6m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "257",
+      "val": "259",
       "color": "orange"
     },
     "Food Database": {
@@ -110,7 +110,7 @@
       "phone": "2783****970",
       "logs": 124,
       "joined": "2026/03/06",
-      "lastActive": "2026-03-12",
+      "lastActive": "2026-03-13",
       "goal": 1999,
       "age": 38,
       "gender": "male",
@@ -334,6 +334,19 @@
       "lastActive": "2026-03-12",
       "goal": 940,
       "age": 39,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Meg",
+      "phone": "2783****932",
+      "logs": 2,
+      "joined": "2026/03/13",
+      "lastActive": "2026-03-13",
+      "goal": 1779,
+      "age": 36,
       "gender": "female",
       "email": "",
       "premium": false,
@@ -610,12 +623,12 @@
   ],
   "fitsortedErrors": [
     {
-      "count": 5,
-      "error": "SyntaxError: Unexpected token ','"
+      "count": 4,
+      "error": "Workout lookup error: Request failed with status code 429"
     },
     {
       "count": 4,
-      "error": "Workout lookup error: Request failed with status code 429"
+      "error": "SyntaxError: Unexpected token ','"
     },
     {
       "count": 2,
