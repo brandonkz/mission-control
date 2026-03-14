@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/14, 10:04:02",
+  "updated": "2026/03/14, 12:04:05",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "22 active",
+      "traffic": "23 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "48",
+      "val": "49",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "4",
+      "val": "6",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "22",
+      "val": "23",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "400",
+      "val": "407",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "25",
+      "val": "32",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "90,594",
+      "val": "91,574",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "7h 3m",
+      "val": "9h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -108,9 +108,9 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 147,
+      "logs": 150,
       "joined": "2026/03/06",
-      "lastActive": "2026-03-13",
+      "lastActive": "2026-03-14",
       "goal": 1999,
       "age": 38,
       "gender": "male",
@@ -275,6 +275,19 @@
       "active7d": true
     },
     {
+      "name": "Jualene",
+      "phone": "2762****124",
+      "logs": 7,
+      "joined": "2026/03/14",
+      "lastActive": "2026-03-14",
+      "goal": 1046,
+      "age": 30,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Shane",
       "phone": "2771****067",
       "logs": 6,
@@ -335,19 +348,6 @@
       "goal": 3456,
       "age": 18,
       "gender": "male",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Jualene",
-      "phone": "2762****124",
-      "logs": 4,
-      "joined": "2026/03/14",
-      "lastActive": "2026-03-14",
-      "goal": 1046,
-      "age": 30,
-      "gender": "female",
       "email": "",
       "premium": false,
       "active7d": true
@@ -465,6 +465,19 @@
       "goal": 1636,
       "age": 52,
       "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Unknown",
+      "phone": "2784****538",
+      "logs": 1,
+      "joined": "2026/03/14",
+      "lastActive": "2026-03-14",
+      "goal": "?",
+      "age": "",
+      "gender": "",
       "email": "",
       "premium": false,
       "active7d": true
@@ -779,7 +792,7 @@
       "error": "SyntaxError: Identifier 'fs' has already been declared"
     },
     {
-      "count": 2,
+      "count": 3,
       "error": "Food lookup error: Cannot read properties of null (reading 'toLowerCase')"
     },
     {
