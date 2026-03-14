@@ -1,13 +1,13 @@
 {
-  "totalUsers": 47,
+  "totalUsers": 48,
   "setupComplete": 38,
   "proUsers": 0,
-  "activeToday": 4,
-  "activeWeek": 22,
-  "logsToday": 28,
-  "totalLogsAllTime": 363,
-  "signupsToday": 1,
-  "signupsThisWeek": 38,
+  "activeToday": 6,
+  "activeWeek": 23,
+  "logsToday": 30,
+  "totalLogsAllTime": 365,
+  "signupsToday": 2,
+  "signupsThisWeek": 39,
   "signupsByDay": {
     "2026-03-06": 2,
     "2026-03-04": 4,
@@ -17,9 +17,15 @@
     "2026-03-11": 10,
     "2026-03-12": 6,
     "2026-03-13": 12,
-    "2026-03-14": 1
+    "2026-03-14": 2
   },
   "recentSignups": [
+    {
+      "phone": "278***38",
+      "name": "anon",
+      "created": "2026-03-14T09:35:16.794Z",
+      "setup": false
+    },
     {
       "phone": "277***75",
       "name": "Simbai",
@@ -73,13 +79,7 @@
       "name": "anon",
       "created": "2026-03-13T14:49:02.502Z",
       "setup": false
-    },
-    {
-      "phone": "278***26",
-      "name": "Joseph",
-      "created": "2026-03-13T10:00:35.823Z",
-      "setup": true
     }
   ],
-  "updatedAt": "2026-03-14T09:30:01.699Z"
+  "updatedAt": "2026-03-14T10:00:01.717Z"
 }
