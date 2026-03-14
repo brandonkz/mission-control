@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/14, 18:04:04",
+  "updated": "2026/03/14, 20:04:02",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "417",
+      "val": "423",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "42",
+      "val": "48",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "94,244",
+      "val": "95,426",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "4h 10m",
+      "val": "6h 10m",
       "color": "blue"
     },
     "Restarts": {
@@ -108,7 +108,7 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 151,
+      "logs": 154,
       "joined": "2026/03/06",
       "lastActive": "2026-03-14",
       "goal": 1999,
@@ -249,6 +249,19 @@
       "active7d": true
     },
     {
+      "name": "Tash",
+      "phone": "2784****538",
+      "logs": 8,
+      "joined": "2026/03/14",
+      "lastActive": "2026-03-14",
+      "goal": 2237,
+      "age": 45,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Unknown",
       "phone": "2782****778",
       "logs": 7,
@@ -348,19 +361,6 @@
       "goal": 3456,
       "age": 18,
       "gender": "male",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Tash",
-      "phone": "2784****538",
-      "logs": 5,
-      "joined": "2026/03/14",
-      "lastActive": "2026-03-14",
-      "goal": 2237,
-      "age": 45,
-      "gender": "female",
       "email": "",
       "premium": false,
       "active7d": true
