@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/14, 12:04:05",
+  "updated": "2026/03/14, 14:04:13",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "407",
+      "val": "411",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "32",
+      "val": "36",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "91,574",
+      "val": "92,284",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "9h 3m",
+      "val": "0h 10m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "21",
+      "val": "22",
       "color": "orange"
     },
     "Food Database": {
@@ -108,7 +108,7 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 150,
+      "logs": 151,
       "joined": "2026/03/06",
       "lastActive": "2026-03-14",
       "goal": 1999,
@@ -186,7 +186,7 @@
     {
       "name": "Simbai",
       "phone": "2778****475",
-      "logs": 18,
+      "logs": 19,
       "joined": "2026/03/14",
       "lastActive": "2026-03-14",
       "goal": 2875,
@@ -405,6 +405,19 @@
       "active7d": true
     },
     {
+      "name": "Tash",
+      "phone": "2784****538",
+      "logs": 3,
+      "joined": "2026/03/14",
+      "lastActive": "2026-03-14",
+      "goal": 2237,
+      "age": 45,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Nkay",
       "phone": "2783****782",
       "logs": 2,
@@ -465,19 +478,6 @@
       "goal": 1636,
       "age": 52,
       "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Unknown",
-      "phone": "2784****538",
-      "logs": 1,
-      "joined": "2026/03/14",
-      "lastActive": "2026-03-14",
-      "goal": "?",
-      "age": "",
-      "gender": "",
       "email": "",
       "premium": false,
       "active7d": true
@@ -797,6 +797,10 @@
     },
     {
       "count": 1,
+      "error": "Supabase lookup error: \"failed to parse logic tree ((name.ilike.%ground beef with sweet potatoes, cucumbers, carrots, and guacamole.%,name_alt.cs.{ground beef with sweet potatoes, cucumbers, carrots, and guacamole.}))\" (line 1, column 58)"
+    },
+    {
+      "count": 1,
       "error": "Food lookup error: Unexpected non-whitespace character after JSON at position 115 (line 1 column 116)"
     },
     {
@@ -857,12 +861,12 @@
       "daily": {
         "sessions": "6",
         "users": "4",
-        "pageviews": "8"
+        "pageviews": "10"
       },
       "weekly": {
         "sessions": "45",
         "users": "15",
-        "pageviews": "127"
+        "pageviews": "129"
       }
     }
   },
