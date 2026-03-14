@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/14, 08:05:06",
+  "updated": "2026/03/14, 10:04:02",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "21 active",
+      "traffic": "22 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "3",
-      "color": "orange"
+      "val": "4",
+      "color": "green"
     },
     "Active (7d)": {
-      "val": "21",
+      "val": "22",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "382",
+      "val": "400",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "7",
-      "color": "orange"
+      "val": "25",
+      "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "88,785",
+      "val": "90,594",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "5h 4m",
+      "val": "7h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -179,6 +179,19 @@
       "goal": 2514,
       "age": 37,
       "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Simbai",
+      "phone": "2778****475",
+      "logs": 18,
+      "joined": "2026/03/14",
+      "lastActive": "2026-03-14",
+      "goal": 2875,
+      "age": 41,
+      "gender": "male",
       "email": "",
       "premium": false,
       "active7d": true
@@ -696,18 +709,6 @@
       "gender": "",
       "email": "",
       "premium": false
-    },
-    {
-      "name": "Unknown",
-      "phone": "2778****475",
-      "logs": 0,
-      "joined": "2026/03/14",
-      "lastActive": "never",
-      "goal": "?",
-      "age": "",
-      "gender": "",
-      "email": "",
-      "premium": false
     }
   ],
   "fitsortedTopFoods": [
@@ -793,26 +794,26 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "67",
-        "users": "64",
-        "pageviews": "62"
+        "sessions": "68",
+        "users": "65",
+        "pageviews": "65"
       },
       "weekly": {
-        "sessions": "201",
-        "users": "182",
-        "pageviews": "199"
+        "sessions": "202",
+        "users": "183",
+        "pageviews": "202"
       }
     },
     "PaidProperly": {
       "daily": {
         "sessions": "12",
         "users": "11",
-        "pageviews": "12"
+        "pageviews": "13"
       },
       "weekly": {
         "sessions": "110",
         "users": "91",
-        "pageviews": "112"
+        "pageviews": "113"
       }
     },
     "BetSorted": {
