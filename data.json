@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/14, 00:05:22",
+  "updated": "2026/03/14, 02:04:01",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "20 active",
+      "traffic": "21 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "45",
+      "val": "47",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "15",
-      "color": "green"
+      "val": "1",
+      "color": "orange"
     },
     "Active (7d)": {
-      "val": "20",
+      "val": "21",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "375",
+      "val": "379",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "73",
-      "color": "green"
+      "val": "4",
+      "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "86,465",
+      "val": "88,245",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,15 +92,15 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "12h 36m",
+      "val": "0h 58m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "18",
+      "val": "20",
       "color": "orange"
     },
     "Food Database": {
-      "val": "569 foods",
+      "val": "660 foods",
       "color": "blue"
     }
   },
@@ -322,6 +322,19 @@
       "goal": 3456,
       "age": 18,
       "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Jualene",
+      "phone": "2762****124",
+      "logs": 4,
+      "joined": "2026/03/14",
+      "lastActive": "2026-03-14",
+      "goal": 1046,
+      "age": 30,
+      "gender": "female",
       "email": "",
       "premium": false,
       "active7d": true
@@ -671,6 +684,18 @@
       "gender": "female",
       "email": "",
       "premium": false
+    },
+    {
+      "name": "Unknown",
+      "phone": "2765****149",
+      "logs": 0,
+      "joined": "2026/03/14",
+      "lastActive": "never",
+      "goal": "?",
+      "age": "",
+      "gender": "",
+      "email": "",
+      "premium": false
     }
   ],
   "fitsortedTopFoods": [
@@ -741,12 +766,12 @@
       "error": "SyntaxError: Identifier 'fs' has already been declared"
     },
     {
-      "count": 1,
-      "error": "Food lookup error: Unexpected non-whitespace character after JSON at position 115 (line 1 column 116)"
+      "count": 2,
+      "error": "Food lookup error: Cannot read properties of null (reading 'toLowerCase')"
     },
     {
       "count": 1,
-      "error": "Food lookup error: Cannot read properties of null (reading 'toLowerCase')"
+      "error": "Food lookup error: Unexpected non-whitespace character after JSON at position 115 (line 1 column 116)"
     },
     {
       "count": 1,
@@ -756,14 +781,14 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "60",
-        "users": "57",
-        "pageviews": "56"
+        "sessions": "64",
+        "users": "61",
+        "pageviews": "60"
       },
       "weekly": {
-        "sessions": "194",
-        "users": "175",
-        "pageviews": "193"
+        "sessions": "198",
+        "users": "179",
+        "pageviews": "197"
       }
     },
     "PaidProperly": {
@@ -782,12 +807,12 @@
       "daily": {
         "sessions": "3",
         "users": "1",
-        "pageviews": "36"
+        "pageviews": "37"
       },
       "weekly": {
         "sessions": "14",
         "users": "6",
-        "pageviews": "69"
+        "pageviews": "70"
       }
     },
     "RetirementSorted": {
@@ -804,14 +829,14 @@
     },
     "CryptoCasinoSorted": {
       "daily": {
-        "sessions": "39",
-        "users": "13",
-        "pageviews": "119"
+        "sessions": "6",
+        "users": "4",
+        "pageviews": "8"
       },
       "weekly": {
-        "sessions": "39",
-        "users": "13",
-        "pageviews": "119"
+        "sessions": "45",
+        "users": "15",
+        "pageviews": "127"
       }
     }
   },
@@ -839,19 +864,19 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "3,846",
+      "val": "3,442",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$2.5M",
+      "val": "$2.4M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "33 (>$10K)",
+      "val": "31 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
-      "val": "9",
+      "val": "8",
       "color": "blue"
     }
   },
