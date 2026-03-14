@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/14, 20:04:02",
+  "updated": "2026/03/14, 22:04:03",
   "projects": [
     {
       "name": "FitSorted",
@@ -60,7 +60,7 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "51",
+      "val": "52",
       "color": "green"
     },
     "Active (24h)": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "423",
+      "val": "424",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "48",
+      "val": "49",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "95,426",
+      "val": "95,776",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "6h 10m",
+      "val": "8h 10m",
       "color": "blue"
     },
     "Restarts": {
@@ -236,6 +236,19 @@
       "active7d": false
     },
     {
+      "name": "Tash",
+      "phone": "2784****538",
+      "logs": 9,
+      "joined": "2026/03/14",
+      "lastActive": "2026-03-14",
+      "goal": 2237,
+      "age": 45,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Robyn",
       "phone": "2782****893",
       "logs": 8,
@@ -243,19 +256,6 @@
       "lastActive": "2026-03-10",
       "goal": 1859,
       "age": 36,
-      "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Tash",
-      "phone": "2784****538",
-      "logs": 8,
-      "joined": "2026/03/14",
-      "lastActive": "2026-03-14",
-      "goal": 2237,
-      "age": 45,
       "gender": "female",
       "email": "",
       "premium": false,
@@ -748,6 +748,18 @@
       "gender": "",
       "email": "",
       "premium": false
+    },
+    {
+      "name": "Tasneem",
+      "phone": "2783****196",
+      "logs": 0,
+      "joined": "2026/03/14",
+      "lastActive": "never",
+      "goal": 1434,
+      "age": 58,
+      "gender": "female",
+      "email": "",
+      "premium": false
     }
   ],
   "fitsortedTopFoods": [
@@ -827,11 +839,11 @@
     },
     {
       "count": 1,
-      "error": "Food lookup error: Unexpected non-whitespace character after JSON at position 115 (line 1 column 116)"
+      "error": "Food lookup error: Unexpected non-whitespace character after JSON at position 138 (line 9 column 2)"
     },
     {
       "count": 1,
-      "error": "/Users/brandonkatz/.pm2/logs/fitsorted-error.log last 100 lines:"
+      "error": "Food lookup error: Unexpected non-whitespace character after JSON at position 115 (line 1 column 116)"
     }
   ],
   "analytics": {
