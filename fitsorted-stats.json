@@ -1,11 +1,11 @@
 {
   "totalUsers": 47,
-  "setupComplete": 37,
+  "setupComplete": 38,
   "proUsers": 0,
-  "activeToday": 3,
-  "activeWeek": 21,
-  "logsToday": 7,
-  "totalLogsAllTime": 342,
+  "activeToday": 4,
+  "activeWeek": 22,
+  "logsToday": 13,
+  "totalLogsAllTime": 348,
   "signupsToday": 1,
   "signupsThisWeek": 38,
   "signupsByDay": {
@@ -22,9 +22,9 @@
   "recentSignups": [
     {
       "phone": "277***75",
-      "name": "anon",
+      "name": "Simbai",
       "created": "2026-03-14T04:01:17.432Z",
-      "setup": false
+      "setup": true
     },
     {
       "phone": "276***49",
@@ -81,5 +81,5 @@
       "setup": true
     }
   ],
-  "updatedAt": "2026-03-14T06:00:01.587Z"
+  "updatedAt": "2026-03-14T06:30:01.605Z"
 }
