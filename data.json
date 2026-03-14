@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/14, 04:04:01",
+  "updated": "2026/03/14, 06:04:01",
   "projects": [
     {
       "name": "FitSorted",
@@ -60,7 +60,7 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "47",
+      "val": "48",
       "color": "green"
     },
     "Active (24h)": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "1h 3m",
+      "val": "3h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -696,6 +696,18 @@
       "gender": "",
       "email": "",
       "premium": false
+    },
+    {
+      "name": "Unknown",
+      "phone": "2778****475",
+      "logs": 0,
+      "joined": "2026/03/14",
+      "lastActive": "never",
+      "goal": "?",
+      "age": "",
+      "gender": "",
+      "email": "",
+      "premium": false
     }
   ],
   "fitsortedTopFoods": [
@@ -781,14 +793,14 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "64",
-        "users": "61",
-        "pageviews": "60"
+        "sessions": "65",
+        "users": "62",
+        "pageviews": "61"
       },
       "weekly": {
-        "sessions": "198",
-        "users": "179",
-        "pageviews": "197"
+        "sessions": "199",
+        "users": "180",
+        "pageviews": "198"
       }
     },
     "PaidProperly": {
