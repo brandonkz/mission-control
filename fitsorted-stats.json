@@ -3,11 +3,11 @@
   "setupComplete": 37,
   "proUsers": 0,
   "activeToday": 1,
-  "activeWeek": 22,
+  "activeWeek": 21,
   "logsToday": 4,
   "totalLogsAllTime": 339,
   "signupsToday": 0,
-  "signupsThisWeek": 39,
+  "signupsThisWeek": 37,
   "signupsByDay": {
     "2026-03-06": 2,
     "2026-03-04": 4,
@@ -80,5 +80,5 @@
       "setup": true
     }
   ],
-  "updatedAt": "2026-03-13T23:25:06.047Z"
+  "updatedAt": "2026-03-14T00:00:06.063Z"
 }
