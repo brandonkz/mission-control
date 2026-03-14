@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/14, 06:04:01",
+  "updated": "2026/03/14, 08:05:06",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "1",
+      "val": "3",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "379",
+      "val": "382",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "4",
+      "val": "7",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "88,245",
+      "val": "88,785",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "3h 3m",
+      "val": "5h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -249,6 +249,19 @@
       "active7d": false
     },
     {
+      "name": "Meg",
+      "phone": "2783****932",
+      "logs": 7,
+      "joined": "2026/03/13",
+      "lastActive": "2026-03-14",
+      "goal": 1779,
+      "age": 36,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Shane",
       "phone": "2771****067",
       "logs": 6,
@@ -260,19 +273,6 @@
       "email": "",
       "premium": false,
       "active7d": false
-    },
-    {
-      "name": "Meg",
-      "phone": "2783****932",
-      "logs": 6,
-      "joined": "2026/03/13",
-      "lastActive": "2026-03-13",
-      "goal": 1779,
-      "age": 36,
-      "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
     },
     {
       "name": "Unknown",
@@ -379,6 +379,19 @@
       "active7d": true
     },
     {
+      "name": "Junaid",
+      "phone": "2784****007",
+      "logs": 3,
+      "joined": "2026/03/13",
+      "lastActive": "2026-03-14",
+      "goal": 2031,
+      "age": 39,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Nkay",
       "phone": "2783****782",
       "logs": 2,
@@ -425,19 +438,6 @@
       "lastActive": "2026-03-13",
       "goal": 2828,
       "age": 31,
-      "gender": "male",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Junaid",
-      "phone": "2784****007",
-      "logs": 1,
-      "joined": "2026/03/13",
-      "lastActive": "2026-03-13",
-      "goal": 2031,
-      "age": 39,
       "gender": "male",
       "email": "",
       "premium": false,
@@ -793,14 +793,14 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "65",
-        "users": "62",
-        "pageviews": "61"
+        "sessions": "67",
+        "users": "64",
+        "pageviews": "62"
       },
       "weekly": {
-        "sessions": "199",
-        "users": "180",
-        "pageviews": "198"
+        "sessions": "201",
+        "users": "182",
+        "pageviews": "199"
       }
     },
     "PaidProperly": {
