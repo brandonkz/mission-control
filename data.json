@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/14, 22:04:03",
+  "updated": "2026/03/15, 00:05:37",
   "projects": [
     {
       "name": "FitSorted",
@@ -60,7 +60,7 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "52",
+      "val": "53",
       "color": "green"
     },
     "Active (24h)": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "8h 10m",
+      "val": "1h 53m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "22",
+      "val": "23",
       "color": "orange"
     },
     "Food Database": {
@@ -760,6 +760,18 @@
       "gender": "female",
       "email": "",
       "premium": false
+    },
+    {
+      "name": "Roland",
+      "phone": "2776****248",
+      "logs": 0,
+      "joined": "2026/03/14",
+      "lastActive": "never",
+      "goal": 2816,
+      "age": 16,
+      "gender": "male",
+      "email": "",
+      "premium": false
     }
   ],
   "fitsortedTopFoods": [
@@ -849,50 +861,50 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "68",
-        "users": "65",
-        "pageviews": "65"
+        "sessions": "41",
+        "users": "41",
+        "pageviews": "39"
       },
       "weekly": {
-        "sessions": "202",
-        "users": "183",
-        "pageviews": "202"
+        "sessions": "242",
+        "users": "224",
+        "pageviews": "241"
       }
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "12",
-        "users": "11",
-        "pageviews": "13"
+        "sessions": "4",
+        "users": "4",
+        "pageviews": "4"
       },
       "weekly": {
-        "sessions": "110",
-        "users": "91",
-        "pageviews": "113"
+        "sessions": "108",
+        "users": "88",
+        "pageviews": "111"
       }
     },
     "BetSorted": {
       "daily": {
-        "sessions": "3",
+        "sessions": "1",
         "users": "1",
-        "pageviews": "37"
+        "pageviews": "1"
       },
       "weekly": {
-        "sessions": "14",
-        "users": "6",
-        "pageviews": "70"
+        "sessions": "13",
+        "users": "7",
+        "pageviews": "69"
       }
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "27",
-        "users": "22",
-        "pageviews": "29"
+        "sessions": "2",
+        "users": "2",
+        "pageviews": "2"
       },
       "weekly": {
         "sessions": "27",
-        "users": "22",
-        "pageviews": "29"
+        "users": "23",
+        "pageviews": "27"
       }
     },
     "CryptoCasinoSorted": {
