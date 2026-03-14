@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/14, 14:04:13",
+  "updated": "2026/03/14, 18:04:04",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "23 active",
+      "traffic": "25 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "49",
+      "val": "51",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "6",
+      "val": "8",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "23",
+      "val": "25",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "411",
+      "val": "417",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "36",
+      "val": "42",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "92,284",
+      "val": "94,244",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "0h 10m",
+      "val": "4h 10m",
       "color": "blue"
     },
     "Restarts": {
@@ -353,6 +353,19 @@
       "active7d": true
     },
     {
+      "name": "Tash",
+      "phone": "2784****538",
+      "logs": 5,
+      "joined": "2026/03/14",
+      "lastActive": "2026-03-14",
+      "goal": 2237,
+      "age": 45,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "C",
       "phone": "1774****855",
       "logs": 3,
@@ -405,19 +418,6 @@
       "active7d": true
     },
     {
-      "name": "Tash",
-      "phone": "2784****538",
-      "logs": 3,
-      "joined": "2026/03/14",
-      "lastActive": "2026-03-14",
-      "goal": 2237,
-      "age": 45,
-      "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
       "name": "Nkay",
       "phone": "2783****782",
       "logs": 2,
@@ -426,6 +426,32 @@
       "goal": 2153,
       "age": 33,
       "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Talisha",
+      "phone": "2773****538",
+      "logs": 2,
+      "joined": "2026/03/13",
+      "lastActive": "2026-03-14",
+      "goal": 1851,
+      "age": 27,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Pieter",
+      "phone": "2782****066",
+      "logs": 2,
+      "joined": "2026/03/14",
+      "lastActive": "2026-03-14",
+      "goal": 3434,
+      "age": 36,
+      "gender": "male",
       "email": "",
       "premium": false,
       "active7d": true
@@ -700,20 +726,20 @@
       "premium": false
     },
     {
-      "name": "Talisha",
-      "phone": "2773****538",
+      "name": "Unknown",
+      "phone": "2765****149",
       "logs": 0,
-      "joined": "2026/03/13",
+      "joined": "2026/03/14",
       "lastActive": "never",
-      "goal": 1851,
-      "age": 27,
-      "gender": "female",
+      "goal": "?",
+      "age": "",
+      "gender": "",
       "email": "",
       "premium": false
     },
     {
       "name": "Unknown",
-      "phone": "2765****149",
+      "phone": "2772****542",
       "logs": 0,
       "joined": "2026/03/14",
       "lastActive": "never",
