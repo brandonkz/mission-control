@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/15, 00:05:37",
+  "updated": "2026/03/15, 02:04:03",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,8 +64,8 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "8",
-      "color": "green"
+      "val": "0",
+      "color": "orange"
     },
     "Active (7d)": {
       "val": "25",
@@ -80,8 +80,8 @@
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "49",
-      "color": "green"
+      "val": "0",
+      "color": "orange"
     },
     "Total Calories Tracked": {
       "val": "95,776",
@@ -92,15 +92,15 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "1h 53m",
+      "val": "0h 53m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "23",
+      "val": "28",
       "color": "orange"
     },
     "Food Database": {
-      "val": "660 foods",
+      "val": "738 foods",
       "color": "blue"
     }
   },
@@ -861,14 +861,14 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "41",
-        "users": "41",
-        "pageviews": "39"
+        "sessions": "44",
+        "users": "44",
+        "pageviews": "42"
       },
       "weekly": {
-        "sessions": "242",
-        "users": "224",
-        "pageviews": "241"
+        "sessions": "245",
+        "users": "227",
+        "pageviews": "244"
       }
     },
     "PaidProperly": {
@@ -909,14 +909,14 @@
     },
     "CryptoCasinoSorted": {
       "daily": {
-        "sessions": "6",
+        "sessions": "8",
         "users": "4",
         "pageviews": "10"
       },
       "weekly": {
-        "sessions": "45",
-        "users": "15",
-        "pageviews": "129"
+        "sessions": "47",
+        "users": "17",
+        "pageviews": "121"
       }
     }
   },
