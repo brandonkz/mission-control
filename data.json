@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/15, 12:04:02",
+  "updated": "2026/03/15, 14:04:04",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "25 active",
+      "traffic": "26 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "55",
+      "val": "56",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "6",
+      "val": "7",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "25",
+      "val": "26",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "440",
+      "val": "452",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "16",
+      "val": "28",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "99,296",
+      "val": "100,993",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "9h 3m",
+      "val": "1h 53m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "29",
+      "val": "30",
       "color": "orange"
     },
     "Food Database": {
@@ -145,6 +145,19 @@
       "active7d": true
     },
     {
+      "name": "Simbai",
+      "phone": "2778****475",
+      "logs": 31,
+      "joined": "2026/03/14",
+      "lastActive": "2026-03-15",
+      "goal": 2875,
+      "age": 41,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Avi",
       "phone": "9725****354",
       "logs": 28,
@@ -154,19 +167,6 @@
       "age": 37,
       "gender": "male",
       "email": "avimarko29@gmail.com",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Simbai",
-      "phone": "2778****475",
-      "logs": 25,
-      "joined": "2026/03/14",
-      "lastActive": "2026-03-15",
-      "goal": 2875,
-      "age": 41,
-      "gender": "male",
-      "email": "",
       "premium": false,
       "active7d": true
     },
@@ -197,6 +197,19 @@
       "active7d": true
     },
     {
+      "name": "Tash",
+      "phone": "2784****538",
+      "logs": 16,
+      "joined": "2026/03/14",
+      "lastActive": "2026-03-15",
+      "goal": 2237,
+      "age": 45,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Jarred",
       "phone": "2782****932",
       "logs": 13,
@@ -205,19 +218,6 @@
       "goal": 1648,
       "age": 35,
       "gender": "male",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Tash",
-      "phone": "2784****538",
-      "logs": 11,
-      "joined": "2026/03/14",
-      "lastActive": "2026-03-15",
-      "goal": 2237,
-      "age": 45,
-      "gender": "female",
       "email": "",
       "premium": false,
       "active7d": true
@@ -503,6 +503,19 @@
       "lastActive": "2026-03-13",
       "goal": 1636,
       "age": 52,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Tiffany",
+      "phone": "2772****145",
+      "logs": 1,
+      "joined": "2026/03/15",
+      "lastActive": "2026-03-15",
+      "goal": 1284,
+      "age": 33,
       "gender": "female",
       "email": "",
       "premium": false,
@@ -933,12 +946,12 @@
     },
     "CryptoCasinoSorted": {
       "daily": {
-        "sessions": "8",
+        "sessions": "9",
         "users": "4",
         "pageviews": "10"
       },
       "weekly": {
-        "sessions": "47",
+        "sessions": "48",
         "users": "17",
         "pageviews": "121"
       }
