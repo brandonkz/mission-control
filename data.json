@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/15, 16:04:02",
+  "updated": "2026/03/15, 18:04:01",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "457",
+      "val": "461",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "33",
+      "val": "37",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "101,843",
+      "val": "102,723",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "3h 53m",
+      "val": "5h 53m",
       "color": "blue"
     },
     "Restarts": {
@@ -132,6 +132,19 @@
       "active7d": false
     },
     {
+      "name": "Avi",
+      "phone": "9725****354",
+      "logs": 32,
+      "joined": "2026/03/09",
+      "lastActive": "2026-03-15",
+      "goal": 1867,
+      "age": 37,
+      "gender": "male",
+      "email": "avimarko29@gmail.com",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Simbai",
       "phone": "2778****475",
       "logs": 32,
@@ -154,19 +167,6 @@
       "age": 61,
       "gender": "female",
       "email": "mineenk@gmail.com",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Avi",
-      "phone": "9725****354",
-      "logs": 28,
-      "joined": "2026/03/09",
-      "lastActive": "2026-03-15",
-      "goal": 1867,
-      "age": 37,
-      "gender": "male",
-      "email": "avimarko29@gmail.com",
       "premium": false,
       "active7d": true
     },
