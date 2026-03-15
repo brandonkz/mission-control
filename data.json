@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/15, 10:04:02",
+  "updated": "2026/03/15, 12:04:02",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "4",
+      "val": "6",
       "color": "green"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "432",
+      "val": "440",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "8",
-      "color": "orange"
+      "val": "16",
+      "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "97,648",
+      "val": "99,296",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "7h 3m",
+      "val": "9h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -158,6 +158,19 @@
       "active7d": true
     },
     {
+      "name": "Simbai",
+      "phone": "2778****475",
+      "logs": 25,
+      "joined": "2026/03/14",
+      "lastActive": "2026-03-15",
+      "goal": 2875,
+      "age": 41,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Dilshad",
       "phone": "2779****580",
       "logs": 20,
@@ -184,19 +197,6 @@
       "active7d": true
     },
     {
-      "name": "Simbai",
-      "phone": "2778****475",
-      "logs": 19,
-      "joined": "2026/03/14",
-      "lastActive": "2026-03-14",
-      "goal": 2875,
-      "age": 41,
-      "gender": "male",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
       "name": "Jarred",
       "phone": "2782****932",
       "logs": 13,
@@ -205,6 +205,19 @@
       "goal": 1648,
       "age": 35,
       "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Tash",
+      "phone": "2784****538",
+      "logs": 11,
+      "joined": "2026/03/14",
+      "lastActive": "2026-03-15",
+      "goal": 2237,
+      "age": 45,
+      "gender": "female",
       "email": "",
       "premium": false,
       "active7d": true
@@ -234,19 +247,6 @@
       "email": "",
       "premium": false,
       "active7d": false
-    },
-    {
-      "name": "Tash",
-      "phone": "2784****538",
-      "logs": 9,
-      "joined": "2026/03/14",
-      "lastActive": "2026-03-14",
-      "goal": 2237,
-      "age": 45,
-      "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
     },
     {
       "name": "Robyn",
