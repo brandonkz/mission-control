@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/15, 20:04:02",
+  "updated": "2026/03/15, 22:04:03",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "462",
+      "val": "466",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "38",
+      "val": "42",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "103,287",
+      "val": "104,937",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "7h 53m",
+      "val": "9h 53m",
       "color": "blue"
     },
     "Restarts": {
@@ -108,7 +108,7 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 159,
+      "logs": 160,
       "joined": "2026/03/06",
       "lastActive": "2026-03-15",
       "goal": 1999,
@@ -145,6 +145,19 @@
       "active7d": true
     },
     {
+      "name": "Mineen",
+      "phone": "2783****590",
+      "logs": 32,
+      "joined": "2026/03/04",
+      "lastActive": "2026-03-15",
+      "goal": 1377,
+      "age": 61,
+      "gender": "female",
+      "email": "mineenk@gmail.com",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Avi",
       "phone": "9725****354",
       "logs": 32,
@@ -154,19 +167,6 @@
       "age": 37,
       "gender": "male",
       "email": "avimarko29@gmail.com",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Mineen",
-      "phone": "2783****590",
-      "logs": 31,
-      "joined": "2026/03/04",
-      "lastActive": "2026-03-15",
-      "goal": 1377,
-      "age": 61,
-      "gender": "female",
-      "email": "mineenk@gmail.com",
       "premium": false,
       "active7d": true
     },
@@ -199,7 +199,7 @@
     {
       "name": "Tash",
       "phone": "2784****538",
-      "logs": 16,
+      "logs": 18,
       "joined": "2026/03/14",
       "lastActive": "2026-03-15",
       "goal": 2237,
