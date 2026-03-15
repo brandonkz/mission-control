@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/15, 08:04:43",
+  "updated": "2026/03/15, 10:04:02",
   "projects": [
     {
       "name": "FitSorted",
@@ -60,12 +60,12 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "54",
+      "val": "55",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "1",
-      "color": "orange"
+      "val": "4",
+      "color": "green"
     },
     "Active (7d)": {
       "val": "25",
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "425",
+      "val": "432",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "1",
+      "val": "8",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "95,778",
+      "val": "97,648",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "5h 4m",
+      "val": "7h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -108,9 +108,9 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 154,
+      "logs": 156,
       "joined": "2026/03/06",
-      "lastActive": "2026-03-14",
+      "lastActive": "2026-03-15",
       "goal": 1999,
       "age": 38,
       "gender": "male",
@@ -134,7 +134,7 @@
     {
       "name": "Mineen",
       "phone": "2783****590",
-      "logs": 30,
+      "logs": 31,
       "joined": "2026/03/04",
       "lastActive": "2026-03-15",
       "goal": 1377,
@@ -147,9 +147,9 @@
     {
       "name": "Avi",
       "phone": "9725****354",
-      "logs": 25,
+      "logs": 28,
       "joined": "2026/03/09",
-      "lastActive": "2026-03-13",
+      "lastActive": "2026-03-15",
       "goal": 1867,
       "age": 37,
       "gender": "male",
@@ -418,6 +418,19 @@
       "active7d": true
     },
     {
+      "name": "Talisha",
+      "phone": "2773****538",
+      "logs": 3,
+      "joined": "2026/03/13",
+      "lastActive": "2026-03-15",
+      "goal": 1851,
+      "age": 27,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Nkay",
       "phone": "2783****782",
       "logs": 2,
@@ -425,19 +438,6 @@
       "lastActive": "2026-03-13",
       "goal": 2153,
       "age": 33,
-      "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Talisha",
-      "phone": "2773****538",
-      "logs": 2,
-      "joined": "2026/03/13",
-      "lastActive": "2026-03-14",
-      "goal": 1851,
-      "age": 27,
       "gender": "female",
       "email": "",
       "premium": false,
@@ -784,6 +784,18 @@
       "gender": "female",
       "email": "",
       "premium": false
+    },
+    {
+      "name": "Kate",
+      "phone": "2771****018",
+      "logs": 0,
+      "joined": "2026/03/15",
+      "lastActive": "never",
+      "goal": 1607,
+      "age": 20,
+      "gender": "female",
+      "email": "",
+      "premium": false
     }
   ],
   "fitsortedTopFoods": [
@@ -873,14 +885,14 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "45",
-        "users": "45",
-        "pageviews": "45"
+        "sessions": "46",
+        "users": "46",
+        "pageviews": "47"
       },
       "weekly": {
-        "sessions": "246",
-        "users": "228",
-        "pageviews": "247"
+        "sessions": "248",
+        "users": "229",
+        "pageviews": "249"
       }
     },
     "PaidProperly": {
