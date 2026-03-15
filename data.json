@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/15, 18:04:01",
+  "updated": "2026/03/15, 20:04:02",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "26 active",
+      "traffic": "27 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "56",
+      "val": "57",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "7",
+      "val": "8",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "26",
+      "val": "27",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "461",
+      "val": "462",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "37",
+      "val": "38",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "102,723",
+      "val": "103,287",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "5h 53m",
+      "val": "7h 53m",
       "color": "blue"
     },
     "Restarts": {
@@ -132,6 +132,19 @@
       "active7d": false
     },
     {
+      "name": "Simbai",
+      "phone": "2778****475",
+      "logs": 33,
+      "joined": "2026/03/14",
+      "lastActive": "2026-03-15",
+      "goal": 2875,
+      "age": 41,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Avi",
       "phone": "9725****354",
       "logs": 32,
@@ -141,19 +154,6 @@
       "age": 37,
       "gender": "male",
       "email": "avimarko29@gmail.com",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Simbai",
-      "phone": "2778****475",
-      "logs": 32,
-      "joined": "2026/03/14",
-      "lastActive": "2026-03-15",
-      "goal": 2875,
-      "age": 41,
-      "gender": "male",
-      "email": "",
       "premium": false,
       "active7d": true
     },
@@ -199,7 +199,7 @@
     {
       "name": "Tash",
       "phone": "2784****538",
-      "logs": 17,
+      "logs": 16,
       "joined": "2026/03/14",
       "lastActive": "2026-03-15",
       "goal": 2237,
@@ -516,6 +516,19 @@
       "lastActive": "2026-03-15",
       "goal": 1284,
       "age": 33,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Mihle",
+      "phone": "2767****524",
+      "logs": 1,
+      "joined": "2026/03/15",
+      "lastActive": "2026-03-15",
+      "goal": 1993,
+      "age": 21,
       "gender": "female",
       "email": "",
       "premium": false,
