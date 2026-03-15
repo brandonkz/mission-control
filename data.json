@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/15, 04:04:03",
+  "updated": "2026/03/15, 06:04:01",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "1h 3m",
+      "val": "3h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -863,12 +863,12 @@
       "daily": {
         "sessions": "45",
         "users": "45",
-        "pageviews": "44"
+        "pageviews": "45"
       },
       "weekly": {
         "sessions": "246",
         "users": "228",
-        "pageviews": "246"
+        "pageviews": "247"
       }
     },
     "PaidProperly": {
