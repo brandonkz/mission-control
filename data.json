@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/16, 20:04:51",
+  "updated": "2026/03/16, 22:04:04",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "499",
+      "val": "501",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "33",
+      "val": "35",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "112,939",
+      "val": "113,739",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "1h 41m",
+      "val": "3h 40m",
       "color": "blue"
     },
     "Restarts": {
@@ -249,6 +249,19 @@
       "active7d": false
     },
     {
+      "name": "Mzee",
+      "phone": "2773****352",
+      "logs": 9,
+      "joined": "2026/03/13",
+      "lastActive": "2026-03-16",
+      "goal": 3456,
+      "age": 18,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Tiffany",
       "phone": "2772****145",
       "logs": 9,
@@ -309,19 +322,6 @@
       "goal": 1779,
       "age": 36,
       "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Mzee",
-      "phone": "2773****352",
-      "logs": 7,
-      "joined": "2026/03/13",
-      "lastActive": "2026-03-16",
-      "goal": 3456,
-      "age": 18,
-      "gender": "male",
       "email": "",
       "premium": false,
       "active7d": true
