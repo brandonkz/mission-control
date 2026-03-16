@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/16, 16:05:38",
+  "updated": "2026/03/16, 20:04:51",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "487",
+      "val": "499",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "21",
+      "val": "33",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "109,914",
+      "val": "112,939",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "0h 9m",
+      "val": "1h 41m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "41",
+      "val": "43",
       "color": "orange"
     },
     "Food Database": {
@@ -108,7 +108,7 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 167,
+      "logs": 171,
       "joined": "2026/03/06",
       "lastActive": "2026-03-16",
       "goal": 1999,
@@ -184,6 +184,19 @@
       "active7d": true
     },
     {
+      "name": "Tash",
+      "phone": "2784****538",
+      "logs": 20,
+      "joined": "2026/03/14",
+      "lastActive": "2026-03-16",
+      "goal": 2237,
+      "age": 45,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Yael",
       "phone": "2772****984",
       "logs": 19,
@@ -191,19 +204,6 @@
       "lastActive": "2026-03-13",
       "goal": 2514,
       "age": 37,
-      "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Tash",
-      "phone": "2784****538",
-      "logs": 19,
-      "joined": "2026/03/14",
-      "lastActive": "2026-03-16",
-      "goal": 2237,
-      "age": 45,
       "gender": "female",
       "email": "",
       "premium": false,
@@ -249,6 +249,19 @@
       "active7d": false
     },
     {
+      "name": "Tiffany",
+      "phone": "2772****145",
+      "logs": 9,
+      "joined": "2026/03/15",
+      "lastActive": "2026-03-16",
+      "goal": 1284,
+      "age": 33,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Robyn",
       "phone": "2782****893",
       "logs": 8,
@@ -257,6 +270,19 @@
       "goal": 1859,
       "age": 36,
       "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Brooklyn",
+      "phone": "2766****348",
+      "logs": 8,
+      "joined": "2026/03/11",
+      "lastActive": "2026-03-16",
+      "goal": 2549,
+      "age": 22,
+      "gender": "male",
       "email": "",
       "premium": false,
       "active7d": true
@@ -273,19 +299,6 @@
       "email": "",
       "premium": false,
       "active7d": false
-    },
-    {
-      "name": "Brooklyn",
-      "phone": "2766****348",
-      "logs": 7,
-      "joined": "2026/03/11",
-      "lastActive": "2026-03-16",
-      "goal": 2549,
-      "age": 22,
-      "gender": "male",
-      "email": "",
-      "premium": false,
-      "active7d": true
     },
     {
       "name": "Meg",
@@ -309,6 +322,19 @@
       "goal": 3456,
       "age": 18,
       "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Talisha",
+      "phone": "2773****538",
+      "logs": 7,
+      "joined": "2026/03/13",
+      "lastActive": "2026-03-16",
+      "goal": 1851,
+      "age": 27,
+      "gender": "female",
       "email": "",
       "premium": false,
       "active7d": true
@@ -340,19 +366,6 @@
       "active7d": false
     },
     {
-      "name": "Tiffany",
-      "phone": "2772****145",
-      "logs": 6,
-      "joined": "2026/03/15",
-      "lastActive": "2026-03-16",
-      "goal": 1284,
-      "age": 33,
-      "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
       "name": "Unknown",
       "phone": "2782****201",
       "logs": 5,
@@ -373,19 +386,6 @@
       "lastActive": "2026-03-13",
       "goal": 940,
       "age": 39,
-      "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Talisha",
-      "phone": "2773****538",
-      "logs": 5,
-      "joined": "2026/03/13",
-      "lastActive": "2026-03-16",
-      "goal": 1851,
-      "age": 27,
       "gender": "female",
       "email": "",
       "premium": false,
@@ -483,6 +483,19 @@
       "active7d": true
     },
     {
+      "name": "Hanika",
+      "phone": "2776****476",
+      "logs": 2,
+      "joined": "2026/03/16",
+      "lastActive": "2026-03-16",
+      "goal": 1422,
+      "age": 38,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Unknown",
       "phone": "2784****566",
       "logs": 1,
@@ -529,19 +542,6 @@
       "lastActive": "2026-03-15",
       "goal": 1993,
       "age": 21,
-      "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Hanika",
-      "phone": "2776****476",
-      "logs": 1,
-      "joined": "2026/03/16",
-      "lastActive": "2026-03-16",
-      "goal": 1422,
-      "age": 38,
       "gender": "female",
       "email": "",
       "premium": false,
@@ -851,6 +851,10 @@
       5
     ],
     [
+      "steak",
+      5
+    ],
+    [
       "margarita cocktail (1 glass (250ml))",
       5
     ],
@@ -868,10 +872,6 @@
     ],
     [
       "coffee with almond milk",
-      4
-    ],
-    [
-      "steak",
       4
     ],
     [
