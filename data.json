@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/16, 08:06:01",
+  "updated": "2026/03/16, 10:04:02",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,8 +64,8 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
-      "color": "orange"
+      "val": "4",
+      "color": "green"
     },
     "Active (7d)": {
       "val": "27",
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "466",
+      "val": "473",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "7",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "104,937",
+      "val": "105,727",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "5h 5m",
+      "val": "7h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -108,9 +108,9 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 160,
+      "logs": 164,
       "joined": "2026/03/06",
-      "lastActive": "2026-03-15",
+      "lastActive": "2026-03-16",
       "goal": 1999,
       "age": 38,
       "gender": "male",
@@ -199,9 +199,9 @@
     {
       "name": "Tash",
       "phone": "2784****538",
-      "logs": 18,
+      "logs": 19,
       "joined": "2026/03/14",
-      "lastActive": "2026-03-15",
+      "lastActive": "2026-03-16",
       "goal": 2237,
       "age": 45,
       "gender": "female",
@@ -314,6 +314,19 @@
       "active7d": false
     },
     {
+      "name": "Brooklyn",
+      "phone": "2766****348",
+      "logs": 6,
+      "joined": "2026/03/11",
+      "lastActive": "2026-03-16",
+      "goal": 2549,
+      "age": 22,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Unknown",
       "phone": "2782****201",
       "logs": 5,
@@ -325,19 +338,6 @@
       "email": "",
       "premium": false,
       "active7d": false
-    },
-    {
-      "name": "Brooklyn",
-      "phone": "2766****348",
-      "logs": 5,
-      "joined": "2026/03/11",
-      "lastActive": "2026-03-13",
-      "goal": 2549,
-      "age": 22,
-      "gender": "male",
-      "email": "",
-      "premium": false,
-      "active7d": true
     },
     {
       "name": "S",
@@ -457,6 +457,19 @@
       "active7d": true
     },
     {
+      "name": "Tiffany",
+      "phone": "2772****145",
+      "logs": 2,
+      "joined": "2026/03/15",
+      "lastActive": "2026-03-16",
+      "goal": 1284,
+      "age": 33,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Unknown",
       "phone": "2784****566",
       "logs": 1,
@@ -503,19 +516,6 @@
       "lastActive": "2026-03-13",
       "goal": 1636,
       "age": 52,
-      "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Tiffany",
-      "phone": "2772****145",
-      "logs": 1,
-      "joined": "2026/03/15",
-      "lastActive": "2026-03-15",
-      "goal": 1284,
-      "age": 33,
       "gender": "female",
       "email": "",
       "premium": false,
@@ -911,14 +911,14 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "50",
-        "users": "50",
-        "pageviews": "50"
+        "sessions": "52",
+        "users": "52",
+        "pageviews": "52"
       },
       "weekly": {
-        "sessions": "298",
-        "users": "278",
-        "pageviews": "299"
+        "sessions": "300",
+        "users": "280",
+        "pageviews": "301"
       }
     },
     "PaidProperly": {
