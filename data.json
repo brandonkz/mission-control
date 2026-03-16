@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/16, 14:04:01",
+  "updated": "2026/03/16, 16:05:38",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "7",
+      "val": "8",
       "color": "green"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "485",
+      "val": "487",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "19",
+      "val": "21",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "108,314",
+      "val": "109,914",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,15 +92,15 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "1h 5m",
+      "val": "0h 9m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "38",
+      "val": "41",
       "color": "orange"
     },
     "Food Database": {
-      "val": "890 foods",
+      "val": "1007 foods",
       "color": "blue"
     }
   },
@@ -275,6 +275,19 @@
       "active7d": false
     },
     {
+      "name": "Brooklyn",
+      "phone": "2766****348",
+      "logs": 7,
+      "joined": "2026/03/11",
+      "lastActive": "2026-03-16",
+      "goal": 2549,
+      "age": 22,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Meg",
       "phone": "2783****932",
       "logs": 7,
@@ -325,19 +338,6 @@
       "email": "",
       "premium": false,
       "active7d": false
-    },
-    {
-      "name": "Brooklyn",
-      "phone": "2766****348",
-      "logs": 6,
-      "joined": "2026/03/11",
-      "lastActive": "2026-03-16",
-      "goal": 2549,
-      "age": 22,
-      "gender": "male",
-      "email": "",
-      "premium": false,
-      "active7d": true
     },
     {
       "name": "Tiffany",
@@ -444,6 +444,19 @@
       "active7d": true
     },
     {
+      "name": "Dan",
+      "phone": "2782****438",
+      "logs": 2,
+      "joined": "2026/03/13",
+      "lastActive": "2026-03-16",
+      "goal": 2127,
+      "age": 24,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Nkay",
       "phone": "2783****782",
       "logs": 2,
@@ -481,19 +494,6 @@
       "email": "",
       "premium": false,
       "active7d": false
-    },
-    {
-      "name": "Dan",
-      "phone": "2782****438",
-      "logs": 1,
-      "joined": "2026/03/13",
-      "lastActive": "2026-03-13",
-      "goal": 2127,
-      "age": 24,
-      "gender": "male",
-      "email": "",
-      "premium": false,
-      "active7d": true
     },
     {
       "name": "Joseph",
