@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/16, 10:04:02",
+  "updated": "2026/03/16, 12:06:16",
   "projects": [
     {
       "name": "FitSorted",
@@ -60,11 +60,11 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "57",
+      "val": "58",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "4",
+      "val": "6",
       "color": "green"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "473",
+      "val": "477",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "7",
-      "color": "orange"
+      "val": "11",
+      "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "105,727",
+      "val": "106,467",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,15 +92,15 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "7h 3m",
+      "val": "0h 25m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "33",
+      "val": "37",
       "color": "orange"
     },
     "Food Database": {
-      "val": "818 foods",
+      "val": "890 foods",
       "color": "blue"
     }
   },
@@ -288,6 +288,19 @@
       "active7d": true
     },
     {
+      "name": "Mzee",
+      "phone": "2773****352",
+      "logs": 7,
+      "joined": "2026/03/13",
+      "lastActive": "2026-03-16",
+      "goal": 3456,
+      "age": 18,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Jualene",
       "phone": "2762****124",
       "logs": 7,
@@ -353,14 +366,14 @@
       "active7d": true
     },
     {
-      "name": "Mzee",
-      "phone": "2773****352",
+      "name": "Talisha",
+      "phone": "2773****538",
       "logs": 5,
       "joined": "2026/03/13",
-      "lastActive": "2026-03-13",
-      "goal": 3456,
-      "age": 18,
-      "gender": "male",
+      "lastActive": "2026-03-16",
+      "goal": 1851,
+      "age": 27,
+      "gender": "female",
       "email": "",
       "premium": false,
       "active7d": true
@@ -413,19 +426,6 @@
       "goal": 2031,
       "age": 39,
       "gender": "male",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Talisha",
-      "phone": "2773****538",
-      "logs": 3,
-      "joined": "2026/03/13",
-      "lastActive": "2026-03-15",
-      "goal": 1851,
-      "age": 27,
-      "gender": "female",
       "email": "",
       "premium": false,
       "active7d": true
@@ -819,6 +819,18 @@
       "lastActive": "never",
       "goal": 1607,
       "age": 20,
+      "gender": "female",
+      "email": "",
+      "premium": false
+    },
+    {
+      "name": "Hanika",
+      "phone": "2776****476",
+      "logs": 0,
+      "joined": "2026/03/16",
+      "lastActive": "never",
+      "goal": 1422,
+      "age": 38,
       "gender": "female",
       "email": "",
       "premium": false
