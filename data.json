@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/16, 12:06:16",
+  "updated": "2026/03/16, 14:04:01",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "27 active",
+      "traffic": "28 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "6",
+      "val": "7",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "27",
+      "val": "28",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "477",
+      "val": "485",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "11",
+      "val": "19",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "106,467",
+      "val": "108,314",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "0h 25m",
+      "val": "1h 5m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "37",
+      "val": "38",
       "color": "orange"
     },
     "Food Database": {
@@ -108,7 +108,7 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 164,
+      "logs": 167,
       "joined": "2026/03/06",
       "lastActive": "2026-03-16",
       "goal": 1999,
@@ -340,6 +340,19 @@
       "active7d": true
     },
     {
+      "name": "Tiffany",
+      "phone": "2772****145",
+      "logs": 6,
+      "joined": "2026/03/15",
+      "lastActive": "2026-03-16",
+      "goal": 1284,
+      "age": 33,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Unknown",
       "phone": "2782****201",
       "logs": 5,
@@ -457,19 +470,6 @@
       "active7d": true
     },
     {
-      "name": "Tiffany",
-      "phone": "2772****145",
-      "logs": 2,
-      "joined": "2026/03/15",
-      "lastActive": "2026-03-16",
-      "goal": 1284,
-      "age": 33,
-      "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
       "name": "Unknown",
       "phone": "2784****566",
       "logs": 1,
@@ -529,6 +529,19 @@
       "lastActive": "2026-03-15",
       "goal": 1993,
       "age": 21,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Hanika",
+      "phone": "2776****476",
+      "logs": 1,
+      "joined": "2026/03/16",
+      "lastActive": "2026-03-16",
+      "goal": 1422,
+      "age": 38,
       "gender": "female",
       "email": "",
       "premium": false,
@@ -819,18 +832,6 @@
       "lastActive": "never",
       "goal": 1607,
       "age": 20,
-      "gender": "female",
-      "email": "",
-      "premium": false
-    },
-    {
-      "name": "Hanika",
-      "phone": "2776****476",
-      "logs": 0,
-      "joined": "2026/03/16",
-      "lastActive": "never",
-      "goal": 1422,
-      "age": 38,
       "gender": "female",
       "email": "",
       "premium": false
