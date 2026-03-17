@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/17, 06:04:03",
+  "updated": "2026/03/17, 08:08:40",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "27 active",
+      "traffic": "28 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "1",
+      "val": "3",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "27",
+      "val": "28",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "502",
+      "val": "506",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "1",
+      "val": "5",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "113,944",
+      "val": "115,024",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "3h 3m",
+      "val": "5h 8m",
       "color": "blue"
     },
     "Restarts": {
@@ -108,9 +108,9 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 171,
+      "logs": 174,
       "joined": "2026/03/06",
-      "lastActive": "2026-03-16",
+      "lastActive": "2026-03-17",
       "goal": 1999,
       "age": 38,
       "gender": "male",
@@ -548,6 +548,19 @@
       "active7d": true
     },
     {
+      "name": "Tasneem",
+      "phone": "2783****196",
+      "logs": 1,
+      "joined": "2026/03/14",
+      "lastActive": "2026-03-17",
+      "goal": 1434,
+      "age": 58,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Mihle",
       "phone": "2767****524",
       "logs": 1,
@@ -790,18 +803,6 @@
       "premium": false
     },
     {
-      "name": "Tasneem",
-      "phone": "2783****196",
-      "logs": 0,
-      "joined": "2026/03/14",
-      "lastActive": "never",
-      "goal": 1434,
-      "age": 58,
-      "gender": "female",
-      "email": "",
-      "premium": false
-    },
-    {
       "name": "Roland",
       "phone": "2776****248",
       "logs": 0,
@@ -896,8 +897,8 @@
       4
     ],
     [
-      "1x banana",
-      3
+      "coffee with milk (1 cup)",
+      4
     ]
   ],
   "fitsortedErrors": [
@@ -961,13 +962,13 @@
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "10",
-        "users": "10",
+        "sessions": "11",
+        "users": "11",
         "pageviews": "11"
       },
       "weekly": {
-        "sessions": "28",
-        "users": "26",
+        "sessions": "29",
+        "users": "27",
         "pageviews": "28"
       }
     },
