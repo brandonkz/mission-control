@@ -1,13 +1,13 @@
 {
-  "totalUsers": 62,
-  "setupComplete": 52,
+  "totalUsers": 67,
+  "setupComplete": 56,
   "proUsers": 0,
-  "activeToday": 10,
-  "activeWeek": 34,
-  "logsToday": 17,
-  "totalLogsAllTime": 478,
-  "signupsToday": 5,
-  "signupsThisWeek": 46,
+  "activeToday": 12,
+  "activeWeek": 36,
+  "logsToday": 28,
+  "totalLogsAllTime": 489,
+  "signupsToday": 10,
+  "signupsThisWeek": 51,
   "signupsByDay": {
     "2026-03-06": 2,
     "2026-03-04": 4,
@@ -20,9 +20,39 @@
     "2026-03-14": 6,
     "2026-03-15": 4,
     "2026-03-16": 1,
-    "2026-03-17": 5
+    "2026-03-17": 10
   },
   "recentSignups": [
+    {
+      "phone": "277***58",
+      "name": "Jords",
+      "created": "2026-03-17T11:56:59.336Z",
+      "setup": true
+    },
+    {
+      "phone": "276***70",
+      "name": "Ndzali",
+      "created": "2026-03-17T11:48:17.224Z",
+      "setup": true
+    },
+    {
+      "phone": "278***94",
+      "name": "anon",
+      "created": "2026-03-17T11:43:29.722Z",
+      "setup": false
+    },
+    {
+      "phone": "278***96",
+      "name": "Bianca",
+      "created": "2026-03-17T11:34:08.150Z",
+      "setup": true
+    },
+    {
+      "phone": "276***64",
+      "name": "Charne",
+      "created": "2026-03-17T11:32:57.094Z",
+      "setup": true
+    },
     {
       "phone": "277***16",
       "name": "Sparrow",
@@ -52,37 +82,7 @@
       "name": "Xadace",
       "created": "2026-03-17T08:35:11.189Z",
       "setup": true
-    },
-    {
-      "phone": "277***76",
-      "name": "Hanika",
-      "created": "2026-03-16T08:08:21.324Z",
-      "setup": true
-    },
-    {
-      "phone": "276***24",
-      "name": "Mihle",
-      "created": "2026-03-15T16:57:59.628Z",
-      "setup": true
-    },
-    {
-      "phone": "277***45",
-      "name": "Tiffany",
-      "created": "2026-03-15T11:09:25.137Z",
-      "setup": true
-    },
-    {
-      "phone": "277***18",
-      "name": "Kate",
-      "created": "2026-03-15T06:29:29.622Z",
-      "setup": true
-    },
-    {
-      "phone": "277***08",
-      "name": "Jo",
-      "created": "2026-03-15T04:26:56.969Z",
-      "setup": true
     }
   ],
-  "updatedAt": "2026-03-17T11:25:19.363Z"
+  "updatedAt": "2026-03-17T11:59:02.125Z"
 }
