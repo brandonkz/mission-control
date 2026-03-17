@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/17, 12:04:07",
+  "updated": "2026/03/17, 14:04:04",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "30 active",
+      "traffic": "35 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "60",
+      "val": "68",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "7",
+      "val": "13",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "30",
+      "val": "35",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "514",
+      "val": "532",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "13",
+      "val": "31",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "117,969",
+      "val": "123,731",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "0h 12m",
+      "val": "0h 29m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "53",
+      "val": "57",
       "color": "orange"
     },
     "Food Database": {
@@ -108,7 +108,7 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 174,
+      "logs": 177,
       "joined": "2026/03/06",
       "lastActive": "2026-03-17",
       "goal": 1999,
@@ -262,6 +262,19 @@
       "active7d": false
     },
     {
+      "name": "Brooklyn",
+      "phone": "2766****348",
+      "logs": 9,
+      "joined": "2026/03/11",
+      "lastActive": "2026-03-17",
+      "goal": 2549,
+      "age": 22,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Mzee",
       "phone": "2773****352",
       "logs": 9,
@@ -286,19 +299,6 @@
       "email": "",
       "premium": false,
       "active7d": false
-    },
-    {
-      "name": "Brooklyn",
-      "phone": "2766****348",
-      "logs": 8,
-      "joined": "2026/03/11",
-      "lastActive": "2026-03-16",
-      "goal": 2549,
-      "age": 22,
-      "gender": "male",
-      "email": "",
-      "premium": false,
-      "active7d": true
     },
     {
       "name": "Unknown",
@@ -392,6 +392,19 @@
       "active7d": true
     },
     {
+      "name": "Bianca",
+      "phone": "2784****696",
+      "logs": 5,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-17",
+      "goal": 1771,
+      "age": 23,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "C",
       "phone": "1774****855",
       "logs": 3,
@@ -452,6 +465,32 @@
       "goal": 2941,
       "age": 22,
       "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Seth",
+      "phone": "2781****088",
+      "logs": 3,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-17",
+      "goal": 3454,
+      "age": 21,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Jords",
+      "phone": "2779****758",
+      "logs": 3,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-17",
+      "goal": 2482,
+      "age": 17,
+      "gender": "male",
       "email": "",
       "premium": false,
       "active7d": true
@@ -522,6 +561,19 @@
       "active7d": true
     },
     {
+      "name": "Ndzali",
+      "phone": "2768****270",
+      "logs": 2,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-17",
+      "goal": 1840,
+      "age": 18,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Unknown",
       "phone": "2784****566",
       "logs": 1,
@@ -587,13 +639,26 @@
       "active7d": true
     },
     {
-      "name": "Seth",
-      "phone": "2781****088",
+      "name": "Prudence",
+      "phone": "2778****603",
       "logs": 1,
       "joined": "2026/03/17",
       "lastActive": "2026-03-17",
-      "goal": 3454,
-      "age": 21,
+      "goal": 1693,
+      "age": 32,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Sparrow",
+      "phone": "2778****216",
+      "logs": 1,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-17",
+      "goal": 3165,
+      "age": 31,
       "gender": "male",
       "email": "",
       "premium": false,
@@ -863,6 +928,42 @@
       "gender": "female",
       "email": "",
       "premium": false
+    },
+    {
+      "name": "Unknown",
+      "phone": "2771****646",
+      "logs": 0,
+      "joined": "2026/03/17",
+      "lastActive": "never",
+      "goal": "?",
+      "age": "",
+      "gender": "",
+      "email": "",
+      "premium": false
+    },
+    {
+      "name": "Charne",
+      "phone": "2765****164",
+      "logs": 0,
+      "joined": "2026/03/17",
+      "lastActive": "never",
+      "goal": 1290,
+      "age": 39,
+      "gender": "female",
+      "email": "",
+      "premium": false
+    },
+    {
+      "name": "Unknown",
+      "phone": "2782****494",
+      "logs": 0,
+      "joined": "2026/03/17",
+      "lastActive": "never",
+      "goal": "?",
+      "age": 31,
+      "gender": "male",
+      "email": "",
+      "premium": false
     }
   ],
   "fitsortedTopFoods": [
@@ -903,6 +1004,10 @@
       4
     ],
     [
+      "6x ostrich meat balls",
+      4
+    ],
+    [
       "barebells caramel choco protein bar",
       4
     ],
@@ -921,10 +1026,6 @@
     [
       "chicken",
       4
-    ],
-    [
-      "coffee with milk (1 cup)",
-      4
     ]
   ],
   "fitsortedErrors": [
@@ -933,7 +1034,7 @@
       "error": "Food lookup error: Request failed with status code 429"
     },
     {
-      "count": 5,
+      "count": 4,
       "error": "SyntaxError: Identifier 'fs' has already been declared"
     },
     {
@@ -942,11 +1043,11 @@
     },
     {
       "count": 1,
-      "error": "Supabase lookup error: \"failed to parse logic tree ((name.ilike.%ground beef with sweet potatoes, cucumbers, carrots, and guacamole.%,name_alt.cs.{ground beef with sweet potatoes, cucumbers, carrots, and guacamole.}))\" (line 1, column 58)"
+      "error": "[sheets append error] Command failed: echo \"2026-03-17T12:03:20.493Z\t27790591758\t27790591758\treset i want to start tomorrow (est.)\t250\t10\t30\t10\t0\tAI\" | gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk --range \"All Logs!A:J\" --delimiter \"\t\""
     },
     {
       "count": 1,
-      "error": "Food lookup error: Unexpected non-whitespace character after JSON at position 138 (line 9 column 2)"
+      "error": "[sheets append error] Command failed: echo \"2026-03-17T12:00:32.430Z\t27790591758\t27790591758\tnevermind (est.)\t250\t10\t30\t10\t0\tAI\" | gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk --range \"All Logs!A:J\" --delimiter \"\t\""
     }
   ],
   "analytics": {
@@ -1002,12 +1103,12 @@
       "daily": {
         "sessions": "5",
         "users": "4",
-        "pageviews": "4"
+        "pageviews": "5"
       },
       "weekly": {
         "sessions": "26",
         "users": "11",
-        "pageviews": "34"
+        "pageviews": "35"
       }
     }
   },
