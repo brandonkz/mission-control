@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/17, 02:04:04",
+  "updated": "2026/03/17, 04:04:05",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "26 active",
+      "traffic": "27 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "1",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "26",
+      "val": "27",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "501",
+      "val": "502",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "1",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "113,739",
+      "val": "113,944",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "7h 40m",
+      "val": "1h 3m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "43",
+      "val": "44",
       "color": "orange"
     },
     "Food Database": {
@@ -535,6 +535,19 @@
       "active7d": true
     },
     {
+      "name": "Duu",
+      "phone": "2765****149",
+      "logs": 1,
+      "joined": "2026/03/14",
+      "lastActive": "2026-03-17",
+      "goal": 1488,
+      "age": 29,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Mihle",
       "phone": "2767****524",
       "logs": 1,
@@ -766,18 +779,6 @@
     },
     {
       "name": "Unknown",
-      "phone": "2765****149",
-      "logs": 0,
-      "joined": "2026/03/14",
-      "lastActive": "never",
-      "goal": "?",
-      "age": "",
-      "gender": "",
-      "email": "",
-      "premium": false
-    },
-    {
-      "name": "Unknown",
       "phone": "2772****542",
       "logs": 0,
       "joined": "2026/03/14",
@@ -902,6 +903,10 @@
   "fitsortedErrors": [
     {
       "count": 6,
+      "error": "Food lookup error: Request failed with status code 429"
+    },
+    {
+      "count": 5,
       "error": "SyntaxError: Identifier 'fs' has already been declared"
     },
     {
@@ -915,10 +920,6 @@
     {
       "count": 1,
       "error": "Food lookup error: Unexpected non-whitespace character after JSON at position 138 (line 9 column 2)"
-    },
-    {
-      "count": 1,
-      "error": "Food lookup error: Unexpected non-whitespace character after JSON at position 115 (line 1 column 116)"
     }
   ],
   "analytics": {
