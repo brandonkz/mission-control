@@ -1,13 +1,13 @@
 {
-  "totalUsers": 76,
-  "setupComplete": 65,
+  "totalUsers": 81,
+  "setupComplete": 69,
   "proUsers": 0,
-  "activeToday": 20,
-  "activeWeek": 44,
-  "logsToday": 53,
-  "totalLogsAllTime": 514,
-  "signupsToday": 19,
-  "signupsThisWeek": 60,
+  "activeToday": 25,
+  "activeWeek": 49,
+  "logsToday": 73,
+  "totalLogsAllTime": 534,
+  "signupsToday": 24,
+  "signupsThisWeek": 65,
   "signupsByDay": {
     "2026-03-06": 2,
     "2026-03-04": 4,
@@ -20,9 +20,39 @@
     "2026-03-14": 6,
     "2026-03-15": 4,
     "2026-03-16": 1,
-    "2026-03-17": 19
+    "2026-03-17": 24
   },
   "recentSignups": [
+    {
+      "phone": "278***18",
+      "name": "anon",
+      "created": "2026-03-17T14:58:01.788Z",
+      "setup": false
+    },
+    {
+      "phone": "276***72",
+      "name": "Karabo",
+      "created": "2026-03-17T14:55:35.477Z",
+      "setup": true
+    },
+    {
+      "phone": "277***16",
+      "name": "Carla",
+      "created": "2026-03-17T14:40:38.240Z",
+      "setup": true
+    },
+    {
+      "phone": "276***07",
+      "name": "George",
+      "created": "2026-03-17T14:36:51.408Z",
+      "setup": true
+    },
+    {
+      "phone": "277***52",
+      "name": "Clinton",
+      "created": "2026-03-17T14:35:06.481Z",
+      "setup": true
+    },
     {
       "phone": "277***89",
       "name": "Banele",
@@ -52,37 +82,7 @@
       "name": "Ronelle",
       "created": "2026-03-17T13:30:01.595Z",
       "setup": true
-    },
-    {
-      "phone": "277***85",
-      "name": "Clarisse",
-      "created": "2026-03-17T13:28:16.023Z",
-      "setup": true
-    },
-    {
-      "phone": "278***87",
-      "name": "Juliet",
-      "created": "2026-03-17T12:57:39.902Z",
-      "setup": true
-    },
-    {
-      "phone": "277***64",
-      "name": "Jua",
-      "created": "2026-03-17T12:48:59.977Z",
-      "setup": true
-    },
-    {
-      "phone": "277***33",
-      "name": "Carl Aaron Pillay",
-      "created": "2026-03-17T12:09:57.552Z",
-      "setup": true
-    },
-    {
-      "phone": "277***58",
-      "name": "Jords",
-      "created": "2026-03-17T11:56:59.336Z",
-      "setup": true
     }
   ],
-  "updatedAt": "2026-03-17T14:28:37.084Z"
+  "updatedAt": "2026-03-17T14:58:37.108Z"
 }
