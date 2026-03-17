@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/17, 16:04:59",
+  "updated": "2026/03/17, 20:04:49",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "43 active",
+      "traffic": "51 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "76",
+      "val": "85",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "21",
+      "val": "29",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "43",
+      "val": "51",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "550",
+      "val": "589",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "49",
+      "val": "88",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "127,377",
+      "val": "136,941",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "2h 30m",
+      "val": "1h 27m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "57",
+      "val": "76",
       "color": "orange"
     },
     "Food Database": {
@@ -108,7 +108,7 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 177,
+      "logs": 181,
       "joined": "2026/03/06",
       "lastActive": "2026-03-17",
       "goal": 1999,
@@ -236,6 +236,32 @@
       "active7d": true
     },
     {
+      "name": "Carla",
+      "phone": "2779****716",
+      "logs": 11,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-17",
+      "goal": 3660,
+      "age": 25,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Brooklyn",
+      "phone": "2766****348",
+      "logs": 10,
+      "joined": "2026/03/11",
+      "lastActive": "2026-03-17",
+      "goal": 2549,
+      "age": 22,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Kelly",
       "phone": "2769****046",
       "logs": 10,
@@ -260,19 +286,6 @@
       "email": "",
       "premium": false,
       "active7d": false
-    },
-    {
-      "name": "Brooklyn",
-      "phone": "2766****348",
-      "logs": 9,
-      "joined": "2026/03/11",
-      "lastActive": "2026-03-17",
-      "goal": 2549,
-      "age": 22,
-      "gender": "male",
-      "email": "",
-      "premium": false,
-      "active7d": true
     },
     {
       "name": "Mzee",
@@ -379,6 +392,32 @@
       "active7d": true
     },
     {
+      "name": "Clarisse",
+      "phone": "2772****185",
+      "logs": 6,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-17",
+      "goal": 1754,
+      "age": 22,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Clinton",
+      "phone": "2771****752",
+      "logs": 6,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-17",
+      "goal": 2219,
+      "age": 21,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Unknown",
       "phone": "2782****201",
       "logs": 5,
@@ -405,12 +444,12 @@
       "active7d": true
     },
     {
-      "name": "Clarisse",
-      "phone": "2772****185",
-      "logs": 5,
+      "name": "Xadace",
+      "phone": "2772****352",
+      "logs": 4,
       "joined": "2026/03/17",
       "lastActive": "2026-03-17",
-      "goal": 1754,
+      "goal": 2941,
       "age": 22,
       "gender": "female",
       "email": "",
@@ -470,13 +509,13 @@
       "active7d": true
     },
     {
-      "name": "Xadace",
-      "phone": "2772****352",
+      "name": "Duu",
+      "phone": "2765****149",
       "logs": 3,
-      "joined": "2026/03/17",
+      "joined": "2026/03/14",
       "lastActive": "2026-03-17",
-      "goal": 2941,
-      "age": 22,
+      "goal": 1488,
+      "age": 29,
       "gender": "female",
       "email": "",
       "premium": false,
@@ -496,6 +535,19 @@
       "active7d": true
     },
     {
+      "name": "Prudence",
+      "phone": "2778****603",
+      "logs": 3,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-17",
+      "goal": 1693,
+      "age": 32,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Jords",
       "phone": "2779****758",
       "logs": 3,
@@ -504,6 +556,45 @@
       "goal": 2482,
       "age": 17,
       "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Jua",
+      "phone": "2776****664",
+      "logs": 3,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-17",
+      "goal": "?",
+      "age": "",
+      "gender": "",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Ronelle",
+      "phone": "2773****287",
+      "logs": 3,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-17",
+      "goal": 2004,
+      "age": 42,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Kate",
+      "phone": "2783****006",
+      "logs": 3,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-17",
+      "goal": 1991,
+      "age": 50,
+      "gender": "female",
       "email": "",
       "premium": false,
       "active7d": true
@@ -527,21 +618,8 @@
       "logs": 2,
       "joined": "2026/03/13",
       "lastActive": "2026-03-13",
-      "goal": 2153,
-      "age": 33,
-      "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Duu",
-      "phone": "2765****149",
-      "logs": 2,
-      "joined": "2026/03/14",
-      "lastActive": "2026-03-17",
-      "goal": 1488,
-      "age": 29,
+      "goal": "?",
+      "age": "",
       "gender": "female",
       "email": "",
       "premium": false,
@@ -587,14 +665,27 @@
       "active7d": true
     },
     {
-      "name": "Jua",
-      "phone": "2776****664",
+      "name": "Banele",
+      "phone": "2779****689",
       "logs": 2,
       "joined": "2026/03/17",
       "lastActive": "2026-03-17",
-      "goal": 1341,
-      "age": 39,
-      "gender": "female",
+      "goal": 1986,
+      "age": 21,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "George",
+      "phone": "2760****807",
+      "logs": 2,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-17",
+      "goal": 2603,
+      "age": 21,
+      "gender": "male",
       "email": "",
       "premium": false,
       "active7d": true
@@ -665,19 +756,6 @@
       "active7d": true
     },
     {
-      "name": "Prudence",
-      "phone": "2778****603",
-      "logs": 1,
-      "joined": "2026/03/17",
-      "lastActive": "2026-03-17",
-      "goal": 1693,
-      "age": 32,
-      "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
       "name": "Sparrow",
       "phone": "2778****216",
       "logs": 1,
@@ -717,19 +795,6 @@
       "active7d": true
     },
     {
-      "name": "Ronelle",
-      "phone": "2773****287",
-      "logs": 1,
-      "joined": "2026/03/17",
-      "lastActive": "2026-03-17",
-      "goal": 2004,
-      "age": 42,
-      "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
       "name": "Milan",
       "phone": "2782****451",
       "logs": 1,
@@ -751,6 +816,32 @@
       "goal": 1155,
       "age": 25,
       "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Karabo",
+      "phone": "2766****872",
+      "logs": 1,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-17",
+      "goal": 3449,
+      "age": 22,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Unknown",
+      "phone": "2767****203",
+      "logs": 1,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-17",
+      "goal": "?",
+      "age": "",
+      "gender": "",
       "email": "",
       "premium": false,
       "active7d": true
@@ -1068,12 +1159,41 @@
       "gender": "female",
       "email": "",
       "premium": false
+    },
+    {
+      "name": "Nicole",
+      "phone": "2784****118",
+      "logs": 0,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-17",
+      "goal": 2090,
+      "age": 32,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Unknown",
+      "phone": "2764****103",
+      "logs": 0,
+      "joined": "2026/03/17",
+      "lastActive": "never",
+      "goal": "?",
+      "age": "",
+      "gender": "",
+      "email": "",
+      "premium": false
     }
   ],
   "fitsortedTopFoods": [
     [
       "scrambled eggs (2 eggs) (2 eggs)",
       14
+    ],
+    [
+      "coffee with milk (1 cup)",
+      8
     ],
     [
       "coffee with milk (1 cup) (1 cup)",
@@ -1126,32 +1246,20 @@
     [
       "apple",
       4
-    ],
-    [
-      "chicken",
-      4
     ]
   ],
   "fitsortedErrors": [
     {
+      "count": 14,
+      "error": "[sheets append error] spawnSync /bin/sh ETIMEDOUT"
+    },
+    {
       "count": 6,
-      "error": "Food lookup error: Request failed with status code 429"
-    },
-    {
-      "count": 3,
-      "error": "SyntaxError: Identifier 'fs' has already been declared"
-    },
-    {
-      "count": 3,
-      "error": "Food lookup error: Cannot read properties of null (reading 'toLowerCase')"
+      "error": "SyntaxError: Identifier 'zeroCalAllowed' has already been declared"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: echo \"2026-03-17T13:46:58.546Z\t27725763313\t27725763313\t8x Thai chicken wings\t640\t48\t16\t48\t0\tAI\" | gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk --range \"All Logs!A:J\" --delimiter \"\t\""
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: echo \"2026-03-17T13:36:55.913Z\t27822187451\t27822187451\t3 scrambled eggs"
+      "error": "/Users/brandonkatz/.pm2/logs/fitsorted-error.log last 100 lines:"
     }
   ],
   "analytics": {
