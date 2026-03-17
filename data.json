@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/17, 20:04:49",
+  "updated": "2026/03/17, 22:04:10",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "51 active",
+      "traffic": "52 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "85",
+      "val": "86",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "29",
+      "val": "30",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "51",
+      "val": "52",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "589",
+      "val": "601",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "88",
+      "val": "100",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "136,941",
+      "val": "139,764",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "1h 27m",
+      "val": "3h 27m",
       "color": "blue"
     },
     "Restarts": {
@@ -108,7 +108,7 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 181,
+      "logs": 184,
       "joined": "2026/03/06",
       "lastActive": "2026-03-17",
       "goal": 1999,
@@ -295,6 +295,19 @@
       "lastActive": "2026-03-16",
       "goal": 3456,
       "age": 18,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Damian",
+      "phone": "2776****227",
+      "logs": 9,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-17",
+      "goal": 2523,
+      "age": 30,
       "gender": "male",
       "email": "",
       "premium": false,
@@ -1250,11 +1263,11 @@
   ],
   "fitsortedErrors": [
     {
-      "count": 14,
+      "count": 26,
       "error": "[sheets append error] spawnSync /bin/sh ETIMEDOUT"
     },
     {
-      "count": 6,
+      "count": 5,
       "error": "SyntaxError: Identifier 'zeroCalAllowed' has already been declared"
     },
     {
