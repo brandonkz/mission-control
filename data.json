@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/17, 10:04:03",
+  "updated": "2026/03/17, 12:04:07",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "28 active",
+      "traffic": "30 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "58",
+      "val": "60",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "5",
+      "val": "7",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "28",
+      "val": "30",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "511",
+      "val": "514",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "10",
-      "color": "orange"
+      "val": "13",
+      "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "116,149",
+      "val": "117,969",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,15 +92,15 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "7h 3m",
+      "val": "0h 12m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "44",
+      "val": "53",
       "color": "orange"
     },
     "Food Database": {
-      "val": "1007 foods",
+      "val": "1014 foods",
       "color": "blue"
     }
   },
@@ -108,7 +108,7 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 175,
+      "logs": 174,
       "joined": "2026/03/06",
       "lastActive": "2026-03-17",
       "goal": 1999,
@@ -444,6 +444,19 @@
       "active7d": true
     },
     {
+      "name": "Xadace",
+      "phone": "2772****352",
+      "logs": 3,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-17",
+      "goal": 2941,
+      "age": 22,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Dan",
       "phone": "2782****438",
       "logs": 2,
@@ -569,6 +582,19 @@
       "goal": 1993,
       "age": 21,
       "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Seth",
+      "phone": "2781****088",
+      "logs": 1,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-17",
+      "goal": 3454,
+      "age": 21,
+      "gender": "male",
       "email": "",
       "premium": false,
       "active7d": true
