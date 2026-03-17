@@ -1,13 +1,13 @@
 {
-  "totalUsers": 71,
-  "setupComplete": 60,
+  "totalUsers": 75,
+  "setupComplete": 64,
   "proUsers": 0,
-  "activeToday": 16,
-  "activeWeek": 40,
-  "logsToday": 41,
-  "totalLogsAllTime": 502,
-  "signupsToday": 14,
-  "signupsThisWeek": 55,
+  "activeToday": 20,
+  "activeWeek": 44,
+  "logsToday": 49,
+  "totalLogsAllTime": 510,
+  "signupsToday": 18,
+  "signupsThisWeek": 59,
   "signupsByDay": {
     "2026-03-06": 2,
     "2026-03-04": 4,
@@ -20,14 +20,38 @@
     "2026-03-14": 6,
     "2026-03-15": 4,
     "2026-03-16": 1,
-    "2026-03-17": 14
+    "2026-03-17": 18
   },
   "recentSignups": [
     {
-      "phone": "277***85",
+      "phone": "277***13",
+      "name": "Theshaya",
+      "created": "2026-03-17T13:42:32.052Z",
+      "setup": true
+    },
+    {
+      "phone": "278***51",
+      "name": "Milan",
+      "created": "2026-03-17T13:34:36.855Z",
+      "setup": true
+    },
+    {
+      "phone": "277***67",
       "name": "anon",
-      "created": "2026-03-17T13:28:16.023Z",
+      "created": "2026-03-17T13:32:48.326Z",
       "setup": false
+    },
+    {
+      "phone": "277***87",
+      "name": "Ronelle",
+      "created": "2026-03-17T13:30:01.595Z",
+      "setup": true
+    },
+    {
+      "phone": "277***85",
+      "name": "Clarisse",
+      "created": "2026-03-17T13:28:16.023Z",
+      "setup": true
     },
     {
       "phone": "278***87",
@@ -58,31 +82,7 @@
       "name": "Ndzali",
       "created": "2026-03-17T11:48:17.224Z",
       "setup": true
-    },
-    {
-      "phone": "278***94",
-      "name": "D",
-      "created": "2026-03-17T11:43:29.722Z",
-      "setup": true
-    },
-    {
-      "phone": "278***96",
-      "name": "Bianca",
-      "created": "2026-03-17T11:34:08.150Z",
-      "setup": true
-    },
-    {
-      "phone": "276***64",
-      "name": "Charne",
-      "created": "2026-03-17T11:32:57.094Z",
-      "setup": true
-    },
-    {
-      "phone": "277***16",
-      "name": "Sparrow",
-      "created": "2026-03-17T10:59:25.143Z",
-      "setup": true
     }
   ],
-  "updatedAt": "2026-03-17T13:29:02.180Z"
+  "updatedAt": "2026-03-17T14:04:02.198Z"
 }
