@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/18, 16:05:45",
+  "updated": "2026/03/18, 18:04:03",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "51 active",
+      "traffic": "52 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "10",
+      "val": "11",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "51",
+      "val": "52",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "631",
+      "val": "638",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "29",
+      "val": "36",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "149,001",
+      "val": "151,411",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "13h 5m",
+      "val": "15h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -413,6 +413,19 @@
       "goal": 1754,
       "age": 22,
       "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Johan",
+      "phone": "2782****818",
+      "logs": 7,
+      "joined": "2026/03/18",
+      "lastActive": "2026-03-18",
+      "goal": 2033,
+      "age": 75,
+      "gender": "male",
       "email": "",
       "premium": false,
       "active7d": true
@@ -1197,18 +1210,6 @@
       "gender": "",
       "email": "",
       "premium": false
-    },
-    {
-      "name": "Unknown",
-      "phone": "2782****818",
-      "logs": 0,
-      "joined": "2026/03/18",
-      "lastActive": "never",
-      "goal": "?",
-      "age": "",
-      "gender": "male",
-      "email": "",
-      "premium": false
     }
   ],
   "fitsortedTopFoods": [
@@ -1275,11 +1276,11 @@
   ],
   "fitsortedErrors": [
     {
-      "count": 55,
+      "count": 62,
       "error": "[sheets append error] spawnSync /bin/sh ETIMEDOUT"
     },
     {
-      "count": 3,
+      "count": 2,
       "error": "SyntaxError: Identifier 'zeroCalAllowed' has already been declared"
     },
     {
