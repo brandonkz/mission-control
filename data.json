@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/18, 04:04:02",
+  "updated": "2026/03/18, 06:04:01",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "1h 3m",
+      "val": "3h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -1278,14 +1278,14 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "54",
-        "users": "53",
-        "pageviews": "65"
+        "sessions": "55",
+        "users": "54",
+        "pageviews": "66"
       },
       "weekly": {
-        "sessions": "346",
-        "users": "325",
-        "pageviews": "359"
+        "sessions": "347",
+        "users": "326",
+        "pageviews": "360"
       }
     },
     "PaidProperly": {
