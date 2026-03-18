@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/18, 08:16:08",
+  "updated": "2026/03/18, 10:04:16",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,8 +64,8 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "3",
-      "color": "orange"
+      "val": "8",
+      "color": "green"
     },
     "Active (7d)": {
       "val": "51",
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "605",
+      "val": "618",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "3",
-      "color": "orange"
+      "val": "16",
+      "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "140,954",
+      "val": "145,616",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "5h 16m",
+      "val": "7h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -108,9 +108,9 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 184,
+      "logs": 187,
       "joined": "2026/03/06",
-      "lastActive": "2026-03-17",
+      "lastActive": "2026-03-18",
       "goal": 1999,
       "age": 38,
       "gender": "male",
@@ -223,6 +223,19 @@
       "active7d": true
     },
     {
+      "name": "Brooklyn",
+      "phone": "2766****348",
+      "logs": 14,
+      "joined": "2026/03/11",
+      "lastActive": "2026-03-18",
+      "goal": 2549,
+      "age": 22,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Jarred",
       "phone": "2782****932",
       "logs": 13,
@@ -244,19 +257,6 @@
       "goal": 3660,
       "age": 25,
       "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Brooklyn",
-      "phone": "2766****348",
-      "logs": 10,
-      "joined": "2026/03/11",
-      "lastActive": "2026-03-17",
-      "goal": 2549,
-      "age": 22,
-      "gender": "male",
       "email": "",
       "premium": false,
       "active7d": true
@@ -470,6 +470,19 @@
       "active7d": true
     },
     {
+      "name": "Ronelle",
+      "phone": "2773****287",
+      "logs": 4,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-18",
+      "goal": 2004,
+      "age": 42,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "C",
       "phone": "1774****855",
       "logs": 3,
@@ -535,6 +548,19 @@
       "active7d": true
     },
     {
+      "name": "Tasneem",
+      "phone": "2783****196",
+      "logs": 3,
+      "joined": "2026/03/14",
+      "lastActive": "2026-03-18",
+      "goal": 1434,
+      "age": 58,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Seth",
       "phone": "2781****088",
       "logs": 3,
@@ -561,6 +587,19 @@
       "active7d": true
     },
     {
+      "name": "D",
+      "phone": "2782****494",
+      "logs": 3,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-18",
+      "goal": 3687,
+      "age": 31,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Jords",
       "phone": "2779****758",
       "logs": 3,
@@ -582,19 +621,6 @@
       "goal": "?",
       "age": "",
       "gender": "",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Ronelle",
-      "phone": "2773****287",
-      "logs": 3,
-      "joined": "2026/03/17",
-      "lastActive": "2026-03-17",
-      "goal": 2004,
-      "age": 42,
-      "gender": "female",
       "email": "",
       "premium": false,
       "active7d": true
@@ -750,19 +776,6 @@
       "lastActive": "2026-03-13",
       "goal": 1636,
       "age": 52,
-      "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Tasneem",
-      "phone": "2783****196",
-      "logs": 1,
-      "joined": "2026/03/14",
-      "lastActive": "2026-03-17",
-      "goal": 1434,
-      "age": 58,
       "gender": "female",
       "email": "",
       "premium": false,
@@ -1149,19 +1162,6 @@
       "premium": false
     },
     {
-      "name": "D",
-      "phone": "2782****494",
-      "logs": 0,
-      "joined": "2026/03/17",
-      "lastActive": "2026-03-17",
-      "goal": 3687,
-      "age": 31,
-      "gender": "male",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
       "name": "Unknown",
       "phone": "2779****367",
       "logs": 0,
@@ -1206,7 +1206,7 @@
     ],
     [
       "coffee with milk (1 cup)",
-      8
+      10
     ],
     [
       "coffee with milk (1 cup) (1 cup)",
@@ -1263,7 +1263,7 @@
   ],
   "fitsortedErrors": [
     {
-      "count": 30,
+      "count": 43,
       "error": "[sheets append error] spawnSync /bin/sh ETIMEDOUT"
     },
     {
@@ -1278,14 +1278,14 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "55",
-        "users": "54",
-        "pageviews": "66"
+        "sessions": "56",
+        "users": "55",
+        "pageviews": "67"
       },
       "weekly": {
-        "sessions": "347",
-        "users": "326",
-        "pageviews": "360"
+        "sessions": "348",
+        "users": "327",
+        "pageviews": "361"
       }
     },
     "PaidProperly": {
@@ -1314,14 +1314,14 @@
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "22",
+        "sessions": "23",
         "users": "14",
-        "pageviews": "66"
+        "pageviews": "69"
       },
       "weekly": {
-        "sessions": "44",
+        "sessions": "45",
         "users": "34",
-        "pageviews": "88"
+        "pageviews": "91"
       }
     },
     "CryptoCasinoSorted": {
