@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/17, 22:04:10",
+  "updated": "2026/03/18, 02:04:04",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "52 active",
+      "traffic": "51 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "30",
-      "color": "green"
+      "val": "0",
+      "color": "orange"
     },
     "Active (7d)": {
-      "val": "52",
+      "val": "51",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "601",
+      "val": "602",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "100",
-      "color": "green"
+      "val": "0",
+      "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "139,764",
+      "val": "139,964",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,15 +92,15 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "3h 27m",
+      "val": "1h 3m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "76",
+      "val": "77",
       "color": "orange"
     },
     "Food Database": {
-      "val": "1014 foods",
+      "val": "1104 foods",
       "color": "blue"
     }
   },
@@ -379,6 +379,19 @@
       "active7d": true
     },
     {
+      "name": "Clarisse",
+      "phone": "2772****185",
+      "logs": 7,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-17",
+      "goal": 1754,
+      "age": 22,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Shane",
       "phone": "2771****067",
       "logs": 6,
@@ -399,19 +412,6 @@
       "lastActive": "2026-03-17",
       "goal": 1771,
       "age": 23,
-      "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Clarisse",
-      "phone": "2772****185",
-      "logs": 6,
-      "joined": "2026/03/17",
-      "lastActive": "2026-03-17",
-      "goal": 1754,
-      "age": 22,
       "gender": "female",
       "email": "",
       "premium": false,
@@ -493,7 +493,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true
+      "active7d": false
     },
     {
       "name": "Caleigh",
@@ -1263,7 +1263,7 @@
   ],
   "fitsortedErrors": [
     {
-      "count": 26,
+      "count": 27,
       "error": "[sheets append error] spawnSync /bin/sh ETIMEDOUT"
     },
     {
@@ -1278,61 +1278,61 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "8",
-        "users": "8",
-        "pageviews": "8"
+        "sessions": "54",
+        "users": "53",
+        "pageviews": "65"
       },
       "weekly": {
-        "sessions": "308",
-        "users": "286",
-        "pageviews": "309"
+        "sessions": "346",
+        "users": "325",
+        "pageviews": "359"
       }
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "7",
-        "users": "7",
-        "pageviews": "7"
+        "sessions": "14",
+        "users": "12",
+        "pageviews": "12"
       },
       "weekly": {
-        "sessions": "83",
-        "users": "68",
-        "pageviews": "84"
+        "sessions": "78",
+        "users": "64",
+        "pageviews": "78"
       }
     },
     "BetSorted": {
       "daily": {
-        "sessions": "2",
-        "users": "2",
+        "sessions": "4",
+        "users": "3",
         "pageviews": "4"
       },
       "weekly": {
-        "sessions": "11",
+        "sessions": "12",
         "users": "9",
-        "pageviews": "49"
+        "pageviews": "48"
       }
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "11",
-        "users": "11",
-        "pageviews": "12"
+        "sessions": "21",
+        "users": "14",
+        "pageviews": "66"
       },
       "weekly": {
-        "sessions": "29",
-        "users": "27",
-        "pageviews": "29"
+        "sessions": "43",
+        "users": "34",
+        "pageviews": "88"
       }
     },
     "CryptoCasinoSorted": {
       "daily": {
-        "sessions": "5",
-        "users": "4",
-        "pageviews": "5"
+        "sessions": "2",
+        "users": "2",
+        "pageviews": "2"
       },
       "weekly": {
         "sessions": "26",
-        "users": "11",
+        "users": "10",
         "pageviews": "35"
       }
     }
@@ -1361,19 +1361,19 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "3,826",
+      "val": "3,533",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$5.0M",
+      "val": "$2.6M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "32 (>$10K)",
+      "val": "26 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
-      "val": "9",
+      "val": "8",
       "color": "blue"
     }
   },
