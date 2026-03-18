@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/18, 14:04:46",
+  "updated": "2026/03/18, 16:05:45",
   "projects": [
     {
       "name": "FitSorted",
@@ -60,11 +60,11 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "86",
+      "val": "87",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "9",
+      "val": "10",
       "color": "green"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "628",
+      "val": "631",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "26",
+      "val": "29",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "148,131",
+      "val": "149,001",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "11h 4m",
+      "val": "13h 5m",
       "color": "blue"
     },
     "Restarts": {
@@ -301,6 +301,19 @@
       "active7d": true
     },
     {
+      "name": "Ronelle",
+      "phone": "2773****287",
+      "logs": 9,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-18",
+      "goal": 2004,
+      "age": 42,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Damian",
       "phone": "2776****227",
       "logs": 9,
@@ -399,19 +412,6 @@
       "lastActive": "2026-03-17",
       "goal": 1754,
       "age": 22,
-      "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Ronelle",
-      "phone": "2773****287",
-      "logs": 7,
-      "joined": "2026/03/17",
-      "lastActive": "2026-03-18",
-      "goal": 2004,
-      "age": 42,
       "gender": "female",
       "email": "",
       "premium": false,
@@ -678,6 +678,19 @@
       "active7d": true
     },
     {
+      "name": "Karin",
+      "phone": "2766****782",
+      "logs": 2,
+      "joined": "2026/03/13",
+      "lastActive": "2026-03-18",
+      "goal": 1636,
+      "age": 52,
+      "gender": "female",
+      "email": "nagelke@gmail.com",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Pieter",
       "phone": "2782****066",
       "logs": 2,
@@ -764,19 +777,6 @@
       "goal": 2828,
       "age": 31,
       "gender": "male",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Karin",
-      "phone": "2766****782",
-      "logs": 1,
-      "joined": "2026/03/13",
-      "lastActive": "2026-03-13",
-      "goal": 1636,
-      "age": 52,
-      "gender": "female",
       "email": "",
       "premium": false,
       "active7d": true
@@ -1197,6 +1197,18 @@
       "gender": "",
       "email": "",
       "premium": false
+    },
+    {
+      "name": "Unknown",
+      "phone": "2782****818",
+      "logs": 0,
+      "joined": "2026/03/18",
+      "lastActive": "never",
+      "goal": "?",
+      "age": "",
+      "gender": "male",
+      "email": "",
+      "premium": false
     }
   ],
   "fitsortedTopFoods": [
@@ -1263,7 +1275,7 @@
   ],
   "fitsortedErrors": [
     {
-      "count": 52,
+      "count": 55,
       "error": "[sheets append error] spawnSync /bin/sh ETIMEDOUT"
     },
     {
