@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/19, 00:06:48",
+  "updated": "2026/03/19, 02:04:03",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "52 active",
+      "traffic": "50 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "12",
-      "color": "green"
+      "val": "0",
+      "color": "orange"
     },
     "Active (7d)": {
-      "val": "52",
+      "val": "50",
       "color": "green"
     },
     "Premium Users": {
@@ -80,8 +80,8 @@
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "41",
-      "color": "green"
+      "val": "0",
+      "color": "orange"
     },
     "Total Calories Tracked": {
       "val": "153,661",
@@ -92,15 +92,15 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "21h 6m",
+      "val": "0h 55m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "78",
+      "val": "80",
       "color": "orange"
     },
     "Food Database": {
-      "val": "1104 foods",
+      "val": "1159 foods",
       "color": "blue"
     }
   },
@@ -181,7 +181,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true
+      "active7d": false
     },
     {
       "name": "Tash",
@@ -558,7 +558,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true
+      "active7d": false
     },
     {
       "name": "Junaid",
@@ -1339,13 +1339,13 @@
     },
     "CryptoCasinoSorted": {
       "daily": {
-        "sessions": "2",
-        "users": "2",
-        "pageviews": "2"
+        "sessions": "5",
+        "users": "5",
+        "pageviews": "5"
       },
       "weekly": {
-        "sessions": "26",
-        "users": "10",
+        "sessions": "29",
+        "users": "14",
         "pageviews": "35"
       }
     }
@@ -1374,19 +1374,19 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "3,533",
+      "val": "3,896",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$2.6M",
+      "val": "$2.0M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "26 (>$10K)",
+      "val": "25 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
-      "val": "8",
+      "val": "9",
       "color": "blue"
     }
   },
