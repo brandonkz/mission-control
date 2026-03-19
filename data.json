@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/19, 14:04:02",
+  "updated": "2026/03/19, 16:04:24",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "660",
+      "val": "662",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "17",
+      "val": "19",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "158,321",
+      "val": "159,651",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "11h 3m",
+      "val": "13h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -108,7 +108,7 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 193,
+      "logs": 194,
       "joined": "2026/03/06",
       "lastActive": "2026-03-19",
       "goal": 1999,
@@ -249,6 +249,19 @@
       "active7d": true
     },
     {
+      "name": "Ronelle",
+      "phone": "2773****287",
+      "logs": 12,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-19",
+      "goal": 2004,
+      "age": 42,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Clinton",
       "phone": "2771****752",
       "logs": 12,
@@ -257,19 +270,6 @@
       "goal": 2219,
       "age": 21,
       "gender": "male",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Ronelle",
-      "phone": "2773****287",
-      "logs": 11,
-      "joined": "2026/03/17",
-      "lastActive": "2026-03-19",
-      "goal": 2004,
-      "age": 42,
-      "gender": "female",
       "email": "",
       "premium": false,
       "active7d": true
