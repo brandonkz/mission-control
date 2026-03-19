@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/19, 10:04:03",
+  "updated": "2026/03/19, 12:04:06",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,8 +64,8 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "3",
-      "color": "orange"
+      "val": "6",
+      "color": "green"
     },
     "Active (7d)": {
       "val": "50",
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "649",
+      "val": "656",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "6",
-      "color": "orange"
+      "val": "13",
+      "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "155,631",
+      "val": "157,591",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "7h 3m",
+      "val": "9h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -225,9 +225,9 @@
     {
       "name": "Tiffany",
       "phone": "2772****145",
-      "logs": 17,
+      "logs": 19,
       "joined": "2026/03/15",
-      "lastActive": "2026-03-18",
+      "lastActive": "2026-03-19",
       "goal": 1284,
       "age": 33,
       "gender": "female",
@@ -244,6 +244,32 @@
       "goal": 1648,
       "age": 35,
       "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Clinton",
+      "phone": "2771****752",
+      "logs": 12,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-19",
+      "goal": 2219,
+      "age": 21,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Ronelle",
+      "phone": "2773****287",
+      "logs": 11,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-19",
+      "goal": 2004,
+      "age": 42,
+      "gender": "female",
       "email": "",
       "premium": false,
       "active7d": true
@@ -270,19 +296,6 @@
       "goal": 2669,
       "age": 36,
       "gender": "male",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Ronelle",
-      "phone": "2773****287",
-      "logs": 10,
-      "joined": "2026/03/17",
-      "lastActive": "2026-03-18",
-      "goal": 2004,
-      "age": 42,
-      "gender": "female",
       "email": "",
       "premium": false,
       "active7d": true
@@ -338,19 +351,6 @@
       "email": "",
       "premium": false,
       "active7d": false
-    },
-    {
-      "name": "Clinton",
-      "phone": "2771****752",
-      "logs": 8,
-      "joined": "2026/03/17",
-      "lastActive": "2026-03-18",
-      "goal": 2219,
-      "age": 21,
-      "gender": "male",
-      "email": "",
-      "premium": false,
-      "active7d": true
     },
     {
       "name": "Unknown",
@@ -1276,7 +1276,7 @@
   ],
   "fitsortedErrors": [
     {
-      "count": 77,
+      "count": 78,
       "error": "[sheets append error] spawnSync /bin/sh ETIMEDOUT"
     },
     {
