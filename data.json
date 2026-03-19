@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/19, 08:07:37",
+  "updated": "2026/03/19, 10:04:03",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "3",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "643",
+      "val": "649",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "6",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "153,661",
+      "val": "155,631",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "5h 7m",
+      "val": "7h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -108,9 +108,9 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 192,
+      "logs": 193,
       "joined": "2026/03/06",
-      "lastActive": "2026-03-18",
+      "lastActive": "2026-03-19",
       "goal": 1999,
       "age": 38,
       "gender": "male",
@@ -210,6 +210,19 @@
       "active7d": true
     },
     {
+      "name": "Brooklyn",
+      "phone": "2766****348",
+      "logs": 19,
+      "joined": "2026/03/11",
+      "lastActive": "2026-03-19",
+      "goal": 2549,
+      "age": 22,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Tiffany",
       "phone": "2772****145",
       "logs": 17,
@@ -218,19 +231,6 @@
       "goal": 1284,
       "age": 33,
       "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Brooklyn",
-      "phone": "2766****348",
-      "logs": 15,
-      "joined": "2026/03/11",
-      "lastActive": "2026-03-18",
-      "goal": 2549,
-      "age": 22,
-      "gender": "male",
       "email": "",
       "premium": false,
       "active7d": true
@@ -496,6 +496,19 @@
       "active7d": true
     },
     {
+      "name": "Tasneem",
+      "phone": "2783****196",
+      "logs": 4,
+      "joined": "2026/03/14",
+      "lastActive": "2026-03-19",
+      "goal": 1434,
+      "age": 58,
+      "gender": "female",
+      "email": "tasneem61@gmail.com",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Xadace",
       "phone": "2772****352",
       "logs": 4,
@@ -583,19 +596,6 @@
       "age": 29,
       "gender": "female",
       "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Tasneem",
-      "phone": "2783****196",
-      "logs": 3,
-      "joined": "2026/03/14",
-      "lastActive": "2026-03-18",
-      "goal": 1434,
-      "age": 58,
-      "gender": "female",
-      "email": "tasneem61@gmail.com",
       "premium": false,
       "active7d": true
     },
@@ -1276,11 +1276,11 @@
   ],
   "fitsortedErrors": [
     {
-      "count": 67,
+      "count": 77,
       "error": "[sheets append error] spawnSync /bin/sh ETIMEDOUT"
     },
     {
-      "count": 2,
+      "count": 1,
       "error": "SyntaxError: Identifier 'zeroCalAllowed' has already been declared"
     },
     {
@@ -1303,14 +1303,14 @@
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "13",
-        "users": "11",
-        "pageviews": "13"
+        "sessions": "14",
+        "users": "12",
+        "pageviews": "15"
       },
       "weekly": {
-        "sessions": "70",
-        "users": "58",
-        "pageviews": "71"
+        "sessions": "71",
+        "users": "59",
+        "pageviews": "73"
       }
     },
     "BetSorted": {
@@ -1329,12 +1329,12 @@
       "daily": {
         "sessions": "5",
         "users": "5",
-        "pageviews": "7"
+        "pageviews": "9"
       },
       "weekly": {
         "sessions": "47",
         "users": "35",
-        "pageviews": "96"
+        "pageviews": "98"
       }
     },
     "CryptoCasinoSorted": {
