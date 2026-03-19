@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/19, 12:04:06",
+  "updated": "2026/03/19, 14:04:02",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "6",
+      "val": "7",
       "color": "green"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "656",
+      "val": "660",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "13",
+      "val": "17",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "157,591",
+      "val": "158,321",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "9h 3m",
+      "val": "11h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -353,6 +353,19 @@
       "active7d": false
     },
     {
+      "name": "Prudence",
+      "phone": "2778****603",
+      "logs": 8,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-19",
+      "goal": 1693,
+      "age": 32,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Unknown",
       "phone": "2782****778",
       "logs": 7,
@@ -516,19 +529,6 @@
       "lastActive": "2026-03-17",
       "goal": 2941,
       "age": 22,
-      "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Prudence",
-      "phone": "2778****603",
-      "logs": 4,
-      "joined": "2026/03/17",
-      "lastActive": "2026-03-18",
-      "goal": 1693,
-      "age": 32,
       "gender": "female",
       "email": "",
       "premium": false,
