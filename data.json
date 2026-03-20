@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/19, 16:04:24",
+  "updated": "2026/03/20, 06:04:02",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "50 active",
+      "traffic": "44 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "7",
-      "color": "green"
+      "val": "0",
+      "color": "orange"
     },
     "Active (7d)": {
-      "val": "50",
+      "val": "44",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "662",
+      "val": "668",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "19",
-      "color": "green"
+      "val": "0",
+      "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "159,651",
+      "val": "161,941",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "13h 4m",
+      "val": "3h 3m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "81",
+      "val": "82",
       "color": "orange"
     },
     "Food Database": {
@@ -108,7 +108,7 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 194,
+      "logs": 196,
       "joined": "2026/03/06",
       "lastActive": "2026-03-19",
       "goal": 1999,
@@ -171,6 +171,19 @@
       "active7d": true
     },
     {
+      "name": "Brooklyn",
+      "phone": "2766****348",
+      "logs": 21,
+      "joined": "2026/03/11",
+      "lastActive": "2026-03-19",
+      "goal": 2549,
+      "age": 22,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Dilshad",
       "phone": "2779****580",
       "logs": 20,
@@ -207,20 +220,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Brooklyn",
-      "phone": "2766****348",
-      "logs": 19,
-      "joined": "2026/03/11",
-      "lastActive": "2026-03-19",
-      "goal": 2549,
-      "age": 22,
-      "gender": "male",
-      "email": "",
-      "premium": false,
-      "active7d": true
+      "active7d": false
     },
     {
       "name": "Tiffany",
@@ -246,12 +246,12 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true
+      "active7d": false
     },
     {
       "name": "Ronelle",
       "phone": "2773****287",
-      "logs": 12,
+      "logs": 13,
       "joined": "2026/03/17",
       "lastActive": "2026-03-19",
       "goal": 2004,
@@ -298,7 +298,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true
+      "active7d": false
     },
     {
       "name": "Unknown",
@@ -322,6 +322,19 @@
       "goal": 3456,
       "age": 18,
       "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
+      "name": "Prudence",
+      "phone": "2778****603",
+      "logs": 9,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-19",
+      "goal": 1693,
+      "age": 32,
+      "gender": "female",
       "email": "",
       "premium": false,
       "active7d": true
@@ -351,19 +364,6 @@
       "email": "",
       "premium": false,
       "active7d": false
-    },
-    {
-      "name": "Prudence",
-      "phone": "2778****603",
-      "logs": 8,
-      "joined": "2026/03/17",
-      "lastActive": "2026-03-19",
-      "goal": 1693,
-      "age": 32,
-      "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
     },
     {
       "name": "Unknown",
@@ -493,7 +493,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true
+      "active7d": false
     },
     {
       "name": "Juliet",
@@ -688,7 +688,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true
+      "active7d": false
     },
     {
       "name": "Karin",
@@ -792,7 +792,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true
+      "active7d": false
     },
     {
       "name": "Mihle",
@@ -1246,6 +1246,10 @@
       5
     ],
     [
+      "2x boiled egg",
+      5
+    ],
+    [
       "black coffee",
       4
     ],
@@ -1268,10 +1272,6 @@
     [
       "coffee",
       4
-    ],
-    [
-      "apple",
-      4
     ]
   ],
   "fitsortedErrors": [
@@ -1291,62 +1291,62 @@
   "analytics": {
     "FitSorted": {
       "daily": {
+        "sessions": "10",
+        "users": "5",
+        "pageviews": "9"
+      },
+      "weekly": {
+        "sessions": "242",
+        "users": "226",
+        "pageviews": "249"
+      }
+    },
+    "PaidProperly": {
+      "daily": {
+        "sessions": "11",
+        "users": "11",
+        "pageviews": "13"
+      },
+      "weekly": {
+        "sessions": "67",
+        "users": "59",
+        "pageviews": "70"
+      }
+    },
+    "BetSorted": {
+      "daily": {
+        "sessions": "3",
+        "users": "3",
+        "pageviews": "10"
+      },
+      "weekly": {
+        "sessions": "15",
+        "users": "11",
+        "pageviews": "58"
+      }
+    },
+    "RetirementSorted": {
+      "daily": {
+        "sessions": "13",
+        "users": "11",
+        "pageviews": "16"
+      },
+      "weekly": {
+        "sessions": "56",
+        "users": "41",
+        "pageviews": "110"
+      }
+    },
+    "CryptoCasinoSorted": {
+      "daily": {
         "sessions": "2",
         "users": "2",
         "pageviews": "1"
       },
       "weekly": {
-        "sessions": "292",
-        "users": "276",
-        "pageviews": "302"
-      }
-    },
-    "PaidProperly": {
-      "daily": {
-        "sessions": "14",
-        "users": "12",
-        "pageviews": "15"
-      },
-      "weekly": {
-        "sessions": "71",
-        "users": "59",
-        "pageviews": "73"
-      }
-    },
-    "BetSorted": {
-      "daily": {
-        "sessions": "12",
-        "users": "9",
-        "pageviews": "48"
-      },
-      "weekly": {
-        "sessions": "12",
-        "users": "9",
-        "pageviews": "48"
-      }
-    },
-    "RetirementSorted": {
-      "daily": {
-        "sessions": "5",
-        "users": "5",
-        "pageviews": "9"
-      },
-      "weekly": {
-        "sessions": "47",
-        "users": "35",
-        "pageviews": "98"
-      }
-    },
-    "CryptoCasinoSorted": {
-      "daily": {
-        "sessions": "5",
-        "users": "5",
-        "pageviews": "5"
-      },
-      "weekly": {
-        "sessions": "29",
-        "users": "14",
-        "pageviews": "35"
+        "sessions": "31",
+        "users": "15",
+        "pageviews": "36"
       }
     }
   },
@@ -1374,19 +1374,19 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "3,896",
+      "val": "3,284",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$2.0M",
+      "val": "$3.6M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "25 (>$10K)",
+      "val": "34 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
-      "val": "9",
+      "val": "8",
       "color": "blue"
     }
   },
