@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/20, 10:04:39",
+  "updated": "2026/03/20, 12:04:04",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "1",
+      "val": "2",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "630",
+      "val": "631",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "2",
+      "val": "3",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "151,023",
+      "val": "151,163",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "0h 40m",
+      "val": "2h 40m",
       "color": "blue"
     },
     "Restarts": {
@@ -223,6 +223,19 @@
       "active7d": true
     },
     {
+      "name": "Ronelle",
+      "phone": "2773****287",
+      "logs": 14,
+      "joined": "2026/03/17",
+      "lastActive": "2026-03-20",
+      "goal": 2004,
+      "age": 42,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Jarred",
       "phone": "2782****932",
       "logs": 13,
@@ -234,19 +247,6 @@
       "email": "",
       "premium": false,
       "active7d": false
-    },
-    {
-      "name": "Ronelle",
-      "phone": "2773****287",
-      "logs": 13,
-      "joined": "2026/03/17",
-      "lastActive": "2026-03-19",
-      "goal": 2004,
-      "age": 42,
-      "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
     },
     {
       "name": "Clinton",
@@ -1209,6 +1209,10 @@
       12
     ],
     [
+      "2x boiled egg",
+      6
+    ],
+    [
       "coffee with milk (1 cup) (1 cup)",
       5
     ],
@@ -1222,10 +1226,6 @@
     ],
     [
       "toast (white bread, 2 slices) (2 slices)",
-      5
-    ],
-    [
-      "2x boiled egg",
       5
     ],
     [
