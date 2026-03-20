@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/20, 08:04:36",
+  "updated": "2026/03/20, 10:04:39",
   "projects": [
     {
       "name": "FitSorted",
@@ -60,11 +60,11 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "87",
+      "val": "86",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "1",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "668",
+      "val": "630",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "2",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "161,941",
+      "val": "151,023",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "5h 4m",
+      "val": "0h 40m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "82",
+      "val": "83",
       "color": "orange"
     },
     "Food Database": {
@@ -108,28 +108,15 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 196,
+      "logs": 198,
       "joined": "2026/03/06",
-      "lastActive": "2026-03-19",
+      "lastActive": "2026-03-20",
       "goal": 1999,
       "age": 38,
       "gender": "male",
       "email": "",
       "premium": false,
       "active7d": true
-    },
-    {
-      "name": "Brandon",
-      "phone": "2783****kup",
-      "logs": 40,
-      "joined": "2026/03/03",
-      "lastActive": "2026-03-06",
-      "goal": 1999,
-      "age": 38,
-      "gender": "male",
-      "email": "",
-      "premium": false,
-      "active7d": false
     },
     {
       "name": "Avi",
@@ -1219,18 +1206,10 @@
     ],
     [
       "coffee with milk (1 cup)",
-      11
+      12
     ],
     [
       "coffee with milk (1 cup) (1 cup)",
-      7
-    ],
-    [
-      "black coffee 1 cup",
-      5
-    ],
-    [
-      "steak",
       5
     ],
     [
@@ -1250,19 +1229,7 @@
       5
     ],
     [
-      "black coffee",
-      4
-    ],
-    [
-      "coffee with almond milk",
-      4
-    ],
-    [
-      "6x ostrich meat balls",
-      4
-    ],
-    [
-      "barebells caramel choco protein bar",
+      "black coffee 1 cup",
       4
     ],
     [
@@ -1272,6 +1239,26 @@
     [
       "coffee",
       4
+    ],
+    [
+      "apple",
+      4
+    ],
+    [
+      "chicken",
+      4
+    ],
+    [
+      "black coffee",
+      3
+    ],
+    [
+      "steak",
+      3
+    ],
+    [
+      "6x ostrich meat balls",
+      3
     ]
   ],
   "fitsortedErrors": [
@@ -1293,36 +1280,36 @@
       "daily": {
         "sessions": "10",
         "users": "5",
-        "pageviews": "9"
+        "pageviews": "10"
       },
       "weekly": {
         "sessions": "242",
         "users": "226",
-        "pageviews": "249"
+        "pageviews": "250"
       }
     },
     "PaidProperly": {
       "daily": {
         "sessions": "11",
         "users": "11",
-        "pageviews": "13"
+        "pageviews": "14"
       },
       "weekly": {
         "sessions": "67",
         "users": "59",
-        "pageviews": "70"
+        "pageviews": "71"
       }
     },
     "BetSorted": {
       "daily": {
         "sessions": "3",
         "users": "3",
-        "pageviews": "10"
+        "pageviews": "11"
       },
       "weekly": {
         "sessions": "15",
         "users": "11",
-        "pageviews": "58"
+        "pageviews": "59"
       }
     },
     "RetirementSorted": {
