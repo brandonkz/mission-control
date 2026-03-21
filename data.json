@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/21, 16:04:03",
+  "updated": "2026/03/21, 18:04:08",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "40 active",
+      "traffic": "39 active",
       "trafficColor": "green"
     },
     {
@@ -68,7 +68,7 @@
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "40",
+      "val": "39",
       "color": "green"
     },
     "Premium Users": {
@@ -76,7 +76,7 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "635",
+      "val": "437",
       "color": "blue"
     },
     "Today's Logs": {
@@ -84,7 +84,7 @@
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "152,348",
+      "val": "104,499",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "13h 3m",
+      "val": "1h 13m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "88",
+      "val": "91",
       "color": "orange"
     },
     "Food Database": {
@@ -105,19 +105,6 @@
     }
   },
   "fitsortedUsers": [
-    {
-      "name": "Brandon",
-      "phone": "2783****970",
-      "logs": 198,
-      "joined": "2026/03/06",
-      "lastActive": "2026-03-20",
-      "goal": 1999,
-      "age": 38,
-      "gender": "male",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
     {
       "name": "Avi",
       "phone": "9725****354",
@@ -873,6 +860,18 @@
       "active7d": true
     },
     {
+      "name": "Brandon",
+      "phone": "2783****970",
+      "logs": 0,
+      "joined": "2026/03/21",
+      "lastActive": "never",
+      "goal": 1999,
+      "age": 38,
+      "gender": "male",
+      "email": "",
+      "premium": false
+    },
+    {
       "name": "Unknown",
       "phone": "4477****350",
       "logs": 0,
@@ -1213,70 +1212,74 @@
   ],
   "fitsortedTopFoods": [
     [
-      "scrambled eggs (2 eggs) (2 eggs)",
-      14
-    ],
-    [
-      "coffee with milk (1 cup)",
-      12
-    ],
-    [
       "2x boiled egg",
       6
     ],
     [
-      "coffee with milk (1 cup) (1 cup)",
-      5
+      "usn whey protein shake (1 scoop (30g) with water)",
+      3
     ],
     [
-      "margarita cocktail (1 glass (250ml))",
-      5
+      "3x eggs",
+      3
     ],
     [
-      "water",
-      5
+      "slice of banana loaf",
+      3
     ],
     [
-      "toast (white bread, 2 slices) (2 slices)",
-      5
+      "2x rice cake",
+      3
+    ],
+    [
+      "wrap",
+      3
+    ],
+    [
+      "spicy egg cup",
+      3
+    ],
+    [
+      "sea bass fish with rice",
+      2
+    ],
+    [
+      "bread",
+      2
     ],
     [
       "black coffee 1 cup",
-      4
-    ],
-    [
-      "3x scrambled eggs",
-      4
-    ],
-    [
-      "coffee",
-      4
+      2
     ],
     [
       "apple",
-      4
-    ],
-    [
-      "chicken",
-      4
+      2
     ],
     [
       "black coffee",
-      3
+      2
     ],
     [
-      "steak",
-      3
+      "apple (medium)",
+      2
     ],
     [
-      "6x ostrich meat balls",
-      3
+      "freezo",
+      2
+    ],
+    [
+      "banana (1 medium) (1 medium)",
+      2
     ]
   ],
   "fitsortedErrors": [
     {
       "count": 78,
       "error": "[sheets append error] spawnSync /bin/sh ETIMEDOUT"
+    },
+    {
+      "count": 1,
+      "error": "Webhook error: msgLower is not defined ReferenceError: msgLower is not defined"
     },
     {
       "count": 1,
