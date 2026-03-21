@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/21, 12:04:03",
+  "updated": "2026/03/21, 14:04:04",
   "projects": [
     {
       "name": "FitSorted",
@@ -60,11 +60,11 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "86",
+      "val": "87",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "1",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "633",
+      "val": "635",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "2",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "151,903",
+      "val": "152,348",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "9h 3m",
+      "val": "11h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -158,6 +158,19 @@
       "active7d": true
     },
     {
+      "name": "Tash",
+      "phone": "2784****538",
+      "logs": 22,
+      "joined": "2026/03/14",
+      "lastActive": "2026-03-21",
+      "goal": 2237,
+      "age": 45,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Brooklyn",
       "phone": "2766****348",
       "logs": 21,
@@ -182,19 +195,6 @@
       "email": "",
       "premium": false,
       "active7d": false
-    },
-    {
-      "name": "Tash",
-      "phone": "2784****538",
-      "logs": 20,
-      "joined": "2026/03/14",
-      "lastActive": "2026-03-16",
-      "goal": 2237,
-      "age": 45,
-      "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true
     },
     {
       "name": "Yael",
@@ -1191,6 +1191,18 @@
       "phone": "2764****103",
       "logs": 0,
       "joined": "2026/03/17",
+      "lastActive": "never",
+      "goal": "?",
+      "age": "",
+      "gender": "",
+      "email": "",
+      "premium": false
+    },
+    {
+      "name": "Unknown",
+      "phone": "2774****218",
+      "logs": 0,
+      "joined": "2026/03/21",
       "lastActive": "never",
       "goal": "?",
       "age": "",
