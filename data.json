@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/21, 22:04:03",
+  "updated": "2026/03/22, 00:10:35",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "5h 13m",
+      "val": "1h 34m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "91",
+      "val": "93",
       "color": "orange"
     },
     "Food Database": {
@@ -1293,45 +1293,45 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "4",
-        "users": "1",
-        "pageviews": "14"
+        "sessions": "132",
+        "users": "117",
+        "pageviews": "152"
       },
       "weekly": {
-        "sessions": "178",
-        "users": "163",
-        "pageviews": "199"
+        "sessions": "132",
+        "users": "117",
+        "pageviews": "152"
       }
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "10",
-        "users": "10",
-        "pageviews": "10"
+        "sessions": "9",
+        "users": "7",
+        "pageviews": "8"
       },
       "weekly": {
-        "sessions": "65",
-        "users": "59",
-        "pageviews": "68"
+        "sessions": "70",
+        "users": "61",
+        "pageviews": "72"
       }
     },
     "BetSorted": {
       "daily": {
         "sessions": "2",
         "users": "2",
-        "pageviews": "1"
+        "pageviews": "4"
       },
       "weekly": {
-        "sessions": "14",
-        "users": "11",
-        "pageviews": "23"
+        "sessions": "15",
+        "users": "12",
+        "pageviews": "26"
       }
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "4",
+        "sessions": "2",
         "users": "2",
-        "pageviews": "6"
+        "pageviews": "2"
       },
       "weekly": {
         "sessions": "60",
