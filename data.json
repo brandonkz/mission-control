@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/22, 18:04:08",
+  "updated": "2026/03/22, 20:04:03",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "438",
+      "val": "440",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "1",
+      "val": "3",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "104,984",
+      "val": "106,124",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "15h 4m",
+      "val": "1h 10m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "96",
+      "val": "100",
       "color": "orange"
     },
     "Food Database": {
@@ -509,6 +509,19 @@
       "active7d": true
     },
     {
+      "name": "Brandon",
+      "phone": "2783****970",
+      "logs": 3,
+      "joined": "2026/03/21",
+      "lastActive": "2026-03-22",
+      "goal": 1999,
+      "age": 38,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "C",
       "phone": "1774****855",
       "logs": 3,
@@ -737,19 +750,6 @@
       "lastActive": "2026-03-17",
       "goal": 2603,
       "age": 21,
-      "gender": "male",
-      "email": "",
-      "premium": false,
-      "active7d": true
-    },
-    {
-      "name": "Brandon",
-      "phone": "2783****970",
-      "logs": 1,
-      "joined": "2026/03/21",
-      "lastActive": "2026-03-22",
-      "goal": 1999,
-      "age": 38,
       "gender": "male",
       "email": "",
       "premium": false,
