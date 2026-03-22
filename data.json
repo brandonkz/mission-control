@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/22, 16:04:01",
+  "updated": "2026/03/22, 18:04:08",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "36 active",
+      "traffic": "37 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "1",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "36",
+      "val": "37",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "red"
     },
     "Total Logs": {
-      "val": "437",
+      "val": "438",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "1",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "104,499",
+      "val": "104,984",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "13h 3m",
+      "val": "15h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -743,6 +743,19 @@
       "active7d": true
     },
     {
+      "name": "Brandon",
+      "phone": "2783****970",
+      "logs": 1,
+      "joined": "2026/03/21",
+      "lastActive": "2026-03-22",
+      "goal": 1999,
+      "age": 38,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true
+    },
+    {
       "name": "Unknown",
       "phone": "2784****566",
       "logs": 1,
@@ -858,18 +871,6 @@
       "email": "",
       "premium": false,
       "active7d": true
-    },
-    {
-      "name": "Brandon",
-      "phone": "2783****970",
-      "logs": 0,
-      "joined": "2026/03/21",
-      "lastActive": "never",
-      "goal": 1999,
-      "age": 38,
-      "gender": "male",
-      "email": "",
-      "premium": false
     },
     {
       "name": "Unknown",
