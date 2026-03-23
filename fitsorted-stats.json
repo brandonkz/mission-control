@@ -1,11 +1,11 @@
 {
   "totalUsers": 218,
-  "setupComplete": 184,
+  "setupComplete": 185,
   "proUsers": 1,
-  "activeToday": 92,
-  "activeWeek": 127,
-  "logsToday": 442,
-  "totalLogsAllTime": 882,
+  "activeToday": 93,
+  "activeWeek": 128,
+  "logsToday": 445,
+  "totalLogsAllTime": 885,
   "signupsToday": 131,
   "signupsThisWeek": 163,
   "signupsByDay": {
@@ -28,9 +28,9 @@
   "recentSignups": [
     {
       "phone": "277***53",
-      "name": "anon",
+      "name": "Natasha",
       "created": "2026-03-23T19:18:25.545Z",
-      "setup": false
+      "setup": true
     },
     {
       "phone": "277***86",
@@ -87,5 +87,5 @@
       "setup": true
     }
   ],
-  "updatedAt": "2026-03-23T19:55:44.176Z"
+  "updatedAt": "2026-03-23T20:56:15.687Z"
 }
