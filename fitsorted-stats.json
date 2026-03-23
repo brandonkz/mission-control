@@ -1,13 +1,13 @@
 {
-  "totalUsers": 177,
-  "setupComplete": 150,
+  "totalUsers": 182,
+  "setupComplete": 156,
   "proUsers": 1,
-  "activeToday": 56,
-  "activeWeek": 91,
-  "logsToday": 107,
-  "totalLogsAllTime": 547,
-  "signupsToday": 90,
-  "signupsThisWeek": 122,
+  "activeToday": 61,
+  "activeWeek": 96,
+  "logsToday": 127,
+  "totalLogsAllTime": 567,
+  "signupsToday": 95,
+  "signupsThisWeek": 127,
   "signupsByDay": {
     "2026-03-21": 2,
     "2026-03-04": 4,
@@ -23,14 +23,44 @@
     "2026-03-16": 1,
     "2026-03-17": 28,
     "2026-03-18": 1,
-    "2026-03-23": 90
+    "2026-03-23": 95
   },
   "recentSignups": [
     {
-      "phone": "278***77",
+      "phone": "278***20",
       "name": "anon",
-      "created": "2026-03-23T08:57:48.598Z",
+      "created": "2026-03-23T09:29:20.493Z",
       "setup": false
+    },
+    {
+      "phone": "277***89",
+      "name": "Eduan",
+      "created": "2026-03-23T09:25:24.619Z",
+      "setup": true
+    },
+    {
+      "phone": "278***09",
+      "name": "Misha",
+      "created": "2026-03-23T09:22:14.899Z",
+      "setup": true
+    },
+    {
+      "phone": "277***11",
+      "name": "Jane",
+      "created": "2026-03-23T09:10:00.249Z",
+      "setup": true
+    },
+    {
+      "phone": "277***20",
+      "name": "anon",
+      "created": "2026-03-23T09:01:54.668Z",
+      "setup": false
+    },
+    {
+      "phone": "278***77",
+      "name": "Fuad",
+      "created": "2026-03-23T08:57:48.598Z",
+      "setup": true
     },
     {
       "phone": "277***26",
@@ -55,37 +85,7 @@
       "name": "Mario",
       "created": "2026-03-23T08:41:28.814Z",
       "setup": true
-    },
-    {
-      "phone": "277***23",
-      "name": "anon",
-      "created": "2026-03-23T08:39:24.459Z",
-      "setup": false
-    },
-    {
-      "phone": "278***23",
-      "name": "Erla",
-      "created": "2026-03-23T08:37:57.572Z",
-      "setup": true
-    },
-    {
-      "phone": "278***11",
-      "name": "Claudia",
-      "created": "2026-03-23T08:30:07.927Z",
-      "setup": true
-    },
-    {
-      "phone": "278***58",
-      "name": "Kim",
-      "created": "2026-03-23T08:25:57.591Z",
-      "setup": true
-    },
-    {
-      "phone": "276***75",
-      "name": "Vanessa",
-      "created": "2026-03-23T08:22:47.329Z",
-      "setup": true
     }
   ],
-  "updatedAt": "2026-03-23T08:59:51.417Z"
+  "updatedAt": "2026-03-23T09:29:51.436Z"
 }
