@@ -1,13 +1,13 @@
 {
-  "totalUsers": 162,
-  "setupComplete": 137,
-  "proUsers": 0,
-  "activeToday": 43,
-  "activeWeek": 78,
-  "logsToday": 71,
-  "totalLogsAllTime": 511,
-  "signupsToday": 75,
-  "signupsThisWeek": 107,
+  "totalUsers": 166,
+  "setupComplete": 140,
+  "proUsers": 1,
+  "activeToday": 46,
+  "activeWeek": 81,
+  "logsToday": 79,
+  "totalLogsAllTime": 519,
+  "signupsToday": 79,
+  "signupsThisWeek": 111,
   "signupsByDay": {
     "2026-03-21": 2,
     "2026-03-04": 4,
@@ -23,14 +23,38 @@
     "2026-03-16": 1,
     "2026-03-17": 28,
     "2026-03-18": 1,
-    "2026-03-23": 75
+    "2026-03-23": 79
   },
   "recentSignups": [
     {
-      "phone": "278***68",
+      "phone": "278***54",
       "name": "anon",
-      "created": "2026-03-23T07:24:52.767Z",
+      "created": "2026-03-23T07:59:28.004Z",
       "setup": false
+    },
+    {
+      "phone": "278***05",
+      "name": "Lauren",
+      "created": "2026-03-23T07:52:53.160Z",
+      "setup": true
+    },
+    {
+      "phone": "278***83",
+      "name": "Andrew",
+      "created": "2026-03-23T07:37:50.085Z",
+      "setup": true
+    },
+    {
+      "phone": "277***33",
+      "name": "anon",
+      "created": "2026-03-23T07:30:44.383Z",
+      "setup": false
+    },
+    {
+      "phone": "278***68",
+      "name": "James",
+      "created": "2026-03-23T07:24:52.767Z",
+      "setup": true
     },
     {
       "phone": "276***81",
@@ -61,31 +85,7 @@
       "name": "Ynz",
       "created": "2026-03-23T07:04:42.992Z",
       "setup": true
-    },
-    {
-      "phone": "277***38",
-      "name": "Daniel",
-      "created": "2026-03-23T06:59:59.854Z",
-      "setup": true
-    },
-    {
-      "phone": "278***79",
-      "name": "Rocco",
-      "created": "2026-03-23T06:57:49.181Z",
-      "setup": true
-    },
-    {
-      "phone": "278***09",
-      "name": "Adi",
-      "created": "2026-03-23T06:51:55.803Z",
-      "setup": true
-    },
-    {
-      "phone": "278***49",
-      "name": "Divan",
-      "created": "2026-03-23T06:51:07.291Z",
-      "setup": true
     }
   ],
-  "updatedAt": "2026-03-23T07:30:01.777Z"
+  "updatedAt": "2026-03-23T07:59:49.460Z"
 }
