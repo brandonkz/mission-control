@@ -1,13 +1,13 @@
 {
-  "totalUsers": 120,
-  "setupComplete": 101,
+  "totalUsers": 134,
+  "setupComplete": 113,
   "proUsers": 0,
-  "activeToday": 15,
-  "activeWeek": 51,
-  "logsToday": 18,
-  "totalLogsAllTime": 458,
-  "signupsToday": 33,
-  "signupsThisWeek": 65,
+  "activeToday": 24,
+  "activeWeek": 60,
+  "logsToday": 35,
+  "totalLogsAllTime": 475,
+  "signupsToday": 47,
+  "signupsThisWeek": 79,
   "signupsByDay": {
     "2026-03-21": 2,
     "2026-03-04": 4,
@@ -23,69 +23,69 @@
     "2026-03-16": 1,
     "2026-03-17": 28,
     "2026-03-18": 1,
-    "2026-03-23": 33
+    "2026-03-23": 47
   },
   "recentSignups": [
     {
-      "phone": "278***17",
+      "phone": "278***39",
       "name": "anon",
-      "created": "2026-03-23T05:29:11.405Z",
+      "created": "2026-03-23T05:59:35.686Z",
       "setup": false
     },
     {
-      "phone": "278***69",
-      "name": "Alexi",
-      "created": "2026-03-23T05:24:59.903Z",
+      "phone": "277***69",
+      "name": "Camilla",
+      "created": "2026-03-23T05:54:02.841Z",
       "setup": true
     },
     {
-      "phone": "277***81",
+      "phone": "278***49",
       "name": "anon",
-      "created": "2026-03-23T05:23:59.284Z",
+      "created": "2026-03-23T05:53:12.912Z",
+      "setup": false
+    },
+    {
+      "phone": "278***71",
+      "name": "Andrew",
+      "created": "2026-03-23T05:52:57.644Z",
       "setup": true
     },
     {
       "phone": "278***00",
-      "name": "ST",
-      "created": "2026-03-23T05:23:27.219Z",
+      "name": "anon",
+      "created": "2026-03-23T05:50:23.225Z",
+      "setup": false
+    },
+    {
+      "phone": "277***00",
+      "name": "Peter",
+      "created": "2026-03-23T05:48:40.006Z",
       "setup": true
     },
     {
-      "phone": "278***28",
-      "name": "Raheel",
-      "created": "2026-03-23T05:17:29.135Z",
+      "phone": "276***90",
+      "name": "Jacqui",
+      "created": "2026-03-23T05:43:53.048Z",
       "setup": true
     },
     {
-      "phone": "277***58",
-      "name": "Mart",
-      "created": "2026-03-23T05:14:05.259Z",
+      "phone": "278***34",
+      "name": "Esmaré",
+      "created": "2026-03-23T05:42:59.518Z",
       "setup": true
     },
     {
-      "phone": "278***13",
-      "name": "Kay",
-      "created": "2026-03-23T05:11:11.742Z",
-      "setup": true
+      "phone": "278***41",
+      "name": "anon",
+      "created": "2026-03-23T05:42:52.556Z",
+      "setup": false
     },
     {
-      "phone": "276***09",
-      "name": "Stefan",
-      "created": "2026-03-23T05:07:45.555Z",
-      "setup": true
-    },
-    {
-      "phone": "277***75",
-      "name": "Erich",
-      "created": "2026-03-23T05:05:16.042Z",
-      "setup": true
-    },
-    {
-      "phone": "278***20",
-      "name": "Gary",
-      "created": "2026-03-23T05:04:00.894Z",
+      "phone": "278***86",
+      "name": "Albi",
+      "created": "2026-03-23T05:39:44.855Z",
       "setup": true
     }
   ],
-  "updatedAt": "2026-03-23T05:30:01.708Z"
+  "updatedAt": "2026-03-23T06:00:01.726Z"
 }
