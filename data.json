@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/23, 16:04:34",
+  "updated": "2026/03/23, 18:04:23",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "118 active",
+      "traffic": "121 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "208",
+      "val": "212",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "86",
+      "val": "89",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "118",
+      "val": "121",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "730",
+      "val": "776",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "290",
+      "val": "336",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "171,327",
+      "val": "182,694",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "6h 4m",
+      "val": "8h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -105,6 +105,61 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Kelly",
+      "phone": "2779****896",
+      "logs": 3,
+      "joined": "2026/03/23",
+      "lastActive": "2026-03-23",
+      "goal": 1292,
+      "age": 31,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-23T15:54:27.528Z"
+    },
+    {
+      "name": "J",
+      "phone": "2782****020",
+      "logs": 2,
+      "joined": "2026/03/23",
+      "lastActive": "2026-03-23",
+      "goal": 1100,
+      "age": 57,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-23T15:40:32.236Z"
+    },
+    {
+      "name": "Siya",
+      "phone": "2779****231",
+      "logs": 0,
+      "joined": "2026/03/23",
+      "lastActive": "never",
+      "goal": 2288,
+      "age": 49,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "joinedRaw": "2026-03-23T14:40:11.850Z"
+    },
+    {
+      "name": "Natie",
+      "phone": "2782****685",
+      "logs": 2,
+      "joined": "2026/03/23",
+      "lastActive": "2026-03-23",
+      "goal": 810,
+      "age": 51,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-23T14:14:30.474Z"
+    },
     {
       "name": "Mariska",
       "phone": "2782****028",
@@ -149,7 +204,7 @@
     {
       "name": "Leaan",
       "phone": "2781****953",
-      "logs": 8,
+      "logs": 9,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 768,
@@ -176,7 +231,7 @@
     {
       "name": "Herman",
       "phone": "2772****878",
-      "logs": 3,
+      "logs": 5,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 2013,
@@ -269,7 +324,7 @@
     {
       "name": "La",
       "phone": "2772****981",
-      "logs": 4,
+      "logs": 7,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 2448,
@@ -393,7 +448,7 @@
     {
       "name": "Robyn",
       "phone": "2782****997",
-      "logs": 3,
+      "logs": 4,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 861,
@@ -504,7 +559,7 @@
     {
       "name": "Jane",
       "phone": "2772****611",
-      "logs": 2,
+      "logs": 4,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 1544,
@@ -712,7 +767,7 @@
     {
       "name": "Andrew",
       "phone": "2782****283",
-      "logs": 1,
+      "logs": 7,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 2480,
@@ -918,7 +973,7 @@
     {
       "name": "Khali",
       "phone": "2774****977",
-      "logs": 1,
+      "logs": 2,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 2306,
@@ -1000,7 +1055,7 @@
     {
       "name": "Nick",
       "phone": "2760****695",
-      "logs": 4,
+      "logs": 5,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 2315,
@@ -1014,7 +1069,7 @@
     {
       "name": "Tim",
       "phone": "2779****123",
-      "logs": 4,
+      "logs": 5,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 2000,
@@ -1055,7 +1110,7 @@
     {
       "name": "Jan",
       "phone": "2782****657",
-      "logs": 10,
+      "logs": 12,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 3023,
@@ -1328,7 +1383,7 @@
     {
       "name": "Alexi",
       "phone": "2783****369",
-      "logs": 1,
+      "logs": 7,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 1951,
@@ -1383,7 +1438,7 @@
     {
       "name": "Mart",
       "phone": "2771****958",
-      "logs": 4,
+      "logs": 5,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 1794,
@@ -1519,7 +1574,7 @@
     {
       "name": "Sean",
       "phone": "2774****136",
-      "logs": 1,
+      "logs": 2,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 1935,
@@ -1533,7 +1588,7 @@
     {
       "name": "Luwandakoko@gmail.com",
       "phone": "2763****863",
-      "logs": 1,
+      "logs": 2,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 1515,
@@ -1641,7 +1696,7 @@
     {
       "name": "Ebrahim",
       "phone": "2783****861",
-      "logs": 3,
+      "logs": 6,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 1806,
@@ -1655,7 +1710,7 @@
     {
       "name": "Kowie",
       "phone": "2773****339",
-      "logs": 3,
+      "logs": 8,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 3224,
@@ -1738,7 +1793,7 @@
     {
       "name": "hammaad92@gmail.com",
       "phone": "2761****214",
-      "logs": 1,
+      "logs": 3,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 3486,
