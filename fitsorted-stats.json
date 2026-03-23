@@ -2,10 +2,10 @@
   "totalUsers": 202,
   "setupComplete": 172,
   "proUsers": 1,
-  "activeToday": 80,
-  "activeWeek": 115,
-  "logsToday": 240,
-  "totalLogsAllTime": 680,
+  "activeToday": 81,
+  "activeWeek": 116,
+  "logsToday": 260,
+  "totalLogsAllTime": 700,
   "signupsToday": 115,
   "signupsThisWeek": 147,
   "signupsByDay": {
@@ -82,10 +82,10 @@
     },
     {
       "phone": "278***18",
-      "name": "anon",
+      "name": "Nicole",
       "created": "2026-03-23T10:58:35.118Z",
-      "setup": false
+      "setup": true
     }
   ],
-  "updatedAt": "2026-03-23T11:59:51.519Z"
+  "updatedAt": "2026-03-23T12:29:51.539Z"
 }
