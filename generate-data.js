@@ -66,10 +66,11 @@ try {
         email: u.email || '',
         premium: !!(u.isPro || u.premium),
         active7d: lastDate && (now - lastActive) < 7 * 86400000,
+        joinedRaw: u.joinedAt || '',
       });
     }
 
-    fitsortedUsers.sort((a, b) => b.logs - a.logs);
+    fitsortedUsers.sort((a, b) => new Date(b.joinedRaw || 0) - new Date(a.joinedRaw || 0));
     fitsortedTopFoods = Object.entries(foodFreq).sort((a, b) => b[1] - a[1]).slice(0, 15);
 
     // Bot status
