@@ -1,13 +1,13 @@
 {
-  "totalUsers": 96,
-  "setupComplete": 79,
+  "totalUsers": 110,
+  "setupComplete": 91,
   "proUsers": 0,
-  "activeToday": 5,
-  "activeWeek": 41,
-  "logsToday": 5,
-  "totalLogsAllTime": 445,
-  "signupsToday": 9,
-  "signupsThisWeek": 41,
+  "activeToday": 9,
+  "activeWeek": 45,
+  "logsToday": 9,
+  "totalLogsAllTime": 449,
+  "signupsToday": 23,
+  "signupsThisWeek": 55,
   "signupsByDay": {
     "2026-03-21": 2,
     "2026-03-04": 4,
@@ -23,69 +23,69 @@
     "2026-03-16": 1,
     "2026-03-17": 28,
     "2026-03-18": 1,
-    "2026-03-23": 9
+    "2026-03-23": 23
   },
   "recentSignups": [
     {
-      "phone": "278***61",
+      "phone": "278***21",
       "name": "anon",
-      "created": "2026-03-23T04:29:04.633Z",
+      "created": "2026-03-23T04:59:01.056Z",
       "setup": false
     },
     {
-      "phone": "277***39",
-      "name": "Kowie",
-      "created": "2026-03-23T04:24:36.711Z",
-      "setup": true
+      "phone": "278***34",
+      "name": "anon",
+      "created": "2026-03-23T04:54:36.150Z",
+      "setup": false
     },
     {
-      "phone": "277***55",
-      "name": "Johan",
-      "created": "2026-03-23T04:24:03.678Z",
-      "setup": true
-    },
-    {
-      "phone": "277***48",
-      "name": "Logan",
-      "created": "2026-03-23T04:15:30.044Z",
-      "setup": true
-    },
-    {
-      "phone": "278***13",
-      "name": "Dean",
-      "created": "2026-03-23T04:13:37.765Z",
-      "setup": true
-    },
-    {
-      "phone": "276***18",
-      "name": "Taahir",
-      "created": "2026-03-23T04:11:07.783Z",
-      "setup": true
-    },
-    {
-      "phone": "278***74",
-      "name": "Haydn",
-      "created": "2026-03-23T04:08:17.757Z",
-      "setup": true
-    },
-    {
-      "phone": "276***14",
-      "name": "hammaad92@gmail.com",
-      "created": "2026-03-23T04:06:02.069Z",
-      "setup": true
-    },
-    {
-      "phone": "278***23",
-      "name": "Ryno",
-      "created": "2026-03-23T04:04:30.599Z",
-      "setup": true
-    },
-    {
-      "phone": "278***70",
+      "phone": "278***73",
       "name": "Brandon",
-      "created": "2026-03-21T14:43:24.266Z",
+      "created": "2026-03-23T04:53:54.375Z",
+      "setup": true
+    },
+    {
+      "phone": "278***43",
+      "name": "Carlo",
+      "created": "2026-03-23T04:53:25.980Z",
+      "setup": true
+    },
+    {
+      "phone": "177***64",
+      "name": "anon",
+      "created": "2026-03-23T04:53:09.249Z",
+      "setup": false
+    },
+    {
+      "phone": "277***36",
+      "name": "Sean",
+      "created": "2026-03-23T04:52:33.874Z",
+      "setup": true
+    },
+    {
+      "phone": "276***63",
+      "name": "Luwandakoko@gmail.com",
+      "created": "2026-03-23T04:52:19.334Z",
+      "setup": true
+    },
+    {
+      "phone": "278***43",
+      "name": "Tony",
+      "created": "2026-03-23T04:51:30.420Z",
+      "setup": true
+    },
+    {
+      "phone": "277***43",
+      "name": "Morne",
+      "created": "2026-03-23T04:50:11.135Z",
+      "setup": true
+    },
+    {
+      "phone": "278***16",
+      "name": "Caden",
+      "created": "2026-03-23T04:48:23.199Z",
       "setup": true
     }
   ],
-  "updatedAt": "2026-03-23T04:30:01.677Z"
+  "updatedAt": "2026-03-23T05:00:01.694Z"
 }
