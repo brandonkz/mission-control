@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/23, 22:04:11",
+  "updated": "2026/03/24, 00:13:34",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "124 active",
+      "traffic": "125 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "92",
+      "val": "93",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "124",
+      "val": "125",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "882",
+      "val": "888",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "442",
+      "val": "448",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "211,516",
+      "val": "212,716",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "0h 2m",
+      "val": "2h 12m",
       "color": "blue"
     },
     "Restarts": {
@@ -106,16 +106,17 @@
   },
   "fitsortedUsers": [
     {
-      "name": "Unknown",
+      "name": "Natasha",
       "phone": "2771****753",
-      "logs": 0,
+      "logs": 2,
       "joined": "2026/03/23",
-      "lastActive": "never",
-      "goal": "?",
-      "age": "",
-      "gender": "",
+      "lastActive": "2026-03-23",
+      "goal": 824,
+      "age": 33,
+      "gender": "female",
       "email": "",
       "premium": false,
+      "active7d": true,
       "joinedRaw": "2026-03-23T19:18:25.545Z"
     },
     {
@@ -1846,7 +1847,7 @@
     {
       "name": "Taahir",
       "phone": "2761****618",
-      "logs": 3,
+      "logs": 5,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 1480,
@@ -1874,7 +1875,7 @@
     {
       "name": "hammaad92@gmail.com",
       "phone": "2761****214",
-      "logs": 4,
+      "logs": 5,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 3486,
@@ -1902,7 +1903,7 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 7,
+      "logs": 8,
       "joined": "2026/03/21",
       "lastActive": "2026-03-23",
       "goal": 1999,
@@ -3142,16 +3143,16 @@
       3
     ],
     [
+      "coke zero 330ml",
+      3
+    ],
+    [
       "apple (~150g)",
       3
     ],
     [
       "lettuce (1 cup, ~50g)",
       3
-    ],
-    [
-      "3x boiled eggs",
-      2
     ]
   ],
   "fitsortedErrors": [
@@ -3179,26 +3180,26 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "1",
-        "users": "1",
-        "pageviews": "1"
+        "sessions": "5",
+        "users": "5",
+        "pageviews": "4"
       },
       "weekly": {
-        "sessions": "81",
-        "users": "65",
-        "pageviews": "101"
+        "sessions": "78",
+        "users": "63",
+        "pageviews": "97"
       }
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "5",
-        "users": "5",
-        "pageviews": "6"
+        "sessions": "17",
+        "users": "14",
+        "pageviews": "17"
       },
       "weekly": {
-        "sessions": "70",
-        "users": "62",
-        "pageviews": "72"
+        "sessions": "80",
+        "users": "69",
+        "pageviews": "82"
       }
     },
     "BetSorted": {
@@ -3208,21 +3209,21 @@
         "pageviews": "1"
       },
       "weekly": {
-        "sessions": "14",
-        "users": "11",
-        "pageviews": "25"
+        "sessions": "13",
+        "users": "10",
+        "pageviews": "22"
       }
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "5",
-        "users": "3",
-        "pageviews": "5"
+        "sessions": "83",
+        "users": "79",
+        "pageviews": "94"
       },
       "weekly": {
-        "sessions": "64",
-        "users": "42",
-        "pageviews": "121"
+        "sessions": "136",
+        "users": "111",
+        "pageviews": "203"
       }
     },
     "CryptoCasinoSorted": {
