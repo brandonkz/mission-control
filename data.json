@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/23, 18:04:23",
+  "updated": "2026/03/23, 20:04:04",
   "projects": [
     {
       "name": "FitSorted",
@@ -60,7 +60,7 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "212",
+      "val": "214",
       "color": "green"
     },
     "Active (24h)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "776",
+      "val": "816",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "336",
+      "val": "376",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "182,694",
+      "val": "196,267",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "8h 4m",
+      "val": "0h 29m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "104",
+      "val": "105",
       "color": "orange"
     },
     "Food Database": {
@@ -105,6 +105,32 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Keagan",
+      "phone": "2782****883",
+      "logs": 0,
+      "joined": "2026/03/23",
+      "lastActive": "never",
+      "goal": 4873,
+      "age": 28,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "joinedRaw": "2026-03-23T17:31:05.733Z"
+    },
+    {
+      "name": "Unknown",
+      "phone": "2771****502",
+      "logs": 0,
+      "joined": "2026/03/23",
+      "lastActive": "never",
+      "goal": "?",
+      "age": "",
+      "gender": "",
+      "email": "",
+      "premium": false,
+      "joinedRaw": "2026-03-23T16:16:39.510Z"
+    },
     {
       "name": "Kelly",
       "phone": "2779****896",
@@ -122,7 +148,7 @@
     {
       "name": "J",
       "phone": "2782****020",
-      "logs": 2,
+      "logs": 3,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 1100,
@@ -204,7 +230,7 @@
     {
       "name": "Leaan",
       "phone": "2781****953",
-      "logs": 9,
+      "logs": 11,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 768,
@@ -324,7 +350,7 @@
     {
       "name": "La",
       "phone": "2772****981",
-      "logs": 7,
+      "logs": 12,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 2448,
@@ -392,7 +418,7 @@
     {
       "name": "Qiniso",
       "phone": "2779****261",
-      "logs": 4,
+      "logs": 5,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 2801,
@@ -600,7 +626,7 @@
     {
       "name": "Chanté",
       "phone": "2779****726",
-      "logs": 4,
+      "logs": 7,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 1755,
@@ -712,7 +738,7 @@
     {
       "name": "Vanessa",
       "phone": "2760****075",
-      "logs": 6,
+      "logs": 7,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 1791,
@@ -822,7 +848,7 @@
     {
       "name": "Emile",
       "phone": "2782****174",
-      "logs": 3,
+      "logs": 5,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 2394,
@@ -863,7 +889,7 @@
     {
       "name": "Ynz",
       "phone": "2772****356",
-      "logs": 4,
+      "logs": 5,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 2502,
@@ -904,7 +930,7 @@
     {
       "name": "Adi",
       "phone": "2782****609",
-      "logs": 5,
+      "logs": 6,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 2579,
@@ -959,7 +985,7 @@
     {
       "name": "Crunchie",
       "phone": "2782****971",
-      "logs": 3,
+      "logs": 5,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 1880,
@@ -1193,7 +1219,7 @@
     {
       "name": "Camilla",
       "phone": "2773****769",
-      "logs": 4,
+      "logs": 5,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 2464,
@@ -1220,7 +1246,7 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 3,
+      "logs": 5,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 2018,
@@ -1247,7 +1273,7 @@
     {
       "name": "Peter",
       "phone": "2773****700",
-      "logs": 4,
+      "logs": 7,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 2945,
@@ -1438,7 +1464,7 @@
     {
       "name": "Mart",
       "phone": "2771****958",
-      "logs": 5,
+      "logs": 6,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 1794,
@@ -1546,7 +1572,7 @@
     {
       "name": "Carlo",
       "phone": "2784****543",
-      "logs": 2,
+      "logs": 3,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 2351,
@@ -1558,9 +1584,9 @@
       "joinedRaw": "2026-03-23T04:53:25.980Z"
     },
     {
-      "name": "Reine",
+      "name": "No that is too much",
       "phone": "1771****164",
-      "logs": 6,
+      "logs": 12,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 2543,
@@ -1588,7 +1614,7 @@
     {
       "name": "Luwandakoko@gmail.com",
       "phone": "2763****863",
-      "logs": 2,
+      "logs": 5,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 1515,
@@ -1682,7 +1708,7 @@
     {
       "name": "Norwin",
       "phone": "2782****929",
-      "logs": 8,
+      "logs": 9,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 3258,
@@ -1696,7 +1722,7 @@
     {
       "name": "Ebrahim",
       "phone": "2783****861",
-      "logs": 6,
+      "logs": 7,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 1806,
@@ -1779,7 +1805,7 @@
     {
       "name": "Haydn",
       "phone": "2782****174",
-      "logs": 4,
+      "logs": 5,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 1662,
@@ -1821,7 +1847,7 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 5,
+      "logs": 6,
       "joined": "2026/03/21",
       "lastActive": "2026-03-23",
       "goal": 1999,
@@ -3061,15 +3087,15 @@
       3
     ],
     [
+      "apple (~150g)",
+      3
+    ],
+    [
       "3x boiled eggs",
       2
     ],
     [
       "sea bass fish with rice",
-      2
-    ],
-    [
-      "bread",
       2
     ]
   ],
