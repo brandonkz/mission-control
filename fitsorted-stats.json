@@ -1,13 +1,13 @@
 {
-  "totalUsers": 169,
-  "setupComplete": 143,
+  "totalUsers": 177,
+  "setupComplete": 150,
   "proUsers": 1,
-  "activeToday": 48,
-  "activeWeek": 83,
-  "logsToday": 88,
-  "totalLogsAllTime": 528,
-  "signupsToday": 82,
-  "signupsThisWeek": 114,
+  "activeToday": 56,
+  "activeWeek": 91,
+  "logsToday": 107,
+  "totalLogsAllTime": 547,
+  "signupsToday": 90,
+  "signupsThisWeek": 122,
   "signupsByDay": {
     "2026-03-21": 2,
     "2026-03-04": 4,
@@ -23,9 +23,57 @@
     "2026-03-16": 1,
     "2026-03-17": 28,
     "2026-03-18": 1,
-    "2026-03-23": 82
+    "2026-03-23": 90
   },
   "recentSignups": [
+    {
+      "phone": "278***77",
+      "name": "anon",
+      "created": "2026-03-23T08:57:48.598Z",
+      "setup": false
+    },
+    {
+      "phone": "277***26",
+      "name": "Chanté",
+      "created": "2026-03-23T08:55:27.890Z",
+      "setup": true
+    },
+    {
+      "phone": "278***99",
+      "name": "Kyle",
+      "created": "2026-03-23T08:48:01.226Z",
+      "setup": true
+    },
+    {
+      "phone": "278***13",
+      "name": "Miri",
+      "created": "2026-03-23T08:47:03.061Z",
+      "setup": true
+    },
+    {
+      "phone": "278***00",
+      "name": "Mario",
+      "created": "2026-03-23T08:41:28.814Z",
+      "setup": true
+    },
+    {
+      "phone": "277***23",
+      "name": "anon",
+      "created": "2026-03-23T08:39:24.459Z",
+      "setup": false
+    },
+    {
+      "phone": "278***23",
+      "name": "Erla",
+      "created": "2026-03-23T08:37:57.572Z",
+      "setup": true
+    },
+    {
+      "phone": "278***11",
+      "name": "Claudia",
+      "created": "2026-03-23T08:30:07.927Z",
+      "setup": true
+    },
     {
       "phone": "278***58",
       "name": "Kim",
@@ -37,55 +85,7 @@
       "name": "Vanessa",
       "created": "2026-03-23T08:22:47.329Z",
       "setup": true
-    },
-    {
-      "phone": "278***90",
-      "name": "Deon Krishen",
-      "created": "2026-03-23T08:07:58.797Z",
-      "setup": true
-    },
-    {
-      "phone": "278***54",
-      "name": "anon",
-      "created": "2026-03-23T07:59:28.004Z",
-      "setup": false
-    },
-    {
-      "phone": "278***05",
-      "name": "Lauren",
-      "created": "2026-03-23T07:52:53.160Z",
-      "setup": true
-    },
-    {
-      "phone": "278***83",
-      "name": "Andrew",
-      "created": "2026-03-23T07:37:50.085Z",
-      "setup": true
-    },
-    {
-      "phone": "277***33",
-      "name": "anon",
-      "created": "2026-03-23T07:30:44.383Z",
-      "setup": false
-    },
-    {
-      "phone": "278***68",
-      "name": "James",
-      "created": "2026-03-23T07:24:52.767Z",
-      "setup": true
-    },
-    {
-      "phone": "276***81",
-      "name": "Yello",
-      "created": "2026-03-23T07:17:57.488Z",
-      "setup": true
-    },
-    {
-      "phone": "278***74",
-      "name": "Emile",
-      "created": "2026-03-23T07:13:56.473Z",
-      "setup": true
     }
   ],
-  "updatedAt": "2026-03-23T08:29:51.404Z"
+  "updatedAt": "2026-03-23T08:59:51.417Z"
 }
