@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/23, 10:04:04",
+  "updated": "2026/03/23, 12:04:03",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "79 active",
+      "traffic": "101 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "166",
+      "val": "187",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "47",
+      "val": "69",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "79",
+      "val": "101",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "521",
+      "val": "582",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "81",
+      "val": "142",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "122,605",
+      "val": "135,411",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "0h 4m",
+      "val": "2h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -106,13 +106,305 @@
   },
   "fitsortedUsers": [
     {
+      "name": "Robyn",
+      "phone": "2782****997",
+      "logs": 1,
+      "joined": "2026/03/23",
+      "lastActive": "2026-03-23",
+      "goal": 861,
+      "age": 49,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-23T09:38:59.326Z"
+    },
+    {
       "name": "Unknown",
-      "phone": "2783****354",
+      "phone": "2782****244",
       "logs": 0,
       "joined": "2026/03/23",
       "lastActive": "never",
       "goal": "?",
       "age": "",
+      "gender": "",
+      "email": "",
+      "premium": false,
+      "joinedRaw": "2026-03-23T09:38:25.327Z"
+    },
+    {
+      "name": "Dane",
+      "phone": "2766****289",
+      "logs": 2,
+      "joined": "2026/03/23",
+      "lastActive": "2026-03-23",
+      "goal": 3763,
+      "age": 38,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-23T09:37:53.257Z"
+    },
+    {
+      "name": "Nicholas",
+      "phone": "2772****104",
+      "logs": 2,
+      "joined": "2026/03/23",
+      "lastActive": "2026-03-23",
+      "goal": 2945,
+      "age": 42,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-23T09:36:54.036Z"
+    },
+    {
+      "name": "Ngeli",
+      "phone": "2764****381",
+      "logs": 1,
+      "joined": "2026/03/23",
+      "lastActive": "2026-03-23",
+      "goal": 1404,
+      "age": 39,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-23T09:36:35.220Z"
+    },
+    {
+      "name": "Olivia",
+      "phone": "2783****320",
+      "logs": 1,
+      "joined": "2026/03/23",
+      "lastActive": "2026-03-23",
+      "goal": 2400,
+      "age": 46,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-23T09:29:20.493Z"
+    },
+    {
+      "name": "Eduan",
+      "phone": "2772****589",
+      "logs": 1,
+      "joined": "2026/03/23",
+      "lastActive": "2026-03-23",
+      "goal": 1719,
+      "age": 32,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-23T09:25:24.619Z"
+    },
+    {
+      "name": "Misha",
+      "phone": "2783****709",
+      "logs": 6,
+      "joined": "2026/03/23",
+      "lastActive": "2026-03-23",
+      "goal": 1842,
+      "age": 40,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-23T09:22:14.899Z"
+    },
+    {
+      "name": "Jane",
+      "phone": "2772****611",
+      "logs": 1,
+      "joined": "2026/03/23",
+      "lastActive": "2026-03-23",
+      "goal": 1544,
+      "age": 57,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-23T09:10:00.249Z"
+    },
+    {
+      "name": "Gemma",
+      "phone": "2771****120",
+      "logs": 0,
+      "joined": "2026/03/23",
+      "lastActive": "never",
+      "goal": 2727,
+      "age": 28,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "joinedRaw": "2026-03-23T09:01:54.668Z"
+    },
+    {
+      "name": "Fuad",
+      "phone": "2782****477",
+      "logs": 6,
+      "joined": "2026/03/23",
+      "lastActive": "2026-03-23",
+      "goal": 2053,
+      "age": 65,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-23T08:57:48.598Z"
+    },
+    {
+      "name": "Chanté",
+      "phone": "2779****726",
+      "logs": 2,
+      "joined": "2026/03/23",
+      "lastActive": "2026-03-23",
+      "goal": 1755,
+      "age": 28,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-23T08:55:27.890Z"
+    },
+    {
+      "name": "Kyle",
+      "phone": "2784****999",
+      "logs": 3,
+      "joined": "2026/03/23",
+      "lastActive": "2026-03-23",
+      "goal": 2733,
+      "age": 32,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-23T08:48:01.226Z"
+    },
+    {
+      "name": "Miri",
+      "phone": "2783****713",
+      "logs": 2,
+      "joined": "2026/03/23",
+      "lastActive": "2026-03-23",
+      "goal": 2120,
+      "age": 41,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-23T08:47:03.061Z"
+    },
+    {
+      "name": "Mario",
+      "phone": "2784****000",
+      "logs": 1,
+      "joined": "2026/03/23",
+      "lastActive": "2026-03-23",
+      "goal": 1601,
+      "age": 57,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-23T08:41:28.814Z"
+    },
+    {
+      "name": "Lauren",
+      "phone": "2773****023",
+      "logs": 1,
+      "joined": "2026/03/23",
+      "lastActive": "2026-03-23",
+      "goal": 1927,
+      "age": 37,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-23T08:39:24.459Z"
+    },
+    {
+      "name": "Erla",
+      "phone": "2784****323",
+      "logs": 1,
+      "joined": "2026/03/23",
+      "lastActive": "2026-03-23",
+      "goal": 1471,
+      "age": 62,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-23T08:37:57.572Z"
+    },
+    {
+      "name": "Claudia",
+      "phone": "2782****511",
+      "logs": 4,
+      "joined": "2026/03/23",
+      "lastActive": "2026-03-23",
+      "goal": 981,
+      "age": 45,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-23T08:30:07.927Z"
+    },
+    {
+      "name": "Kim",
+      "phone": "2784****858",
+      "logs": 1,
+      "joined": "2026/03/23",
+      "lastActive": "2026-03-23",
+      "goal": 1810,
+      "age": 40,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-23T08:25:57.591Z"
+    },
+    {
+      "name": "Vanessa",
+      "phone": "2760****075",
+      "logs": 4,
+      "joined": "2026/03/23",
+      "lastActive": "2026-03-23",
+      "goal": 1791,
+      "age": 33,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-23T08:22:47.329Z"
+    },
+    {
+      "name": "Deon Krishen",
+      "phone": "2784****590",
+      "logs": 3,
+      "joined": "2026/03/23",
+      "lastActive": "2026-03-23",
+      "goal": 1958,
+      "age": 48,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-23T08:07:58.797Z"
+    },
+    {
+      "name": "Juanene",
+      "phone": "2783****354",
+      "logs": 0,
+      "joined": "2026/03/23",
+      "lastActive": "never",
+      "goal": 1871,
+      "age": 61,
       "gender": "female",
       "email": "",
       "premium": false,
@@ -121,7 +413,7 @@
     {
       "name": "Lauren",
       "phone": "2782****805",
-      "logs": 1,
+      "logs": 2,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 1646,
@@ -161,7 +453,7 @@
     {
       "name": "James",
       "phone": "2782****968",
-      "logs": 2,
+      "logs": 4,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 1496,
@@ -285,14 +577,15 @@
     {
       "name": "Divan",
       "phone": "2782****249",
-      "logs": 0,
+      "logs": 1,
       "joined": "2026/03/23",
-      "lastActive": "never",
+      "lastActive": "2026-03-23",
       "goal": 2448,
       "age": 28,
       "gender": "male",
       "email": "",
       "premium": false,
+      "active7d": true,
       "joinedRaw": "2026-03-23T06:51:07.291Z"
     },
     {
@@ -325,7 +618,7 @@
     {
       "name": "Crunchie",
       "phone": "2782****971",
-      "logs": 1,
+      "logs": 2,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 1880,
@@ -378,16 +671,17 @@
       "joinedRaw": "2026-03-23T06:39:13.838Z"
     },
     {
-      "name": "Unknown",
+      "name": "Zamile",
       "phone": "2764****532",
-      "logs": 0,
+      "logs": 2,
       "joined": "2026/03/23",
-      "lastActive": "never",
-      "goal": "?",
-      "age": "",
+      "lastActive": "2026-03-23",
+      "goal": 2213,
+      "age": 41,
       "gender": "male",
       "email": "",
       "premium": false,
+      "active7d": true,
       "joinedRaw": "2026-03-23T06:35:42.993Z"
     },
     {
@@ -419,7 +713,7 @@
     {
       "name": "Nick",
       "phone": "2760****695",
-      "logs": 2,
+      "logs": 3,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 2315,
@@ -474,7 +768,7 @@
     {
       "name": "Jan",
       "phone": "2782****657",
-      "logs": 3,
+      "logs": 7,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 3023,
@@ -584,7 +878,7 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 1,
+      "logs": 2,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 2018,
@@ -801,7 +1095,7 @@
     {
       "name": "Mart",
       "phone": "2771****958",
-      "logs": 2,
+      "logs": 4,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 1794,
@@ -909,20 +1203,21 @@
     {
       "name": "Carlo",
       "phone": "2784****543",
-      "logs": 0,
+      "logs": 1,
       "joined": "2026/03/23",
-      "lastActive": "never",
+      "lastActive": "2026-03-23",
       "goal": 2351,
       "age": 30,
       "gender": "male",
       "email": "",
       "premium": false,
+      "active7d": true,
       "joinedRaw": "2026-03-23T04:53:25.980Z"
     },
     {
       "name": "Reine",
       "phone": "1771****164",
-      "logs": 4,
+      "logs": 5,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 2543,
@@ -1044,7 +1339,7 @@
     {
       "name": "Norwin",
       "phone": "2782****929",
-      "logs": 2,
+      "logs": 3,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 3258,
@@ -2377,6 +2672,10 @@
       6
     ],
     [
+      "banana (1 medium)",
+      5
+    ],
+    [
       "3x eggs",
       4
     ],
@@ -2397,10 +2696,6 @@
       3
     ],
     [
-      "banana (1 medium)",
-      3
-    ],
-    [
       "wrap",
       3
     ],
@@ -2410,6 +2705,10 @@
     ],
     [
       "scrambled eggs (2 eggs)",
+      3
+    ],
+    [
+      "coffee with milk (1 cup)",
       3
     ],
     [
@@ -2427,10 +2726,6 @@
     [
       "apple",
       2
-    ],
-    [
-      "black coffee",
-      2
     ]
   ],
   "fitsortedErrors": [
@@ -2439,12 +2734,12 @@
       "error": "[sheets append error] spawnSync /bin/sh ETIMEDOUT"
     },
     {
-      "count": 1,
-      "error": "Webhook error: msgLower is not defined ReferenceError: msgLower is not defined"
+      "count": 2,
+      "error": "Food lookup error: Invalid food input"
     },
     {
       "count": 1,
-      "error": "SyntaxError: Identifier 'zeroCalAllowed' has already been declared"
+      "error": "Webhook error: msgLower is not defined ReferenceError: msgLower is not defined"
     },
     {
       "count": 1,
@@ -2452,7 +2747,7 @@
     },
     {
       "count": 1,
-      "error": "Food lookup error: Input too short or unclear"
+      "error": "Supabase lookup error: malformed array literal: \"{the food item is \"chocolate flavoured low fat milk\" from the brand first choice. the estimated portion size is approximately 250ml.}\""
     }
   ],
   "analytics": {
