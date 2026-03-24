@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/24, 10:04:03",
+  "updated": "2026/03/24, 12:04:03",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "33",
+      "val": "36",
       "color": "green"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "961",
+      "val": "985",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "70",
+      "val": "94",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "226,004",
+      "val": "230,648",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "0h 42m",
+      "val": "2h 42m",
       "color": "blue"
     },
     "Restarts": {
@@ -122,7 +122,7 @@
     {
       "name": "Shelley",
       "phone": "2774****649",
-      "logs": 1,
+      "logs": 2,
       "joined": "2026/03/24",
       "lastActive": "2026-03-24",
       "goal": 930,
@@ -343,7 +343,7 @@
     {
       "name": "Mariska",
       "phone": "2782****028",
-      "logs": 7,
+      "logs": 8,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 1183,
@@ -411,7 +411,7 @@
     {
       "name": "Herman",
       "phone": "2772****878",
-      "logs": 8,
+      "logs": 9,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 2013,
@@ -642,7 +642,7 @@
     {
       "name": "Ronnie",
       "phone": "2782****244",
-      "logs": 3,
+      "logs": 4,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 3416,
@@ -781,7 +781,7 @@
     {
       "name": "Chanté",
       "phone": "2779****726",
-      "logs": 9,
+      "logs": 10,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 1755,
@@ -879,9 +879,9 @@
     {
       "name": "Kim",
       "phone": "2784****858",
-      "logs": 5,
+      "logs": 8,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 1810,
       "age": 40,
       "gender": "female",
@@ -975,7 +975,7 @@
     {
       "name": "James",
       "phone": "2782****968",
-      "logs": 8,
+      "logs": 7,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 1496,
@@ -1044,9 +1044,9 @@
     {
       "name": "Ynz",
       "phone": "2772****356",
-      "logs": 5,
+      "logs": 6,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 2502,
       "age": 31,
       "gender": "male",
@@ -1140,7 +1140,7 @@
     {
       "name": "Crunchie",
       "phone": "2782****971",
-      "logs": 6,
+      "logs": 7,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 1867,
@@ -1236,7 +1236,7 @@
     {
       "name": "Nick",
       "phone": "2760****695",
-      "logs": 12,
+      "logs": 17,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 1284,
@@ -1291,7 +1291,7 @@
     {
       "name": "Jan",
       "phone": "2782****657",
-      "logs": 16,
+      "logs": 22,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 3023,
@@ -1401,9 +1401,9 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 5,
+      "logs": 6,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 2018,
       "age": 35,
       "gender": "male",
@@ -1877,7 +1877,7 @@
     {
       "name": "Ebrahim",
       "phone": "2783****861",
-      "logs": 10,
+      "logs": 11,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 1806,
@@ -1974,7 +1974,7 @@
     {
       "name": "hammaad92@gmail.com",
       "phone": "2761****214",
-      "logs": 6,
+      "logs": 8,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 3486,
@@ -3195,7 +3195,7 @@
   "fitsortedTopFoods": [
     [
       "3x eggs",
-      7
+      8
     ],
     [
       "banana (1 medium)",
