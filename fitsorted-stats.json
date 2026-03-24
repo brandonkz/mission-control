@@ -1,13 +1,13 @@
 {
-  "totalUsers": 223,
-  "setupComplete": 191,
+  "totalUsers": 225,
+  "setupComplete": 193,
   "proUsers": 1,
-  "activeToday": 21,
-  "activeWeek": 129,
-  "logsToday": 45,
-  "totalLogsAllTime": 933,
-  "signupsToday": 5,
-  "signupsThisWeek": 167,
+  "activeToday": 28,
+  "activeWeek": 130,
+  "logsToday": 60,
+  "totalLogsAllTime": 951,
+  "signupsToday": 7,
+  "signupsThisWeek": 169,
   "signupsByDay": {
     "2026-03-21": 2,
     "2026-03-04": 4,
@@ -24,9 +24,21 @@
     "2026-03-17": 28,
     "2026-03-18": 1,
     "2026-03-23": 131,
-    "2026-03-24": 5
+    "2026-03-24": 7
   },
   "recentSignups": [
+    {
+      "phone": "277***73",
+      "name": "Blem",
+      "created": "2026-03-24T07:22:54.497Z",
+      "setup": true
+    },
+    {
+      "phone": "277***49",
+      "name": "Shelley",
+      "created": "2026-03-24T07:10:10.785Z",
+      "setup": true
+    },
     {
       "phone": "278***47",
       "name": "Jeffbr99@gmail.com",
@@ -74,19 +86,7 @@
       "name": "Max",
       "created": "2026-03-23T19:01:08.309Z",
       "setup": true
-    },
-    {
-      "phone": "447***34",
-      "name": "Vicky",
-      "created": "2026-03-23T18:38:39.277Z",
-      "setup": true
-    },
-    {
-      "phone": "278***83",
-      "name": "Keagan",
-      "created": "2026-03-23T17:31:05.733Z",
-      "setup": true
     }
   ],
-  "updatedAt": "2026-03-24T06:58:47.306Z"
+  "updatedAt": "2026-03-24T07:26:22.498Z"
 }
