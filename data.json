@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/24, 00:13:34",
+  "updated": "2026/03/24, 02:04:27",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "125 active",
+      "traffic": "106 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "93",
-      "color": "green"
+      "val": "0",
+      "color": "orange"
     },
     "Active (7d)": {
-      "val": "125",
+      "val": "106",
       "color": "green"
     },
     "Premium Users": {
@@ -80,8 +80,8 @@
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "448",
-      "color": "green"
+      "val": "0",
+      "color": "orange"
     },
     "Total Calories Tracked": {
       "val": "212,716",
@@ -92,15 +92,15 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "2h 12m",
+      "val": "1h 0m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "107",
+      "val": "109",
       "color": "orange"
     },
     "Food Database": {
-      "val": "1347 foods",
+      "val": "1426 foods",
       "color": "blue"
     }
   },
@@ -1952,7 +1952,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-17T19:51:17.280Z"
     },
     {
@@ -1979,7 +1979,7 @@
       "gender": "",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-17T15:40:46.571Z"
     },
     {
@@ -1993,7 +1993,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-17T15:14:46.364Z"
     },
     {
@@ -2007,7 +2007,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-17T14:58:01.788Z"
     },
     {
@@ -2021,7 +2021,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-17T14:55:35.477Z"
     },
     {
@@ -2035,7 +2035,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-17T14:40:38.240Z"
     },
     {
@@ -2049,7 +2049,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-17T14:36:51.408Z"
     },
     {
@@ -2077,7 +2077,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-17T14:26:16.943Z"
     },
     {
@@ -2105,7 +2105,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-17T13:34:36.855Z"
     },
     {
@@ -2146,7 +2146,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-17T13:28:16.023Z"
     },
     {
@@ -2174,7 +2174,7 @@
       "gender": "",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-17T12:48:59.977Z"
     },
     {
@@ -2188,7 +2188,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-17T12:09:57.552Z"
     },
     {
@@ -2202,7 +2202,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-17T11:56:59.336Z"
     },
     {
@@ -2216,7 +2216,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-17T11:48:17.224Z"
     },
     {
@@ -2244,7 +2244,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-17T11:34:08.150Z"
     },
     {
@@ -2271,7 +2271,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-17T10:59:25.143Z"
     },
     {
@@ -2312,7 +2312,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-17T08:58:17.660Z"
     },
     {
@@ -2326,7 +2326,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-17T08:35:11.189Z"
     },
     {
@@ -2490,7 +2490,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-13T22:45:05.168Z"
     },
     {
@@ -3216,26 +3216,26 @@
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "83",
+        "sessions": "84",
         "users": "79",
-        "pageviews": "94"
+        "pageviews": "95"
       },
       "weekly": {
-        "sessions": "136",
+        "sessions": "137",
         "users": "111",
-        "pageviews": "203"
+        "pageviews": "204"
       }
     },
     "CryptoCasinoSorted": {
       "daily": {
-        "sessions": "1",
-        "users": "1",
-        "pageviews": "1"
+        "sessions": "4",
+        "users": "4",
+        "pageviews": "4"
       },
       "weekly": {
-        "sessions": "16",
-        "users": "12",
-        "pageviews": "20"
+        "sessions": "15",
+        "users": "13",
+        "pageviews": "19"
       }
     }
   },
@@ -3263,15 +3263,15 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "3,256",
+      "val": "3,405",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$3.4M",
+      "val": "$2.5M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "24 (>$10K)",
+      "val": "25 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
