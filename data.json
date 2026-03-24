@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/24, 14:04:13",
+  "updated": "2026/03/24, 16:04:09",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "115 active",
+      "traffic": "116 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "225",
+      "val": "227",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "41",
+      "val": "44",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "115",
+      "val": "116",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,008",
+      "val": "1,030",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "117",
+      "val": "139",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "236,349",
+      "val": "240,288",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "0h 55m",
+      "val": "2h 55m",
       "color": "blue"
     },
     "Restarts": {
@@ -105,6 +105,33 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Kiren",
+      "phone": "2782****873",
+      "logs": 3,
+      "joined": "2026/03/24",
+      "lastActive": "2026-03-24",
+      "goal": 1961,
+      "age": 54,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-24T13:43:26.373Z"
+    },
+    {
+      "name": "Nita",
+      "phone": "2772****339",
+      "logs": 0,
+      "joined": "2026/03/24",
+      "lastActive": "never",
+      "goal": 2525,
+      "age": 31,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "joinedRaw": "2026-03-24T13:38:08.212Z"
+    },
     {
       "name": "Blem",
       "phone": "2772****573",
@@ -122,7 +149,7 @@
     {
       "name": "Shelley",
       "phone": "2774****649",
-      "logs": 2,
+      "logs": 4,
       "joined": "2026/03/24",
       "lastActive": "2026-03-24",
       "goal": 930,
@@ -164,7 +191,7 @@
     {
       "name": "Kagiso",
       "phone": "2772****572",
-      "logs": 2,
+      "logs": 4,
       "joined": "2026/03/24",
       "lastActive": "2026-03-24",
       "goal": 2201,
@@ -248,7 +275,7 @@
     {
       "name": "Vicky",
       "phone": "4475****334",
-      "logs": 19,
+      "logs": 23,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 1503,
@@ -384,9 +411,9 @@
     {
       "name": "Leaan",
       "phone": "2781****953",
-      "logs": 12,
+      "logs": 15,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 768,
       "age": 46,
       "gender": "female",
@@ -642,7 +669,7 @@
     {
       "name": "Ronnie",
       "phone": "2782****244",
-      "logs": 7,
+      "logs": 8,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 3416,
@@ -781,7 +808,7 @@
     {
       "name": "Chanté",
       "phone": "2779****726",
-      "logs": 10,
+      "logs": 11,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 1755,
@@ -1292,7 +1319,7 @@
     {
       "name": "Jan",
       "phone": "2782****657",
-      "logs": 23,
+      "logs": 24,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 3023,
@@ -1565,9 +1592,9 @@
     {
       "name": "Alexi",
       "phone": "2783****369",
-      "logs": 10,
+      "logs": 15,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 1951,
       "age": 55,
       "gender": "male",
