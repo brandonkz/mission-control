@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/24, 20:04:26",
+  "updated": "2026/03/24, 22:04:10",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "119 active",
+      "traffic": "120 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "230",
+      "val": "231",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "53",
+      "val": "54",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "119",
+      "val": "120",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,090",
+      "val": "1,108",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "199",
+      "val": "217",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "260,579",
+      "val": "264,761",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "1h 46m",
+      "val": "3h 46m",
       "color": "blue"
     },
     "Restarts": {
@@ -105,6 +105,20 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Dee",
+      "phone": "2772****259",
+      "logs": 1,
+      "joined": "2026/03/24",
+      "lastActive": "2026-03-24",
+      "goal": 1374,
+      "age": 46,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-24T18:17:26.007Z"
+    },
     {
       "name": "Unknown",
       "phone": "2776****458",
@@ -121,7 +135,7 @@
     {
       "name": "Can we choose lose weight option rather",
       "phone": "2782****924",
-      "logs": 3,
+      "logs": 4,
       "joined": "2026/03/24",
       "lastActive": "2026-03-24",
       "goal": 1844,
@@ -149,7 +163,7 @@
     {
       "name": "Kiren",
       "phone": "2782****873",
-      "logs": 3,
+      "logs": 4,
       "joined": "2026/03/24",
       "lastActive": "2026-03-24",
       "goal": 1961,
@@ -232,7 +246,7 @@
     {
       "name": "Kagiso",
       "phone": "2772****572",
-      "logs": 4,
+      "logs": 6,
       "joined": "2026/03/24",
       "lastActive": "2026-03-24",
       "goal": 2201,
@@ -316,7 +330,7 @@
     {
       "name": "Vicky",
       "phone": "4475****334",
-      "logs": 23,
+      "logs": 27,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 1503,
@@ -1223,7 +1237,7 @@
     {
       "name": "Khali",
       "phone": "2774****977",
-      "logs": 4,
+      "logs": 5,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 2306,
@@ -1498,7 +1512,7 @@
     {
       "name": "Peter",
       "phone": "2773****700",
-      "logs": 10,
+      "logs": 15,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 2945,
@@ -1919,7 +1933,7 @@
     {
       "name": "Ken",
       "phone": "2783****497",
-      "logs": 8,
+      "logs": 9,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 2567,
@@ -1947,7 +1961,7 @@
     {
       "name": "Ebrahim",
       "phone": "2783****861",
-      "logs": 12,
+      "logs": 13,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 1806,
@@ -2044,7 +2058,7 @@
     {
       "name": "hammaad92@gmail.com",
       "phone": "2761****214",
-      "logs": 8,
+      "logs": 9,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 3486,
@@ -3264,11 +3278,11 @@
   ],
   "fitsortedTopFoods": [
     [
-      "3x eggs",
-      8
+      "coffee with milk (1 cup)",
+      9
     ],
     [
-      "coffee with milk (1 cup)",
+      "3x eggs",
       8
     ],
     [
@@ -3326,8 +3340,12 @@
   ],
   "fitsortedErrors": [
     {
-      "count": 73,
+      "count": 67,
       "error": "[sheets append error] spawnSync /bin/sh ETIMEDOUT"
+    },
+    {
+      "count": 6,
+      "error": "Food lookup error: Request failed with status code 429"
     },
     {
       "count": 6,
@@ -3340,10 +3358,6 @@
     {
       "count": 1,
       "error": "[sheets append error] spawnSync gog ETIMEDOUT"
-    },
-    {
-      "count": 1,
-      "error": "Webhook error: msgLower is not defined ReferenceError: msgLower is not defined"
     }
   ],
   "analytics": {
