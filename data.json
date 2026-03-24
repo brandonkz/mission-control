@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/24, 22:04:10",
+  "updated": "2026/03/25, 00:13:28",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "54",
+      "val": "55",
       "color": "green"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,108",
+      "val": "1,113",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "217",
+      "val": "222",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "264,761",
+      "val": "265,556",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "3h 46m",
+      "val": "5h 55m",
       "color": "blue"
     },
     "Restarts": {
@@ -1292,9 +1292,9 @@
     {
       "name": "Annemarie",
       "phone": "2782****546",
-      "logs": 6,
+      "logs": 11,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 623,
       "age": 62,
       "gender": "female",
@@ -3340,11 +3340,11 @@
   ],
   "fitsortedErrors": [
     {
-      "count": 67,
+      "count": 56,
       "error": "[sheets append error] spawnSync /bin/sh ETIMEDOUT"
     },
     {
-      "count": 6,
+      "count": 9,
       "error": "Food lookup error: Request failed with status code 429"
     },
     {
@@ -3363,50 +3363,50 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "5",
-        "users": "5",
-        "pageviews": "5"
+        "sessions": "21",
+        "users": "19",
+        "pageviews": "21"
       },
       "weekly": {
-        "sessions": "78",
-        "users": "63",
-        "pageviews": "98"
+        "sessions": "43",
+        "users": "30",
+        "pageviews": "52"
       }
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "17",
-        "users": "14",
-        "pageviews": "17"
+        "sessions": "5",
+        "users": "5",
+        "pageviews": "6"
       },
       "weekly": {
-        "sessions": "80",
-        "users": "69",
-        "pageviews": "82"
+        "sessions": "71",
+        "users": "63",
+        "pageviews": "76"
       }
     },
     "BetSorted": {
       "daily": {
-        "sessions": "1",
-        "users": "1",
-        "pageviews": "1"
+        "sessions": "7",
+        "users": "5",
+        "pageviews": "11"
       },
       "weekly": {
-        "sessions": "13",
-        "users": "10",
-        "pageviews": "22"
+        "sessions": "16",
+        "users": "11",
+        "pageviews": "29"
       }
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "86",
-        "users": "80",
-        "pageviews": "105"
+        "sessions": "17",
+        "users": "15",
+        "pageviews": "16"
       },
       "weekly": {
-        "sessions": "139",
-        "users": "112",
-        "pageviews": "214"
+        "sessions": "133",
+        "users": "114",
+        "pageviews": "161"
       }
     },
     "CryptoCasinoSorted": {
