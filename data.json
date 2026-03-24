@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/24, 16:04:09",
+  "updated": "2026/03/24, 18:04:13",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "116 active",
+      "traffic": "118 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "227",
+      "val": "228",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "44",
+      "val": "49",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "116",
+      "val": "118",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,030",
+      "val": "1,059",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "139",
+      "val": "168",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "240,288",
+      "val": "250,649",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "2h 55m",
+      "val": "4h 55m",
       "color": "blue"
     },
     "Restarts": {
@@ -105,6 +105,20 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Yanga",
+      "phone": "2769****629",
+      "logs": 7,
+      "joined": "2026/03/24",
+      "lastActive": "2026-03-24",
+      "goal": 3465,
+      "age": 28,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-24T15:00:15.120Z"
+    },
     {
       "name": "Kiren",
       "phone": "2782****873",
@@ -411,7 +425,7 @@
     {
       "name": "Leaan",
       "phone": "2781****953",
-      "logs": 15,
+      "logs": 17,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 768,
@@ -505,14 +519,15 @@
     {
       "name": "Dave",
       "phone": "2782****000",
-      "logs": 0,
+      "logs": 1,
       "joined": "2026/03/23",
-      "lastActive": "never",
+      "lastActive": "2026-03-24",
       "goal": 3485,
       "age": 49,
       "gender": "male",
       "email": "",
       "premium": false,
+      "active7d": true,
       "joinedRaw": "2026-03-23T11:32:40.272Z"
     },
     {
@@ -572,7 +587,7 @@
     {
       "name": "Nicole",
       "phone": "2784****318",
-      "logs": 8,
+      "logs": 13,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 2853,
@@ -669,7 +684,7 @@
     {
       "name": "Ronnie",
       "phone": "2782****244",
-      "logs": 8,
+      "logs": 9,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 3416,
@@ -1002,7 +1017,7 @@
     {
       "name": "James",
       "phone": "2782****968",
-      "logs": 7,
+      "logs": 8,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 1496,
@@ -1167,7 +1182,7 @@
     {
       "name": "Crunchie",
       "phone": "2782****971",
-      "logs": 7,
+      "logs": 8,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 1867,
@@ -1524,9 +1539,9 @@
     {
       "name": "Wayne",
       "phone": "2772****460",
-      "logs": 8,
+      "logs": 14,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 1934,
       "age": 41,
       "gender": "male",
@@ -1741,9 +1756,9 @@
     {
       "name": "Brandon",
       "phone": "2784****473",
-      "logs": 3,
+      "logs": 5,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 3785,
       "age": 44,
       "gender": "male",
@@ -1783,9 +1798,9 @@
     {
       "name": "Sean",
       "phone": "2774****136",
-      "logs": 2,
+      "logs": 5,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 1935,
       "age": 49,
       "gender": "male",
@@ -3226,15 +3241,15 @@
       8
     ],
     [
+      "coffee with milk (1 cup)",
+      7
+    ],
+    [
       "banana (1 medium)",
       6
     ],
     [
       "2x boiled egg",
-      6
-    ],
-    [
-      "coffee with milk (1 cup)",
       6
     ],
     [
@@ -3284,11 +3299,11 @@
   ],
   "fitsortedErrors": [
     {
-      "count": 76,
+      "count": 74,
       "error": "[sheets append error] spawnSync /bin/sh ETIMEDOUT"
     },
     {
-      "count": 4,
+      "count": 6,
       "error": "Food lookup error: Invalid food input"
     },
     {
