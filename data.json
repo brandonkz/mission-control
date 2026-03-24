@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/24, 12:04:03",
+  "updated": "2026/03/24, 14:04:13",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "114 active",
+      "traffic": "115 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "36",
+      "val": "41",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "114",
+      "val": "115",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "985",
+      "val": "1,008",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "94",
+      "val": "117",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "230,648",
+      "val": "236,349",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "2h 42m",
+      "val": "0h 55m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "114",
+      "val": "117",
       "color": "orange"
     },
     "Food Database": {
@@ -411,7 +411,7 @@
     {
       "name": "Herman",
       "phone": "2772****878",
-      "logs": 9,
+      "logs": 12,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 2013,
@@ -628,7 +628,7 @@
     {
       "name": "Robyn",
       "phone": "2782****997",
-      "logs": 7,
+      "logs": 9,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 861,
@@ -642,7 +642,7 @@
     {
       "name": "Ronnie",
       "phone": "2782****244",
-      "logs": 4,
+      "logs": 7,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 3416,
@@ -795,9 +795,9 @@
     {
       "name": "Kyle",
       "phone": "2784****999",
-      "logs": 4,
+      "logs": 7,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 2733,
       "age": 32,
       "gender": "male",
@@ -865,9 +865,9 @@
     {
       "name": "Claudia",
       "phone": "2782****511",
-      "logs": 8,
+      "logs": 10,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 981,
       "age": 45,
       "gender": "female",
@@ -934,9 +934,9 @@
     {
       "name": "Lauren",
       "phone": "2782****805",
-      "logs": 4,
+      "logs": 6,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 1646,
       "age": 46,
       "gender": "female",
@@ -1058,7 +1058,7 @@
     {
       "name": "Daniel",
       "phone": "2776****638",
-      "logs": 9,
+      "logs": 11,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 2043,
@@ -1113,7 +1113,7 @@
     {
       "name": "Rob",
       "phone": "2771****896",
-      "logs": 4,
+      "logs": 5,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 2527,
@@ -1154,9 +1154,9 @@
     {
       "name": "Khali",
       "phone": "2774****977",
-      "logs": 3,
+      "logs": 4,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 2306,
       "age": 40,
       "gender": "female",
@@ -1264,14 +1264,15 @@
     {
       "name": "Unknown",
       "phone": "2783****710",
-      "logs": 0,
+      "logs": 1,
       "joined": "2026/03/23",
-      "lastActive": "never",
+      "lastActive": "2026-03-24",
       "goal": "?",
       "age": "",
       "gender": "",
       "email": "",
       "premium": false,
+      "active7d": true,
       "joinedRaw": "2026-03-23T06:19:56.781Z"
     },
     {
@@ -1291,7 +1292,7 @@
     {
       "name": "Jan",
       "phone": "2782****657",
-      "logs": 22,
+      "logs": 23,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 3023,
@@ -1401,7 +1402,7 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 6,
+      "logs": 7,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 2018,
@@ -1849,7 +1850,7 @@
     {
       "name": "Ken",
       "phone": "2783****497",
-      "logs": 7,
+      "logs": 8,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 2567,
@@ -3329,12 +3330,12 @@
       "daily": {
         "sessions": "4",
         "users": "4",
-        "pageviews": "4"
+        "pageviews": "5"
       },
       "weekly": {
         "sessions": "15",
         "users": "13",
-        "pageviews": "19"
+        "pageviews": "20"
       }
     }
   },
