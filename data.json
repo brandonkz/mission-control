@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/24, 08:07:24",
+  "updated": "2026/03/24, 10:04:03",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "109 active",
+      "traffic": "114 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "222",
+      "val": "225",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "11",
+      "val": "33",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "109",
+      "val": "114",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "910",
+      "val": "961",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "22",
+      "val": "70",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "215,559",
+      "val": "226,004",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "5h 7m",
+      "val": "0h 42m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "110",
+      "val": "114",
       "color": "orange"
     },
     "Food Database": {
@@ -106,9 +106,51 @@
   },
   "fitsortedUsers": [
     {
+      "name": "Blem",
+      "phone": "2772****573",
+      "logs": 2,
+      "joined": "2026/03/24",
+      "lastActive": "2026-03-24",
+      "goal": 2743,
+      "age": 20,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-24T07:22:54.497Z"
+    },
+    {
+      "name": "Shelley",
+      "phone": "2774****649",
+      "logs": 1,
+      "joined": "2026/03/24",
+      "lastActive": "2026-03-24",
+      "goal": 930,
+      "age": 45,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-24T07:10:10.785Z"
+    },
+    {
+      "name": "Jeffbr99@gmail.com",
+      "phone": "2783****847",
+      "logs": 1,
+      "joined": "2026/03/24",
+      "lastActive": "2026-03-24",
+      "goal": 2971,
+      "age": 27,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-24T06:36:07.788Z"
+    },
+    {
       "name": "Candice",
       "phone": "2761****112",
-      "logs": 1,
+      "logs": 4,
       "joined": "2026/03/24",
       "lastActive": "2026-03-24",
       "goal": 2369,
@@ -122,14 +164,15 @@
     {
       "name": "Kagiso",
       "phone": "2772****572",
-      "logs": 0,
+      "logs": 2,
       "joined": "2026/03/24",
-      "lastActive": "never",
+      "lastActive": "2026-03-24",
       "goal": 2201,
       "age": 33,
       "gender": "male",
       "email": "",
       "premium": false,
+      "active7d": true,
       "joinedRaw": "2026-03-24T04:40:39.447Z"
     },
     {
@@ -205,9 +248,9 @@
     {
       "name": "Vicky",
       "phone": "4475****334",
-      "logs": 17,
+      "logs": 19,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 1503,
       "age": 37,
       "gender": "female",
@@ -300,9 +343,9 @@
     {
       "name": "Mariska",
       "phone": "2782****028",
-      "logs": 6,
+      "logs": 7,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 1183,
       "age": 31,
       "gender": "female",
@@ -502,9 +545,9 @@
     {
       "name": "Nicole",
       "phone": "2784****318",
-      "logs": 6,
+      "logs": 8,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 2853,
       "age": 34,
       "gender": "female",
@@ -585,9 +628,9 @@
     {
       "name": "Robyn",
       "phone": "2782****997",
-      "logs": 5,
+      "logs": 7,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 861,
       "age": 49,
       "gender": "female",
@@ -597,16 +640,17 @@
       "joinedRaw": "2026-03-23T09:38:59.326Z"
     },
     {
-      "name": "Unknown",
+      "name": "Ronnie",
       "phone": "2782****244",
-      "logs": 0,
+      "logs": 3,
       "joined": "2026/03/23",
-      "lastActive": "never",
-      "goal": "?",
-      "age": "",
-      "gender": "",
+      "lastActive": "2026-03-24",
+      "goal": 3416,
+      "age": 30,
+      "gender": "male",
       "email": "",
       "premium": false,
+      "active7d": true,
       "joinedRaw": "2026-03-23T09:38:25.327Z"
     },
     {
@@ -931,9 +975,9 @@
     {
       "name": "James",
       "phone": "2782****968",
-      "logs": 6,
+      "logs": 8,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 1496,
       "age": 73,
       "gender": "male",
@@ -1014,9 +1058,9 @@
     {
       "name": "Daniel",
       "phone": "2776****638",
-      "logs": 3,
+      "logs": 9,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 2043,
       "age": 19,
       "gender": "male",
@@ -1055,9 +1099,9 @@
     {
       "name": "Divan",
       "phone": "2782****249",
-      "logs": 2,
+      "logs": 4,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 2448,
       "age": 28,
       "gender": "male",
@@ -1069,9 +1113,9 @@
     {
       "name": "Rob",
       "phone": "2771****896",
-      "logs": 3,
+      "logs": 4,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 2527,
       "age": 28,
       "gender": "male",
@@ -1096,10 +1140,10 @@
     {
       "name": "Crunchie",
       "phone": "2782****971",
-      "logs": 5,
+      "logs": 6,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
-      "goal": 1880,
+      "lastActive": "2026-03-24",
+      "goal": 1867,
       "age": 53,
       "gender": "male",
       "email": "",
@@ -1192,9 +1236,9 @@
     {
       "name": "Nick",
       "phone": "2760****695",
-      "logs": 11,
+      "logs": 12,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 1284,
       "age": 34,
       "gender": "male",
@@ -1206,9 +1250,9 @@
     {
       "name": "Tim",
       "phone": "2779****123",
-      "logs": 5,
+      "logs": 8,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 2000,
       "age": 36,
       "gender": "male",
@@ -1247,7 +1291,7 @@
     {
       "name": "Jan",
       "phone": "2782****657",
-      "logs": 13,
+      "logs": 16,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 3023,
@@ -1384,9 +1428,9 @@
     {
       "name": "Peter",
       "phone": "2773****700",
-      "logs": 7,
+      "logs": 10,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 2945,
       "age": 63,
       "gender": "male",
@@ -1520,7 +1564,7 @@
     {
       "name": "Alexi",
       "phone": "2783****369",
-      "logs": 7,
+      "logs": 10,
       "joined": "2026/03/23",
       "lastActive": "2026-03-23",
       "goal": 1951,
@@ -1697,9 +1741,9 @@
     {
       "name": "No that is too much",
       "phone": "1771****164",
-      "logs": 12,
+      "logs": 13,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 2543,
       "age": 28,
       "gender": "female",
@@ -1805,9 +1849,9 @@
     {
       "name": "Ken",
       "phone": "2783****497",
-      "logs": 6,
+      "logs": 7,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 2567,
       "age": 57,
       "gender": "male",
@@ -1819,9 +1863,9 @@
     {
       "name": "Norwin",
       "phone": "2782****929",
-      "logs": 9,
+      "logs": 10,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 3258,
       "age": 56,
       "gender": "male",
@@ -1833,9 +1877,9 @@
     {
       "name": "Ebrahim",
       "phone": "2783****861",
-      "logs": 7,
+      "logs": 10,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 1806,
       "age": 39,
       "gender": "male",
@@ -1847,9 +1891,9 @@
     {
       "name": "Kowie",
       "phone": "2773****339",
-      "logs": 8,
+      "logs": 9,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 3224,
       "age": 42,
       "gender": "male",
@@ -3151,6 +3195,10 @@
   "fitsortedTopFoods": [
     [
       "3x eggs",
+      7
+    ],
+    [
+      "banana (1 medium)",
       6
     ],
     [
@@ -3160,10 +3208,6 @@
     [
       "coffee with milk (1 cup)",
       6
-    ],
-    [
-      "banana (1 medium)",
-      5
     ],
     [
       "unknown",
@@ -3206,18 +3250,22 @@
       3
     ],
     [
-      "lettuce (1 cup, ~50g)",
+      "2x fried eggs",
       3
     ]
   ],
   "fitsortedErrors": [
     {
-      "count": 77,
+      "count": 76,
       "error": "[sheets append error] spawnSync /bin/sh ETIMEDOUT"
     },
     {
       "count": 4,
       "error": "Food lookup error: Invalid food input"
+    },
+    {
+      "count": 2,
+      "error": "Food lookup error: Input too short or unclear"
     },
     {
       "count": 1,
@@ -3226,10 +3274,6 @@
     {
       "count": 1,
       "error": "Supabase lookup error: malformed array literal: \"{the food item is mixed dried fruit apricot guava pear and mango pieces from the brand \"deli.\" the estimated portion size is 30g.}\""
-    },
-    {
-      "count": 1,
-      "error": "Supabase lookup error: malformed array literal: \"{the food item is an \"asian style shake-it bowl\" from woolworths. the estimated portion size is 200g.}\""
     }
   ],
   "analytics": {
@@ -3271,14 +3315,14 @@
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "84",
-        "users": "79",
-        "pageviews": "97"
+        "sessions": "86",
+        "users": "80",
+        "pageviews": "105"
       },
       "weekly": {
-        "sessions": "137",
-        "users": "111",
-        "pageviews": "206"
+        "sessions": "139",
+        "users": "112",
+        "pageviews": "214"
       }
     },
     "CryptoCasinoSorted": {
