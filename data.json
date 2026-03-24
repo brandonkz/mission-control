@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/24, 18:04:13",
+  "updated": "2026/03/24, 20:04:26",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "118 active",
+      "traffic": "119 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "228",
+      "val": "230",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "49",
+      "val": "53",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "118",
+      "val": "119",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,059",
+      "val": "1,090",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "168",
+      "val": "199",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "250,649",
+      "val": "260,579",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "4h 55m",
+      "val": "1h 46m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "117",
+      "val": "118",
       "color": "orange"
     },
     "Food Database": {
@@ -105,6 +105,33 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Unknown",
+      "phone": "2776****458",
+      "logs": 0,
+      "joined": "2026/03/24",
+      "lastActive": "never",
+      "goal": "?",
+      "age": "",
+      "gender": "",
+      "email": "",
+      "premium": false,
+      "joinedRaw": "2026-03-24T16:49:00.455Z"
+    },
+    {
+      "name": "Can we choose lose weight option rather",
+      "phone": "2782****924",
+      "logs": 3,
+      "joined": "2026/03/24",
+      "lastActive": "2026-03-24",
+      "goal": 1844,
+      "age": 25,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-24T16:05:23.280Z"
+    },
     {
       "name": "Yanga",
       "phone": "2769****629",
@@ -452,7 +479,7 @@
     {
       "name": "Herman",
       "phone": "2772****878",
-      "logs": 12,
+      "logs": 16,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 2013,
@@ -684,7 +711,7 @@
     {
       "name": "Ronnie",
       "phone": "2782****244",
-      "logs": 9,
+      "logs": 16,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 3416,
@@ -990,9 +1017,9 @@
     {
       "name": "Andrew",
       "phone": "2782****283",
-      "logs": 9,
+      "logs": 14,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 2480,
       "age": 57,
       "gender": "male",
@@ -1182,7 +1209,7 @@
     {
       "name": "Crunchie",
       "phone": "2782****971",
-      "logs": 8,
+      "logs": 9,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 1867,
@@ -1278,7 +1305,7 @@
     {
       "name": "Nick",
       "phone": "2760****695",
-      "logs": 17,
+      "logs": 18,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 1284,
@@ -1334,7 +1361,7 @@
     {
       "name": "Jan",
       "phone": "2782****657",
-      "logs": 24,
+      "logs": 26,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 3023,
@@ -1444,7 +1471,7 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 7,
+      "logs": 9,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 2018,
@@ -1539,7 +1566,7 @@
     {
       "name": "Wayne",
       "phone": "2772****460",
-      "logs": 14,
+      "logs": 13,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 1934,
@@ -1812,9 +1839,9 @@
     {
       "name": "Luwandakoko@gmail.com",
       "phone": "2763****863",
-      "logs": 5,
+      "logs": 7,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 1515,
       "age": 28,
       "gender": "male",
@@ -1920,7 +1947,7 @@
     {
       "name": "Ebrahim",
       "phone": "2783****861",
-      "logs": 11,
+      "logs": 12,
       "joined": "2026/03/23",
       "lastActive": "2026-03-24",
       "goal": 1806,
@@ -1989,9 +2016,9 @@
     {
       "name": "Taahir",
       "phone": "2761****618",
-      "logs": 5,
+      "logs": 9,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-24",
       "goal": 1480,
       "age": 31,
       "gender": "male",
@@ -3242,7 +3269,7 @@
     ],
     [
       "coffee with milk (1 cup)",
-      7
+      8
     ],
     [
       "banana (1 medium)",
@@ -3299,7 +3326,7 @@
   ],
   "fitsortedErrors": [
     {
-      "count": 74,
+      "count": 73,
       "error": "[sheets append error] spawnSync /bin/sh ETIMEDOUT"
     },
     {
@@ -3312,11 +3339,11 @@
     },
     {
       "count": 1,
-      "error": "Webhook error: msgLower is not defined ReferenceError: msgLower is not defined"
+      "error": "[sheets append error] spawnSync gog ETIMEDOUT"
     },
     {
       "count": 1,
-      "error": "Supabase lookup error: malformed array literal: \"{the food item is mixed dried fruit apricot guava pear and mango pieces from the brand \"deli.\" the estimated portion size is 30g.}\""
+      "error": "Webhook error: msgLower is not defined ReferenceError: msgLower is not defined"
     }
   ],
   "analytics": {
