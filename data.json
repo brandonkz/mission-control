@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/25, 00:13:28",
+  "updated": "2026/03/25, 02:10:44",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "120 active",
+      "traffic": "115 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "55",
-      "color": "green"
+      "val": "0",
+      "color": "orange"
     },
     "Active (7d)": {
-      "val": "120",
+      "val": "115",
       "color": "green"
     },
     "Premium Users": {
@@ -80,8 +80,8 @@
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "222",
-      "color": "green"
+      "val": "0",
+      "color": "orange"
     },
     "Total Calories Tracked": {
       "val": "265,556",
@@ -92,15 +92,15 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "5h 55m",
+      "val": "1h 9m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "118",
+      "val": "119",
       "color": "orange"
     },
     "Food Database": {
-      "val": "1426 foods",
+      "val": "1503 foods",
       "color": "blue"
     }
   },
@@ -2121,7 +2121,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-18T14:03:55.153Z"
     },
     {
@@ -2274,7 +2274,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-17T13:42:32.052Z"
     },
     {
@@ -2343,7 +2343,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-17T12:57:39.902Z"
     },
     {
@@ -2413,7 +2413,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-17T11:43:29.722Z"
     },
     {
@@ -2715,7 +2715,7 @@
       "gender": "female",
       "email": "nagelke@gmail.com",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-13T19:59:35.017Z"
     },
     {
@@ -3412,13 +3412,13 @@
     "CryptoCasinoSorted": {
       "daily": {
         "sessions": "4",
-        "users": "4",
-        "pageviews": "5"
+        "users": "2",
+        "pageviews": "15"
       },
       "weekly": {
-        "sessions": "15",
+        "sessions": "17",
         "users": "13",
-        "pageviews": "20"
+        "pageviews": "33"
       }
     }
   },
@@ -3446,15 +3446,15 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "3,405",
+      "val": "3,132",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$2.5M",
+      "val": "$4.4M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "25 (>$10K)",
+      "val": "53 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
