@@ -902,7 +902,7 @@
       "joinedRaw": "2026-03-23T08:57:48.598Z"
     },
     {
-      "name": "Chanté",
+      "name": "Chant\u00e9",
       "phone": "2779****726",
       "logs": 11,
       "joined": "2026/03/23",
@@ -1578,7 +1578,7 @@
       "joinedRaw": "2026-03-23T05:43:53.048Z"
     },
     {
-      "name": "Esmaré",
+      "name": "Esmar\u00e9",
       "phone": "2783****534",
       "logs": 2,
       "joined": "2026/03/23",
@@ -3569,75 +3569,86 @@
   },
   "ideas": [
     {
-      "emoji": "📖",
+      "emoji": "\ud83d\udcd6",
       "name": "VerseSorted",
       "status": "idea",
       "buildTime": "2 days",
       "revenue": "R49/mo freemium"
     },
     {
-      "emoji": "🍺",
+      "emoji": "\ud83c\udf7a",
       "name": "DrunkSorted",
       "status": "idea",
       "buildTime": "1-2 weeks",
       "revenue": "Ads + Uber affiliate"
     },
     {
-      "emoji": "📄",
+      "emoji": "\ud83d\udcc4",
       "name": "CVSorted",
       "status": "idea",
       "buildTime": "1-2 weeks",
       "revenue": "R99/CV"
     },
     {
-      "emoji": "💰",
+      "emoji": "\ud83d\udcb0",
       "name": "BudgetSorted",
       "status": "idea",
       "buildTime": "1 week",
       "revenue": "R29/mo"
     },
     {
-      "emoji": "🏋️",
+      "emoji": "\ud83c\udfcb\ufe0f",
       "name": "FitSorted App",
       "status": "wip",
       "buildTime": "Awaiting Apple account",
       "revenue": "Companion to WhatsApp"
     },
     {
-      "emoji": "📈",
+      "emoji": "\ud83d\udcc8",
       "name": "TradeSorted",
       "status": "idea",
       "buildTime": "4-6 hours",
       "revenue": "R2K-20K/mo affiliates"
     },
     {
-      "emoji": "🩺",
+      "emoji": "\ud83e\ude7a",
       "name": "Dietician Suite",
       "status": "idea",
       "buildTime": "4-6 weeks",
       "revenue": "R50/client/mo B2B"
     },
     {
-      "emoji": "🎰",
+      "emoji": "\ud83c\udfb0",
       "name": "Betting Tipster Bot",
       "status": "idea",
       "buildTime": "1 week",
       "revenue": "R99/mo"
     },
     {
-      "emoji": "🏠",
+      "emoji": "\ud83c\udfe0",
       "name": "Rental Auto-Responder",
       "status": "idea",
       "buildTime": "3 days",
       "revenue": "R199/mo per landlord"
     },
     {
-      "emoji": "💸",
+      "emoji": "\ud83d\udcb8",
       "name": "Crypto Price Alerts",
       "status": "idea",
       "buildTime": "2 days",
       "revenue": "R49/mo"
-    }
+    },
+    "HR Concierge WhatsApp bot (leave, policies, benefits, HR FAQs) \u2014 R15-30/employee/mo",
+    "Payslip + Tax Helper bot (send payslip, explain UIF/PAYE) \u2014 B2B or B2C R29/mo",
+    "Shift / Schedule bot for retail/hospitality/security (shift swaps + reminders)",
+    "Onboarding Buddy bot (7-day onboarding flow for new hires)",
+    "Micro-Training / Compliance bot (quizzes, certificates on WhatsApp)",
+    "IT Helpdesk bot (password resets + ticket status)",
+    "Safety & Incident reporting bot (anonymous option)",
+    "Employee Feedback Pulse bot (weekly mood check-ins)",
+    "Travel & Expense capture bot (receipt + mileage logging)",
+    "Company Comms broadcast channel (urgent notices + CEO updates)",
+    "Performance & Growth tracker bot (goal check-ins + reviews)"
   ],
   "todos": [
     "Test full FitSorted onboarding flow on WhatsApp",
@@ -3657,32 +3668,32 @@
         {
           "name": "FitSorted Content Calendar",
           "url": "https://fitsorted.co.za/content-calendar.html",
-          "icon": "🏋️"
+          "icon": "\ud83c\udfcb\ufe0f"
         },
         {
           "name": "Orderly Content Hub",
           "url": "https://brandonkz.github.io/orderly-dashboard/hub.html",
-          "icon": "📋"
+          "icon": "\ud83d\udccb"
         },
         {
           "name": "Orderly Dashboard",
           "url": "https://brandonkz.github.io/orderly-dashboard/dashboard.html",
-          "icon": "📊"
+          "icon": "\ud83d\udcca"
         },
         {
           "name": "Orderly War Room",
           "url": "https://brandonkz.github.io/orderly-dashboard/warroom.html",
-          "icon": "⚔️"
+          "icon": "\u2694\ufe0f"
         },
         {
           "name": "Orderly Tasks",
           "url": "https://brandonkz.github.io/orderly-dashboard/tasks.html",
-          "icon": "✅"
+          "icon": "\u2705"
         },
         {
           "name": "BetSorted Content",
           "url": "https://brandonkz.github.io/orderly-dashboard/betsorted.html",
-          "icon": "⚽"
+          "icon": "\u26bd"
         }
       ]
     },
@@ -3692,27 +3703,27 @@
         {
           "name": "Postiz Dashboard",
           "url": "https://app.postiz.com",
-          "icon": "📱"
+          "icon": "\ud83d\udcf1"
         },
         {
-          "name": "X — @alphaxasset",
+          "name": "X \u2014 @alphaxasset",
           "url": "https://x.com/alphaxasset",
-          "icon": "🎰"
+          "icon": "\ud83c\udfb0"
         },
         {
-          "name": "X — @brandonkz",
+          "name": "X \u2014 @brandonkz",
           "url": "https://x.com/brandonkz",
-          "icon": "🐦"
+          "icon": "\ud83d\udc26"
         },
         {
-          "name": "LinkedIn — Brandon",
+          "name": "LinkedIn \u2014 Brandon",
           "url": "https://linkedin.com/in/katzbrandon",
-          "icon": "💼"
+          "icon": "\ud83d\udcbc"
         },
         {
-          "name": "Instagram — FitSorted",
+          "name": "Instagram \u2014 FitSorted",
           "url": "https://instagram.com/fitsorted",
-          "icon": "📸"
+          "icon": "\ud83d\udcf8"
         }
       ]
     },
@@ -3722,27 +3733,27 @@
         {
           "name": "Google Analytics",
           "url": "https://analytics.google.com",
-          "icon": "📊"
+          "icon": "\ud83d\udcca"
         },
         {
           "name": "Google Search Console",
           "url": "https://search.google.com/search-console",
-          "icon": "🔍"
+          "icon": "\ud83d\udd0d"
         },
         {
           "name": "Arkham Intelligence",
           "url": "https://platform.arkhamintelligence.com",
-          "icon": "🕵️"
+          "icon": "\ud83d\udd75\ufe0f"
         },
         {
           "name": "Etherscan",
           "url": "https://etherscan.io",
-          "icon": "⛓️"
+          "icon": "\u26d3\ufe0f"
         },
         {
           "name": "DeBank",
           "url": "https://debank.com",
-          "icon": "💰"
+          "icon": "\ud83d\udcb0"
         }
       ]
     },
@@ -3752,32 +3763,32 @@
         {
           "name": "BetSorted",
           "url": "https://betsorted.co.za",
-          "icon": "⚽"
+          "icon": "\u26bd"
         },
         {
           "name": "CryptoCasinoSorted",
           "url": "https://cryptocasinosorted.com",
-          "icon": "🎰"
+          "icon": "\ud83c\udfb0"
         },
         {
           "name": "FitSorted",
           "url": "https://fitsorted.co.za",
-          "icon": "🏋️"
+          "icon": "\ud83c\udfcb\ufe0f"
         },
         {
           "name": "RetirementSorted",
           "url": "https://retirementsorted.co.za",
-          "icon": "🏖️"
+          "icon": "\ud83c\udfd6\ufe0f"
         },
         {
           "name": "PaidProperly",
           "url": "https://paidproperly.co.za",
-          "icon": "💸"
+          "icon": "\ud83d\udcb8"
         },
         {
           "name": "DeFi Yield DEX",
           "url": "https://dex.defiyield.live",
-          "icon": "📈"
+          "icon": "\ud83d\udcc8"
         }
       ]
     },
@@ -3787,27 +3798,27 @@
         {
           "name": "BetSorted",
           "url": "https://github.com/brandonkz/betsorted",
-          "icon": "⚽"
+          "icon": "\u26bd"
         },
         {
           "name": "CryptoCasinoSorted",
           "url": "https://github.com/brandonkz/crypto-casinos",
-          "icon": "🎰"
+          "icon": "\ud83c\udfb0"
         },
         {
           "name": "FitSorted",
           "url": "https://github.com/brandonkz/fitsorted",
-          "icon": "🏋️"
+          "icon": "\ud83c\udfcb\ufe0f"
         },
         {
           "name": "RetirementSorted",
           "url": "https://github.com/brandonkz/retirementsorted",
-          "icon": "🏖️"
+          "icon": "\ud83c\udfd6\ufe0f"
         },
         {
           "name": "PaidProperly",
           "url": "https://github.com/brandonkz/paidproperly",
-          "icon": "💸"
+          "icon": "\ud83d\udcb8"
         }
       ]
     },
@@ -3817,27 +3828,27 @@
         {
           "name": "Cloudflare",
           "url": "https://dash.cloudflare.com",
-          "icon": "☁️"
+          "icon": "\u2601\ufe0f"
         },
         {
           "name": "Supabase",
           "url": "https://supabase.com/dashboard",
-          "icon": "🗄️"
+          "icon": "\ud83d\uddc4\ufe0f"
         },
         {
           "name": "PayFast",
           "url": "https://merchant.payfast.co.za",
-          "icon": "💳"
+          "icon": "\ud83d\udcb3"
         },
         {
           "name": "XTP Dashboard",
           "url": "https://brandonkz.github.io/xtp/",
-          "icon": "🎮"
+          "icon": "\ud83c\udfae"
         },
         {
           "name": "The Odds API",
           "url": "https://the-odds-api.com",
-          "icon": "🎲"
+          "icon": "\ud83c\udfb2"
         }
       ]
     }
