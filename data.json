@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/25, 16:04:03",
+  "updated": "2026/03/25, 18:04:04",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "117 active",
+      "traffic": "118 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "23",
+      "val": "27",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "117",
+      "val": "118",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,198",
+      "val": "1,220",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "85",
+      "val": "107",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "281,102",
+      "val": "285,791",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "13h 3m",
+      "val": "15h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -520,7 +520,7 @@
     {
       "name": "Herman",
       "phone": "2772****878",
-      "logs": 19,
+      "logs": 24,
       "joined": "2026/03/23",
       "lastActive": "2026-03-25",
       "goal": 2013,
@@ -534,9 +534,9 @@
     {
       "name": "Cornel",
       "phone": "2760****740",
-      "logs": 4,
+      "logs": 6,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-25",
       "goal": 1439,
       "age": 27,
       "gender": "male",
@@ -752,7 +752,7 @@
     {
       "name": "Ronnie",
       "phone": "2782****244",
-      "logs": 27,
+      "logs": 30,
       "joined": "2026/03/23",
       "lastActive": "2026-03-25",
       "goal": 3416,
@@ -1058,9 +1058,9 @@
     {
       "name": "Andrew",
       "phone": "2782****283",
-      "logs": 14,
+      "logs": 19,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-24",
+      "lastActive": "2026-03-25",
       "goal": 2480,
       "age": 57,
       "gender": "male",
@@ -1346,9 +1346,9 @@
     {
       "name": "Nick",
       "phone": "2760****695",
-      "logs": 18,
+      "logs": 19,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-24",
+      "lastActive": "2026-03-25",
       "goal": 1284,
       "age": 34,
       "gender": "male",
@@ -1497,16 +1497,17 @@
       "joinedRaw": "2026-03-23T05:54:02.841Z"
     },
     {
-      "name": "Unknown",
+      "name": "Quintin",
       "phone": "2782****749",
-      "logs": 0,
+      "logs": 6,
       "joined": "2026/03/23",
-      "lastActive": "never",
-      "goal": "?",
-      "age": "",
+      "lastActive": "2026-03-25",
+      "goal": 2320,
+      "age": 28,
       "gender": "male",
       "email": "",
       "premium": false,
+      "active7d": true,
       "joinedRaw": "2026-03-23T05:53:12.912Z"
     },
     {
@@ -3306,7 +3307,7 @@
   "fitsortedTopFoods": [
     [
       "coffee with milk (1 cup)",
-      13
+      15
     ],
     [
       "3x eggs",
@@ -3314,7 +3315,7 @@
     ],
     [
       "banana (1 medium)",
-      6
+      7
     ],
     [
       "2x boiled egg",
@@ -3349,6 +3350,10 @@
       4
     ],
     [
+      "ouma rusk (1)",
+      3
+    ],
+    [
       "usn whey protein shake (1 scoop (30g) with water)",
       3
     ],
@@ -3358,10 +3363,6 @@
     ],
     [
       "slice of banana loaf",
-      3
-    ],
-    [
-      "2x rice cake",
       3
     ]
   ],
