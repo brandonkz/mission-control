@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/25, 12:04:04",
+  "updated": "2026/03/25, 14:04:28",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "116 active",
+      "traffic": "117 active",
       "trafficColor": "green"
     },
     {
@@ -56,37 +56,19 @@
       "status": "idea",
       "traffic": "Scoped",
       "trafficColor": "orange"
-    },
-    {
-      "name": "ChurchesNearMe",
-      "url": "https://churchesnearme.co.za",
-      "status": "live",
-      "description": "SA church directory with listings, blog, and paid activations",
-      "github": "brandonkz/churches-near-me",
-      "revenue": "Paid listings (R49-R199/mo). Future: funeral plan affiliates.",
-      "notes": "Working with partner on this project"
-    },
-    {
-      "name": "Costra",
-      "url": "https://costra.co.za",
-      "status": "live",
-      "description": "Budget tracker + investment fee checker. RipOff Radar\u2122.",
-      "github": "brandonkz/budgetsorted",
-      "revenue": "Free + R49/mo premium. Investment affiliate links (EasyEquities, Satrix, 10X).",
-      "notes": "Ex-financial advisor origin story. App planned."
     }
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "232",
+      "val": "233",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "18",
+      "val": "22",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "116",
+      "val": "117",
       "color": "green"
     },
     "Premium Users": {
@@ -94,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,162",
+      "val": "1,173",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "49",
+      "val": "60",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "273,456",
+      "val": "276,656",
       "color": "blue"
     },
     "Bot Status": {
@@ -110,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "9h 3m",
+      "val": "11h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -124,16 +106,30 @@
   },
   "fitsortedUsers": [
     {
-      "name": "Wendy",
-      "phone": "2782****573",
+      "name": "Naeem",
+      "phone": "2779****529",
       "logs": 0,
       "joined": "2026/03/25",
       "lastActive": "never",
+      "goal": 2495,
+      "age": 28,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "joinedRaw": "2026-03-25T10:44:32.601Z"
+    },
+    {
+      "name": "Wendy",
+      "phone": "2782****573",
+      "logs": 1,
+      "joined": "2026/03/25",
+      "lastActive": "2026-03-25",
       "goal": 1351,
       "age": 45,
       "gender": "female",
       "email": "",
       "premium": false,
+      "active7d": true,
       "joinedRaw": "2026-03-25T08:09:25.888Z"
     },
     {
@@ -194,9 +190,9 @@
     {
       "name": "Kiren",
       "phone": "2782****873",
-      "logs": 4,
+      "logs": 6,
       "joined": "2026/03/24",
-      "lastActive": "2026-03-24",
+      "lastActive": "2026-03-25",
       "goal": 1961,
       "age": 54,
       "gender": "female",
@@ -361,7 +357,7 @@
     {
       "name": "Vicky",
       "phone": "4475****334",
-      "logs": 36,
+      "logs": 38,
       "joined": "2026/03/23",
       "lastActive": "2026-03-25",
       "goal": 1503,
@@ -524,7 +520,7 @@
     {
       "name": "Herman",
       "phone": "2772****878",
-      "logs": 17,
+      "logs": 18,
       "joined": "2026/03/23",
       "lastActive": "2026-03-25",
       "goal": 2013,
@@ -756,7 +752,7 @@
     {
       "name": "Ronnie",
       "phone": "2782****244",
-      "logs": 23,
+      "logs": 25,
       "joined": "2026/03/23",
       "lastActive": "2026-03-25",
       "goal": 3416,
@@ -893,7 +889,7 @@
       "joinedRaw": "2026-03-23T08:57:48.598Z"
     },
     {
-      "name": "Chant\u00e9",
+      "name": "Chanté",
       "phone": "2779****726",
       "logs": 11,
       "joined": "2026/03/23",
@@ -1254,9 +1250,9 @@
     {
       "name": "Crunchie",
       "phone": "2782****971",
-      "logs": 9,
+      "logs": 10,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-24",
+      "lastActive": "2026-03-25",
       "goal": 1867,
       "age": 53,
       "gender": "male",
@@ -1568,7 +1564,7 @@
       "joinedRaw": "2026-03-23T05:43:53.048Z"
     },
     {
-      "name": "Esmar\u00e9",
+      "name": "Esmaré",
       "phone": "2783****534",
       "logs": 2,
       "joined": "2026/03/23",
@@ -1787,9 +1783,9 @@
     {
       "name": "Gary",
       "phone": "2783****220",
-      "logs": 3,
+      "logs": 5,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-25",
       "goal": 2926,
       "age": 44,
       "gender": "male",
@@ -3325,6 +3321,10 @@
       6
     ],
     [
+      "oats (1 cup cooked) (1 cup)",
+      4
+    ],
+    [
       "unknown",
       4
     ],
@@ -3349,11 +3349,11 @@
       3
     ],
     [
-      "slice of banana loaf",
+      "apple (medium)",
       3
     ],
     [
-      "oats (1 cup cooked) (1 cup)",
+      "slice of banana loaf",
       3
     ],
     [
@@ -3362,10 +3362,6 @@
     ],
     [
       "wrap",
-      3
-    ],
-    [
-      "spicy egg cup",
       3
     ]
   ],
@@ -3444,12 +3440,12 @@
       "daily": {
         "sessions": "4",
         "users": "2",
-        "pageviews": "15"
+        "pageviews": "21"
       },
       "weekly": {
         "sessions": "17",
         "users": "13",
-        "pageviews": "33"
+        "pageviews": "39"
       }
     }
   },
@@ -3559,70 +3555,70 @@
   },
   "ideas": [
     {
-      "emoji": "\ud83d\udcd6",
+      "emoji": "📖",
       "name": "VerseSorted",
       "status": "idea",
       "buildTime": "2 days",
       "revenue": "R49/mo freemium"
     },
     {
-      "emoji": "\ud83c\udf7a",
+      "emoji": "🍺",
       "name": "DrunkSorted",
       "status": "idea",
       "buildTime": "1-2 weeks",
       "revenue": "Ads + Uber affiliate"
     },
     {
-      "emoji": "\ud83d\udcc4",
+      "emoji": "📄",
       "name": "CVSorted",
       "status": "idea",
       "buildTime": "1-2 weeks",
       "revenue": "R99/CV"
     },
     {
-      "emoji": "\ud83d\udcb0",
+      "emoji": "💰",
       "name": "BudgetSorted",
       "status": "idea",
       "buildTime": "1 week",
       "revenue": "R29/mo"
     },
     {
-      "emoji": "\ud83c\udfcb\ufe0f",
+      "emoji": "🏋️",
       "name": "FitSorted App",
       "status": "wip",
       "buildTime": "Awaiting Apple account",
       "revenue": "Companion to WhatsApp"
     },
     {
-      "emoji": "\ud83d\udcc8",
+      "emoji": "📈",
       "name": "TradeSorted",
       "status": "idea",
       "buildTime": "4-6 hours",
       "revenue": "R2K-20K/mo affiliates"
     },
     {
-      "emoji": "\ud83e\ude7a",
+      "emoji": "🩺",
       "name": "Dietician Suite",
       "status": "idea",
       "buildTime": "4-6 weeks",
       "revenue": "R50/client/mo B2B"
     },
     {
-      "emoji": "\ud83c\udfb0",
+      "emoji": "🎰",
       "name": "Betting Tipster Bot",
       "status": "idea",
       "buildTime": "1 week",
       "revenue": "R99/mo"
     },
     {
-      "emoji": "\ud83c\udfe0",
+      "emoji": "🏠",
       "name": "Rental Auto-Responder",
       "status": "idea",
       "buildTime": "3 days",
       "revenue": "R199/mo per landlord"
     },
     {
-      "emoji": "\ud83d\udcb8",
+      "emoji": "💸",
       "name": "Crypto Price Alerts",
       "status": "idea",
       "buildTime": "2 days",
@@ -3647,32 +3643,32 @@
         {
           "name": "FitSorted Content Calendar",
           "url": "https://fitsorted.co.za/content-calendar.html",
-          "icon": "\ud83c\udfcb\ufe0f"
+          "icon": "🏋️"
         },
         {
           "name": "Orderly Content Hub",
           "url": "https://brandonkz.github.io/orderly-dashboard/hub.html",
-          "icon": "\ud83d\udccb"
+          "icon": "📋"
         },
         {
           "name": "Orderly Dashboard",
           "url": "https://brandonkz.github.io/orderly-dashboard/dashboard.html",
-          "icon": "\ud83d\udcca"
+          "icon": "📊"
         },
         {
           "name": "Orderly War Room",
           "url": "https://brandonkz.github.io/orderly-dashboard/warroom.html",
-          "icon": "\u2694\ufe0f"
+          "icon": "⚔️"
         },
         {
           "name": "Orderly Tasks",
           "url": "https://brandonkz.github.io/orderly-dashboard/tasks.html",
-          "icon": "\u2705"
+          "icon": "✅"
         },
         {
           "name": "BetSorted Content",
           "url": "https://brandonkz.github.io/orderly-dashboard/betsorted.html",
-          "icon": "\u26bd"
+          "icon": "⚽"
         }
       ]
     },
@@ -3682,27 +3678,27 @@
         {
           "name": "Postiz Dashboard",
           "url": "https://app.postiz.com",
-          "icon": "\ud83d\udcf1"
+          "icon": "📱"
         },
         {
-          "name": "X \u2014 @alphaxasset",
+          "name": "X — @alphaxasset",
           "url": "https://x.com/alphaxasset",
-          "icon": "\ud83c\udfb0"
+          "icon": "🎰"
         },
         {
-          "name": "X \u2014 @brandonkz",
+          "name": "X — @brandonkz",
           "url": "https://x.com/brandonkz",
-          "icon": "\ud83d\udc26"
+          "icon": "🐦"
         },
         {
-          "name": "LinkedIn \u2014 Brandon",
+          "name": "LinkedIn — Brandon",
           "url": "https://linkedin.com/in/katzbrandon",
-          "icon": "\ud83d\udcbc"
+          "icon": "💼"
         },
         {
-          "name": "Instagram \u2014 FitSorted",
+          "name": "Instagram — FitSorted",
           "url": "https://instagram.com/fitsorted",
-          "icon": "\ud83d\udcf8"
+          "icon": "📸"
         }
       ]
     },
@@ -3712,27 +3708,27 @@
         {
           "name": "Google Analytics",
           "url": "https://analytics.google.com",
-          "icon": "\ud83d\udcca"
+          "icon": "📊"
         },
         {
           "name": "Google Search Console",
           "url": "https://search.google.com/search-console",
-          "icon": "\ud83d\udd0d"
+          "icon": "🔍"
         },
         {
           "name": "Arkham Intelligence",
           "url": "https://platform.arkhamintelligence.com",
-          "icon": "\ud83d\udd75\ufe0f"
+          "icon": "🕵️"
         },
         {
           "name": "Etherscan",
           "url": "https://etherscan.io",
-          "icon": "\u26d3\ufe0f"
+          "icon": "⛓️"
         },
         {
           "name": "DeBank",
           "url": "https://debank.com",
-          "icon": "\ud83d\udcb0"
+          "icon": "💰"
         }
       ]
     },
@@ -3742,32 +3738,32 @@
         {
           "name": "BetSorted",
           "url": "https://betsorted.co.za",
-          "icon": "\u26bd"
+          "icon": "⚽"
         },
         {
           "name": "CryptoCasinoSorted",
           "url": "https://cryptocasinosorted.com",
-          "icon": "\ud83c\udfb0"
+          "icon": "🎰"
         },
         {
           "name": "FitSorted",
           "url": "https://fitsorted.co.za",
-          "icon": "\ud83c\udfcb\ufe0f"
+          "icon": "🏋️"
         },
         {
           "name": "RetirementSorted",
           "url": "https://retirementsorted.co.za",
-          "icon": "\ud83c\udfd6\ufe0f"
+          "icon": "🏖️"
         },
         {
           "name": "PaidProperly",
           "url": "https://paidproperly.co.za",
-          "icon": "\ud83d\udcb8"
+          "icon": "💸"
         },
         {
           "name": "DeFi Yield DEX",
           "url": "https://dex.defiyield.live",
-          "icon": "\ud83d\udcc8"
+          "icon": "📈"
         }
       ]
     },
@@ -3777,27 +3773,27 @@
         {
           "name": "BetSorted",
           "url": "https://github.com/brandonkz/betsorted",
-          "icon": "\u26bd"
+          "icon": "⚽"
         },
         {
           "name": "CryptoCasinoSorted",
           "url": "https://github.com/brandonkz/crypto-casinos",
-          "icon": "\ud83c\udfb0"
+          "icon": "🎰"
         },
         {
           "name": "FitSorted",
           "url": "https://github.com/brandonkz/fitsorted",
-          "icon": "\ud83c\udfcb\ufe0f"
+          "icon": "🏋️"
         },
         {
           "name": "RetirementSorted",
           "url": "https://github.com/brandonkz/retirementsorted",
-          "icon": "\ud83c\udfd6\ufe0f"
+          "icon": "🏖️"
         },
         {
           "name": "PaidProperly",
           "url": "https://github.com/brandonkz/paidproperly",
-          "icon": "\ud83d\udcb8"
+          "icon": "💸"
         }
       ]
     },
@@ -3807,79 +3803,29 @@
         {
           "name": "Cloudflare",
           "url": "https://dash.cloudflare.com",
-          "icon": "\u2601\ufe0f"
+          "icon": "☁️"
         },
         {
           "name": "Supabase",
           "url": "https://supabase.com/dashboard",
-          "icon": "\ud83d\uddc4\ufe0f"
+          "icon": "🗄️"
         },
         {
           "name": "PayFast",
           "url": "https://merchant.payfast.co.za",
-          "icon": "\ud83d\udcb3"
+          "icon": "💳"
         },
         {
           "name": "XTP Dashboard",
           "url": "https://brandonkz.github.io/xtp/",
-          "icon": "\ud83c\udfae"
+          "icon": "🎮"
         },
         {
           "name": "The Odds API",
           "url": "https://the-odds-api.com",
-          "icon": "\ud83c\udfb2"
+          "icon": "🎲"
         }
       ]
     }
-  ],
-  "churchesNearMe": {
-    "status": "live",
-    "domain": "churchesnearme.co.za",
-    "partner": true,
-    "stats": {
-      "note": "Stats populated by generate-data.js \u2014 needs GA integration"
-    },
-    "monetization": {
-      "current": "Paid church listings (R49-R199/mo)",
-      "pipeline": [
-        "Funeral plan comparison tool (Avbob, Old Mutual, 1Life, Hollard affiliates \u2014 R200-500/policy)",
-        "Church event promotion (paid boost)",
-        "Community features (warm room / prayer wall / events)"
-      ]
-    },
-    "ideas": [
-      "Funeral plan affiliate comparison tool",
-      "Prayer request wall (community engagement)",
-      "WhatsApp group directory per church",
-      "Events calendar per church",
-      "Denominiation comparison guides (SEO content)"
-    ]
-  },
-  "costra": {
-    "status": "live",
-    "domain": "costra.co.za",
-    "features": {
-      "ripOffRadar": "Investment fee checker \u2014 PDF upload, fund comparison, compound cost calculator",
-      "budgetTracker": "WhatsApp expense tracking (planned)",
-      "calculators": "Fee impact, retirement, two-pot, compound interest",
-      "ombudComplaints": "One-tap FAIS Ombud complaint filing"
-    },
-    "monetization": {
-      "subscription": "R49/mo premium",
-      "affiliates": [
-        "EasyEquities TFSA (R50-100/signup)",
-        "Satrix index funds",
-        "10X Investments",
-        "Allan Gray \u2192 cheaper alternative switches (R200-500/lead)",
-        "Sanlam/Old Mutual RA leads (R300-500/lead)"
-      ]
-    },
-    "ideas": [
-      "React Native app (WhatsApp for daily, app for heavy lifting)",
-      "Bank linking via Investec API / Stitch",
-      "Statement PDF parsing (client-side)",
-      "Advisor rating system",
-      "Brandon origin story TikTok content"
-    ]
-  }
+  ]
 }
