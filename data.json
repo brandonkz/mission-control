@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/25, 10:04:02",
+  "updated": "2026/03/25, 12:04:04",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "115 active",
+      "traffic": "116 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "231",
+      "val": "232",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "13",
+      "val": "18",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "115",
+      "val": "116",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,142",
+      "val": "1,162",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "29",
+      "val": "49",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "269,488",
+      "val": "273,456",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "7h 3m",
+      "val": "9h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -105,6 +105,19 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Wendy",
+      "phone": "2782****573",
+      "logs": 0,
+      "joined": "2026/03/25",
+      "lastActive": "never",
+      "goal": 1351,
+      "age": 45,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "joinedRaw": "2026-03-25T08:09:25.888Z"
+    },
     {
       "name": "Dee",
       "phone": "2772****259",
@@ -135,9 +148,9 @@
     {
       "name": "Can we choose lose weight option rather",
       "phone": "2782****924",
-      "logs": 4,
+      "logs": 6,
       "joined": "2026/03/24",
-      "lastActive": "2026-03-24",
+      "lastActive": "2026-03-25",
       "goal": 1844,
       "age": 25,
       "gender": "female",
@@ -330,7 +343,7 @@
     {
       "name": "Vicky",
       "phone": "4475****334",
-      "logs": 28,
+      "logs": 36,
       "joined": "2026/03/23",
       "lastActive": "2026-03-25",
       "goal": 1503,
@@ -725,7 +738,7 @@
     {
       "name": "Ronnie",
       "phone": "2782****244",
-      "logs": 21,
+      "logs": 23,
       "joined": "2026/03/23",
       "lastActive": "2026-03-25",
       "goal": 3416,
@@ -920,9 +933,9 @@
     {
       "name": "Lauren",
       "phone": "2773****023",
-      "logs": 1,
+      "logs": 2,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-25",
       "goal": 1927,
       "age": 37,
       "gender": "female",
@@ -1375,7 +1388,7 @@
     {
       "name": "Jan",
       "phone": "2782****657",
-      "logs": 28,
+      "logs": 30,
       "joined": "2026/03/23",
       "lastActive": "2026-03-25",
       "goal": 3023,
@@ -1485,7 +1498,7 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 10,
+      "logs": 11,
       "joined": "2026/03/23",
       "lastActive": "2026-03-25",
       "goal": 2018,
@@ -1580,9 +1593,9 @@
     {
       "name": "Wayne",
       "phone": "2772****460",
-      "logs": 13,
+      "logs": 14,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-24",
+      "lastActive": "2026-03-25",
       "goal": 1934,
       "age": 41,
       "gender": "male",
@@ -2058,9 +2071,9 @@
     {
       "name": "hammaad92@gmail.com",
       "phone": "2761****214",
-      "logs": 9,
+      "logs": 11,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-24",
+      "lastActive": "2026-03-25",
       "goal": 3486,
       "age": 22,
       "gender": "male",
@@ -2693,15 +2706,15 @@
     {
       "name": "Talisha",
       "phone": "2773****538",
-      "logs": 7,
+      "logs": 8,
       "joined": "2026/03/13",
-      "lastActive": "2026-03-16",
+      "lastActive": "2026-03-25",
       "goal": 1851,
       "age": 27,
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": false,
+      "active7d": true,
       "joinedRaw": "2026-03-13T20:06:01.371Z"
     },
     {
@@ -3064,7 +3077,7 @@
       "logs": 0,
       "joined": "2026/03/10",
       "lastActive": "never",
-      "goal": 1821,
+      "goal": 2588,
       "age": 27,
       "gender": "male",
       "email": "",
@@ -3279,7 +3292,7 @@
   "fitsortedTopFoods": [
     [
       "coffee with milk (1 cup)",
-      11
+      13
     ],
     [
       "3x eggs",
@@ -3299,6 +3312,10 @@
     ],
     [
       "scrambled eggs (2 eggs)",
+      4
+    ],
+    [
+      "boiled egg (1 large) (1 egg)",
       4
     ],
     [
@@ -3331,10 +3348,6 @@
     ],
     [
       "spicy egg cup",
-      3
-    ],
-    [
-      "coke zero 330ml",
       3
     ]
   ],
@@ -3399,14 +3412,14 @@
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "17",
-        "users": "15",
-        "pageviews": "17"
+        "sessions": "18",
+        "users": "16",
+        "pageviews": "19"
       },
       "weekly": {
-        "sessions": "133",
-        "users": "114",
-        "pageviews": "162"
+        "sessions": "134",
+        "users": "115",
+        "pageviews": "164"
       }
     },
     "CryptoCasinoSorted": {
