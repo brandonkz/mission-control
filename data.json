@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/25, 14:04:28",
+  "updated": "2026/03/25, 16:04:03",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "22",
+      "val": "23",
       "color": "green"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,173",
+      "val": "1,198",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "60",
+      "val": "85",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "276,656",
+      "val": "281,102",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "11h 4m",
+      "val": "13h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -121,7 +121,7 @@
     {
       "name": "Wendy",
       "phone": "2782****573",
-      "logs": 1,
+      "logs": 10,
       "joined": "2026/03/25",
       "lastActive": "2026-03-25",
       "goal": 1351,
@@ -357,7 +357,7 @@
     {
       "name": "Vicky",
       "phone": "4475****334",
-      "logs": 38,
+      "logs": 41,
       "joined": "2026/03/23",
       "lastActive": "2026-03-25",
       "goal": 1503,
@@ -520,7 +520,7 @@
     {
       "name": "Herman",
       "phone": "2772****878",
-      "logs": 18,
+      "logs": 19,
       "joined": "2026/03/23",
       "lastActive": "2026-03-25",
       "goal": 2013,
@@ -752,7 +752,7 @@
     {
       "name": "Ronnie",
       "phone": "2782****244",
-      "logs": 25,
+      "logs": 27,
       "joined": "2026/03/23",
       "lastActive": "2026-03-25",
       "goal": 3416,
@@ -1402,7 +1402,7 @@
     {
       "name": "Jan",
       "phone": "2782****657",
-      "logs": 30,
+      "logs": 36,
       "joined": "2026/03/23",
       "lastActive": "2026-03-25",
       "goal": 3023,
@@ -1539,7 +1539,7 @@
     {
       "name": "Peter",
       "phone": "2773****700",
-      "logs": 20,
+      "logs": 22,
       "joined": "2026/03/23",
       "lastActive": "2026-03-25",
       "goal": 2945,
@@ -2085,7 +2085,7 @@
     {
       "name": "hammaad92@gmail.com",
       "phone": "2761****214",
-      "logs": 11,
+      "logs": 12,
       "joined": "2026/03/23",
       "lastActive": "2026-03-25",
       "goal": 3486,
@@ -2113,9 +2113,9 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 8,
+      "logs": 9,
       "joined": "2026/03/21",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-03-25",
       "goal": 1999,
       "age": 38,
       "gender": "male",
@@ -3321,6 +3321,10 @@
       6
     ],
     [
+      "tea with milk (1 cup)",
+      5
+    ],
+    [
       "oats (1 cup cooked) (1 cup)",
       4
     ],
@@ -3341,7 +3345,7 @@
       4
     ],
     [
-      "tea with milk (1 cup)",
+      "lettuce (1 cup, ~50g)",
       4
     ],
     [
@@ -3358,10 +3362,6 @@
     ],
     [
       "2x rice cake",
-      3
-    ],
-    [
-      "wrap",
       3
     ]
   ],
