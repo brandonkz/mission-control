@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/25, 04:04:29",
+  "updated": "2026/03/25, 06:04:09",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "1h 4m",
+      "val": "3h 4m",
       "color": "blue"
     },
     "Restarts": {
