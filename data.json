@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/25, 18:04:04",
+  "updated": "2026/03/25, 20:04:06",
   "projects": [
     {
       "name": "FitSorted",
@@ -60,11 +60,11 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "233",
+      "val": "234",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "27",
+      "val": "28",
       "color": "green"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,220",
+      "val": "1,248",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "107",
+      "val": "135",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "285,791",
+      "val": "292,286",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "15h 3m",
+      "val": "17h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -105,6 +105,19 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Christine",
+      "phone": "2763****997",
+      "logs": 0,
+      "joined": "2026/03/25",
+      "lastActive": "never",
+      "goal": 1700,
+      "age": 38,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "joinedRaw": "2026-03-25T18:01:58.766Z"
+    },
     {
       "name": "Naeem",
       "phone": "2779****529",
@@ -121,7 +134,7 @@
     {
       "name": "Wendy",
       "phone": "2782****573",
-      "logs": 10,
+      "logs": 14,
       "joined": "2026/03/25",
       "lastActive": "2026-03-25",
       "goal": 1351,
@@ -273,7 +286,7 @@
     {
       "name": "Kagiso",
       "phone": "2772****572",
-      "logs": 9,
+      "logs": 10,
       "joined": "2026/03/24",
       "lastActive": "2026-03-25",
       "goal": 2201,
@@ -301,7 +314,7 @@
     {
       "name": "Alf",
       "phone": "2782****202",
-      "logs": 9,
+      "logs": 18,
       "joined": "2026/03/24",
       "lastActive": "2026-03-25",
       "goal": 2713,
@@ -357,7 +370,7 @@
     {
       "name": "Vicky",
       "phone": "4475****334",
-      "logs": 41,
+      "logs": 44,
       "joined": "2026/03/23",
       "lastActive": "2026-03-25",
       "goal": 1503,
@@ -1058,7 +1071,7 @@
     {
       "name": "Andrew",
       "phone": "2782****283",
-      "logs": 19,
+      "logs": 20,
       "joined": "2026/03/23",
       "lastActive": "2026-03-25",
       "goal": 2480,
@@ -1264,9 +1277,9 @@
     {
       "name": "Khali",
       "phone": "2774****977",
-      "logs": 5,
+      "logs": 9,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-24",
+      "lastActive": "2026-03-25",
       "goal": 2306,
       "age": 40,
       "gender": "female",
@@ -1346,7 +1359,7 @@
     {
       "name": "Nick",
       "phone": "2760****695",
-      "logs": 19,
+      "logs": 20,
       "joined": "2026/03/23",
       "lastActive": "2026-03-25",
       "goal": 1284,
@@ -1402,7 +1415,7 @@
     {
       "name": "Jan",
       "phone": "2782****657",
-      "logs": 36,
+      "logs": 37,
       "joined": "2026/03/23",
       "lastActive": "2026-03-25",
       "goal": 3023,
@@ -1499,7 +1512,7 @@
     {
       "name": "Quintin",
       "phone": "2782****749",
-      "logs": 6,
+      "logs": 8,
       "joined": "2026/03/23",
       "lastActive": "2026-03-25",
       "goal": 2320,
@@ -1540,7 +1553,7 @@
     {
       "name": "Peter",
       "phone": "2773****700",
-      "logs": 22,
+      "logs": 24,
       "joined": "2026/03/23",
       "lastActive": "2026-03-25",
       "goal": 2945,
