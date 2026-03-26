@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/26, 08:05:14",
+  "updated": "2026/03/26, 10:04:11",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,8 +64,8 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "1",
-      "color": "orange"
+      "val": "8",
+      "color": "green"
     },
     "Active (7d)": {
       "val": "114",
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,285",
+      "val": "1,299",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "1",
-      "color": "orange"
+      "val": "15",
+      "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "301,294",
+      "val": "303,439",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "5h 5m",
+      "val": "7h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -204,9 +204,9 @@
     {
       "name": "Kiren",
       "phone": "2782****873",
-      "logs": 8,
+      "logs": 12,
       "joined": "2026/03/24",
-      "lastActive": "2026-03-25",
+      "lastActive": "2026-03-26",
       "goal": 1961,
       "age": 54,
       "gender": "female",
@@ -371,9 +371,9 @@
     {
       "name": "Vicky",
       "phone": "4475****334",
-      "logs": 44,
+      "logs": 45,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-25",
+      "lastActive": "2026-03-26",
       "goal": 1503,
       "age": 37,
       "gender": "female",
@@ -1278,9 +1278,9 @@
     {
       "name": "Khali",
       "phone": "2774****977",
-      "logs": 12,
+      "logs": 13,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-25",
+      "lastActive": "2026-03-26",
       "goal": 2306,
       "age": 40,
       "gender": "female",
@@ -1416,10 +1416,10 @@
     {
       "name": "Jan",
       "phone": "2782****657",
-      "logs": 38,
+      "logs": 39,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-25",
-      "goal": 3023,
+      "lastActive": "2026-03-26",
+      "goal": 3006,
       "age": 43,
       "gender": "male",
       "email": "",
@@ -1513,13 +1513,13 @@
     {
       "name": "Quintin",
       "phone": "2782****749",
-      "logs": 9,
+      "logs": 12,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-25",
+      "lastActive": "2026-03-26",
       "goal": 2320,
       "age": 28,
       "gender": "male",
-      "email": "",
+      "email": "krugerquintin5@gmail.com",
       "premium": false,
       "active7d": true,
       "joinedRaw": "2026-03-23T05:53:12.912Z"
@@ -1527,13 +1527,13 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 13,
+      "logs": 14,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-25",
+      "lastActive": "2026-03-26",
       "goal": 2018,
       "age": 35,
       "gender": "male",
-      "email": "",
+      "email": "fredericks.a@hotmail.com",
       "premium": false,
       "active7d": true,
       "joinedRaw": "2026-03-23T05:52:57.644Z"
@@ -1554,9 +1554,9 @@
     {
       "name": "Peter",
       "phone": "2773****700",
-      "logs": 24,
+      "logs": 27,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-25",
+      "lastActive": "2026-03-26",
       "goal": 2945,
       "age": 63,
       "gender": "male",
@@ -3321,7 +3321,7 @@
   "fitsortedTopFoods": [
     [
       "coffee with milk (1 cup)",
-      16
+      18
     ],
     [
       "3x eggs",
@@ -3329,7 +3329,7 @@
     ],
     [
       "banana (1 medium)",
-      7
+      8
     ],
     [
       "2x boiled egg",
@@ -3382,7 +3382,7 @@
   ],
   "fitsortedErrors": [
     {
-      "count": 51,
+      "count": 50,
       "error": "[sheets append error] spawnSync /bin/sh ETIMEDOUT"
     },
     {
@@ -3390,7 +3390,7 @@
       "error": "Food lookup error: Request failed with status code 429"
     },
     {
-      "count": 7,
+      "count": 8,
       "error": "Food lookup error: Invalid food input"
     },
     {
@@ -3407,24 +3407,24 @@
       "daily": {
         "sessions": "19",
         "users": "14",
-        "pageviews": "20"
+        "pageviews": "21"
       },
       "weekly": {
         "sessions": "62",
         "users": "39",
-        "pageviews": "77"
+        "pageviews": "78"
       }
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "17",
-        "users": "15",
-        "pageviews": "17"
+        "sessions": "18",
+        "users": "16",
+        "pageviews": "18"
       },
       "weekly": {
-        "sessions": "74",
-        "users": "65",
-        "pageviews": "78"
+        "sessions": "75",
+        "users": "66",
+        "pageviews": "79"
       }
     },
     "BetSorted": {
@@ -3443,12 +3443,12 @@
       "daily": {
         "sessions": "11",
         "users": "10",
-        "pageviews": "14"
+        "pageviews": "15"
       },
       "weekly": {
         "sessions": "140",
         "users": "118",
-        "pageviews": "169"
+        "pageviews": "170"
       }
     },
     "CryptoCasinoSorted": {
