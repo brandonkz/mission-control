@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/26, 14:04:03",
+  "updated": "2026/03/26, 16:04:07",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "115 active",
+      "traffic": "116 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "235",
+      "val": "236",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "15",
+      "val": "19",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "115",
+      "val": "116",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,326",
+      "val": "1,341",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "42",
+      "val": "57",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "308,489",
+      "val": "311,984",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "11h 3m",
+      "val": "13h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -105,6 +105,20 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Cait",
+      "phone": "3519****922",
+      "logs": 2,
+      "joined": "2026/03/26",
+      "lastActive": "2026-03-26",
+      "goal": 2193,
+      "age": 38,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-26T12:33:55.331Z"
+    },
     {
       "name": "Debo",
       "phone": "2348****730",
@@ -301,9 +315,9 @@
     {
       "name": "Kagiso",
       "phone": "2772****572",
-      "logs": 10,
+      "logs": 13,
       "joined": "2026/03/24",
-      "lastActive": "2026-03-25",
+      "lastActive": "2026-03-26",
       "goal": 2201,
       "age": 33,
       "gender": "male",
@@ -780,7 +794,7 @@
     {
       "name": "Ronnie",
       "phone": "2782****244",
-      "logs": 40,
+      "logs": 41,
       "joined": "2026/03/23",
       "lastActive": "2026-03-26",
       "goal": 3416,
@@ -1527,7 +1541,7 @@
     {
       "name": "Quintin",
       "phone": "2782****749",
-      "logs": 14,
+      "logs": 15,
       "joined": "2026/03/23",
       "lastActive": "2026-03-26",
       "goal": 2320,
@@ -1636,7 +1650,7 @@
     {
       "name": "Wayne",
       "phone": "2772****460",
-      "logs": 15,
+      "logs": 20,
       "joined": "2026/03/23",
       "lastActive": "2026-03-26",
       "goal": 1934,
@@ -2086,13 +2100,13 @@
     {
       "name": "Taahir",
       "phone": "2761****618",
-      "logs": 19,
+      "logs": 21,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-25",
+      "lastActive": "2026-03-26",
       "goal": 1480,
       "age": 31,
       "gender": "male",
-      "email": "",
+      "email": "taahirbhaiyat01@gmail.com",
       "premium": false,
       "active7d": true,
       "joinedRaw": "2026-03-23T04:11:07.783Z"
@@ -2114,9 +2128,9 @@
     {
       "name": "hammaad92@gmail.com",
       "phone": "2761****214",
-      "logs": 13,
+      "logs": 14,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-25",
+      "lastActive": "2026-03-26",
       "goal": 3486,
       "age": 22,
       "gender": "male",
@@ -3339,7 +3353,7 @@
     ],
     [
       "banana (1 medium)",
-      9
+      10
     ],
     [
       "3x eggs",
@@ -3347,6 +3361,10 @@
     ],
     [
       "2x boiled egg",
+      6
+    ],
+    [
+      "boiled egg (1 large) (1 egg)",
       6
     ],
     [
@@ -3378,10 +3396,6 @@
       4
     ],
     [
-      "boiled egg (1 large) (1 egg)",
-      4
-    ],
-    [
       "hot cross bun (~100g)",
       4
     ],
@@ -3396,7 +3410,7 @@
   ],
   "fitsortedErrors": [
     {
-      "count": 23,
+      "count": 11,
       "error": "[sheets append error] spawnSync /bin/sh ETIMEDOUT"
     },
     {
