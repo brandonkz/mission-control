@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/26, 20:04:03",
+  "updated": "2026/03/26, 22:04:04",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,368",
+      "val": "1,394",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "84",
+      "val": "110",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "318,491",
+      "val": "324,226",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "3h 38m",
+      "val": "5h 38m",
       "color": "blue"
     },
     "Restarts": {
@@ -232,7 +232,7 @@
     {
       "name": "Kiren",
       "phone": "2782****873",
-      "logs": 13,
+      "logs": 14,
       "joined": "2026/03/24",
       "lastActive": "2026-03-26",
       "goal": 1961,
@@ -399,7 +399,7 @@
     {
       "name": "Vicky",
       "phone": "4475****334",
-      "logs": 52,
+      "logs": 53,
       "joined": "2026/03/23",
       "lastActive": "2026-03-26",
       "goal": 1503,
@@ -1306,7 +1306,7 @@
     {
       "name": "Khali",
       "phone": "2774****977",
-      "logs": 15,
+      "logs": 24,
       "joined": "2026/03/23",
       "lastActive": "2026-03-26",
       "goal": 2306,
@@ -1541,7 +1541,7 @@
     {
       "name": "Quintin",
       "phone": "2782****749",
-      "logs": 17,
+      "logs": 18,
       "joined": "2026/03/23",
       "lastActive": "2026-03-26",
       "goal": 2320,
@@ -1555,7 +1555,7 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 16,
+      "logs": 17,
       "joined": "2026/03/23",
       "lastActive": "2026-03-26",
       "goal": 2018,
@@ -1582,7 +1582,7 @@
     {
       "name": "Peter",
       "phone": "2773****700",
-      "logs": 27,
+      "logs": 32,
       "joined": "2026/03/23",
       "lastActive": "2026-03-26",
       "goal": 2945,
@@ -1650,7 +1650,7 @@
     {
       "name": "Wayne",
       "phone": "2772****460",
-      "logs": 20,
+      "logs": 24,
       "joined": "2026/03/23",
       "lastActive": "2026-03-26",
       "goal": 1934,
@@ -2100,7 +2100,7 @@
     {
       "name": "Taahir",
       "phone": "2761****618",
-      "logs": 22,
+      "logs": 25,
       "joined": "2026/03/23",
       "lastActive": "2026-03-26",
       "goal": 1480,
@@ -2128,7 +2128,7 @@
     {
       "name": "hammaad92@gmail.com",
       "phone": "2761****214",
-      "logs": 14,
+      "logs": 15,
       "joined": "2026/03/23",
       "lastActive": "2026-03-26",
       "goal": 3486,
@@ -3349,7 +3349,7 @@
   "fitsortedTopFoods": [
     [
       "coffee with milk (1 cup)",
-      20
+      21
     ],
     [
       "banana (1 medium)",
@@ -3368,11 +3368,15 @@
       6
     ],
     [
+      "tea with milk (1 cup)",
+      6
+    ],
+    [
       "oats (1 cup cooked) (1 cup)",
       5
     ],
     [
-      "tea with milk (1 cup)",
+      "coke zero 330ml",
       5
     ],
     [
@@ -3385,10 +3389,6 @@
     ],
     [
       "scrambled eggs (2 eggs)",
-      4
-    ],
-    [
-      "coke zero 330ml",
       4
     ],
     [
@@ -3410,24 +3410,24 @@
   ],
   "fitsortedErrors": [
     {
-      "count": 11,
-      "error": "Food lookup error: Request failed with status code 429"
-    },
-    {
-      "count": 4,
-      "error": "Food lookup error: Invalid food input"
+      "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-26T19:35:00.866Z|27832127571|27832127571|Nando's quarter chicken (~175g) and rice (1 cup, ~150g)|430|40|50|15|2|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] spawnSync gog ETIMEDOUT"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-26T18:31:14.990Z|27748411977|27748411977|Oros (250ml)|100|0|25|0|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-26T18:01:23.683Z|27725958572|27725958572|Pork ribs (~150g) and Green Salad (~150g)|600|40|10|45|5|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-26T18:30:36.078Z|27748411977|27748411977|Boerewors (1 link, grilled) (1 link (~100g))|280|14|2|24|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-26T18:01:20.100Z|27725958572|27725958572|Chicken wings (~150g)|330|30|0|22|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-26T18:30:19.068Z|27748411977|27748411977|Pap (stiff, cooked) (1 cup (250g))|240|5|50|1|2|AI --account alphaxasset@gmail.com"
+    },
+    {
+      "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-26T18:29:41.599Z|27748411977|27748411977|Bread atchaar (~100g)|250|5|40|10|5|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {
