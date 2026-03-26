@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/26, 10:04:11",
+  "updated": "2026/03/26, 12:04:03",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "8",
+      "val": "13",
       "color": "green"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,299",
+      "val": "1,315",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "15",
+      "val": "31",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "303,439",
+      "val": "305,757",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "7h 4m",
+      "val": "9h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -108,9 +108,9 @@
     {
       "name": "Christine",
       "phone": "2763****997",
-      "logs": 7,
+      "logs": 8,
       "joined": "2026/03/25",
-      "lastActive": "2026-03-25",
+      "lastActive": "2026-03-26",
       "goal": 1700,
       "age": 38,
       "gender": "female",
@@ -176,9 +176,9 @@
     {
       "name": "Can we choose lose weight option rather",
       "phone": "2782****924",
-      "logs": 6,
+      "logs": 7,
       "joined": "2026/03/24",
-      "lastActive": "2026-03-25",
+      "lastActive": "2026-03-26",
       "goal": 1844,
       "age": 25,
       "gender": "female",
@@ -371,7 +371,7 @@
     {
       "name": "Vicky",
       "phone": "4475****334",
-      "logs": 45,
+      "logs": 46,
       "joined": "2026/03/23",
       "lastActive": "2026-03-26",
       "goal": 1503,
@@ -766,9 +766,9 @@
     {
       "name": "Ronnie",
       "phone": "2782****244",
-      "logs": 33,
+      "logs": 40,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-25",
+      "lastActive": "2026-03-26",
       "goal": 3416,
       "age": 30,
       "gender": "male",
@@ -1278,7 +1278,7 @@
     {
       "name": "Khali",
       "phone": "2774****977",
-      "logs": 13,
+      "logs": 15,
       "joined": "2026/03/23",
       "lastActive": "2026-03-26",
       "goal": 2306,
@@ -1416,7 +1416,7 @@
     {
       "name": "Jan",
       "phone": "2782****657",
-      "logs": 39,
+      "logs": 40,
       "joined": "2026/03/23",
       "lastActive": "2026-03-26",
       "goal": 3006,
@@ -1622,9 +1622,9 @@
     {
       "name": "Wayne",
       "phone": "2772****460",
-      "logs": 14,
+      "logs": 15,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-25",
+      "lastActive": "2026-03-26",
       "goal": 1934,
       "age": 41,
       "gender": "male",
@@ -1798,9 +1798,9 @@
     {
       "name": "Gary",
       "phone": "2783****220",
-      "logs": 5,
+      "logs": 7,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-25",
+      "lastActive": "2026-03-26",
       "goal": 2926,
       "age": 44,
       "gender": "male",
@@ -3321,14 +3321,14 @@
   "fitsortedTopFoods": [
     [
       "coffee with milk (1 cup)",
-      18
-    ],
-    [
-      "3x eggs",
-      8
+      19
     ],
     [
       "banana (1 medium)",
+      9
+    ],
+    [
+      "3x eggs",
       8
     ],
     [
@@ -3336,12 +3336,12 @@
       6
     ],
     [
-      "tea with milk (1 cup)",
+      "oats (1 cup cooked) (1 cup)",
       5
     ],
     [
-      "oats (1 cup cooked) (1 cup)",
-      4
+      "tea with milk (1 cup)",
+      5
     ],
     [
       "unknown",
@@ -3382,7 +3382,7 @@
   ],
   "fitsortedErrors": [
     {
-      "count": 50,
+      "count": 32,
       "error": "[sheets append error] spawnSync /bin/sh ETIMEDOUT"
     },
     {
