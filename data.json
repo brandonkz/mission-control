@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/27, 06:04:24",
+  "updated": "2026/03/27, 08:04:39",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "1",
+      "val": "3",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,396",
+      "val": "1,398",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "1",
+      "val": "3",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "324,671",
+      "val": "324,771",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "3h 4m",
+      "val": "5h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -1444,9 +1444,9 @@
     {
       "name": "Jan",
       "phone": "2782****657",
-      "logs": 48,
+      "logs": 49,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-26",
+      "lastActive": "2026-03-27",
       "goal": 3006,
       "age": 43,
       "gender": "male",
@@ -1541,9 +1541,9 @@
     {
       "name": "Quintin",
       "phone": "2782****749",
-      "logs": 18,
+      "logs": 19,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-26",
+      "lastActive": "2026-03-27",
       "goal": 2320,
       "age": 28,
       "gender": "male",
@@ -3349,7 +3349,7 @@
   "fitsortedTopFoods": [
     [
       "coffee with milk (1 cup)",
-      21
+      23
     ],
     [
       "banana (1 medium)",
@@ -3411,6 +3411,14 @@
   "fitsortedErrors": [
     {
       "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-27T05:11:37.754Z|27828296749|27828296749|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
+    },
+    {
+      "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-27T04:23:58.879Z|27825700657|27825700657|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
+    },
+    {
+      "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-26T22:01:06.537Z|447541558334|447541558334|Glass of red wine (1 glass (150ml))|125|0|4|0|0|AI --account alphaxasset@gmail.com"
     },
     {
@@ -3420,14 +3428,6 @@
     {
       "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-26T19:35:00.866Z|27832127571|27832127571|Nando's quarter chicken (~175g) and rice (1 cup, ~150g)|430|40|50|15|2|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-26T18:31:14.990Z|27748411977|27748411977|Oros (250ml)|100|0|25|0|0|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-26T18:30:36.078Z|27748411977|27748411977|Boerewors (1 link, grilled) (1 link (~100g))|280|14|2|24|0|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {
