@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/27, 00:13:17",
+  "updated": "2026/03/27, 02:04:01",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "116 active",
+      "traffic": "114 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "21",
-      "color": "green"
+      "val": "1",
+      "color": "orange"
     },
     "Active (7d)": {
-      "val": "116",
+      "val": "114",
       "color": "green"
     },
     "Premium Users": {
@@ -80,8 +80,8 @@
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "111",
-      "color": "green"
+      "val": "1",
+      "color": "orange"
     },
     "Total Calories Tracked": {
       "val": "324,671",
@@ -92,15 +92,15 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "7h 47m",
+      "val": "0h 59m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "125",
+      "val": "127",
       "color": "orange"
     },
     "Food Database": {
-      "val": "1572 foods",
+      "val": "1592 foods",
       "color": "blue"
     }
   },
@@ -2385,7 +2385,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-17T13:30:01.595Z"
     },
     {
@@ -3179,7 +3179,7 @@
       "gender": "male",
       "email": "avimarko29@gmail.com",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-09T13:56:14.030Z"
     },
     {
@@ -3433,14 +3433,14 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "10",
+        "sessions": "11",
         "users": "9",
-        "pageviews": "11"
+        "pageviews": "12"
       },
       "weekly": {
-        "sessions": "62",
+        "sessions": "63",
         "users": "40",
-        "pageviews": "79"
+        "pageviews": "80"
       }
     },
     "PaidProperly": {
@@ -3483,10 +3483,10 @@
       "daily": {
         "sessions": "1",
         "users": "1",
-        "pageviews": "0"
+        "pageviews": "2"
       },
       "weekly": {
-        "sessions": "13",
+        "sessions": "12",
         "users": "9",
         "pageviews": "34"
       }
@@ -3516,19 +3516,19 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "3,054",
+      "val": "3,500",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$1.9M",
+      "val": "$2.4M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "21 (>$10K)",
+      "val": "25 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
-      "val": "8",
+      "val": "10",
       "color": "blue"
     }
   },
