@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/28, 00:06:36",
+  "updated": "2026/03/28, 02:04:03",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "117 active",
+      "traffic": "116 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "16",
-      "color": "green"
+      "val": "0",
+      "color": "orange"
     },
     "Active (7d)": {
-      "val": "117",
+      "val": "116",
       "color": "green"
     },
     "Premium Users": {
@@ -80,8 +80,8 @@
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "91",
-      "color": "green"
+      "val": "0",
+      "color": "orange"
     },
     "Total Calories Tracked": {
       "val": "345,620",
@@ -92,15 +92,15 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "13h 31m",
+      "val": "1h 0m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "132",
+      "val": "134",
       "color": "orange"
     },
     "Food Database": {
-      "val": "1592 foods",
+      "val": "1612 foods",
       "color": "blue"
     }
   },
@@ -2769,7 +2769,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-14T09:35:16.794Z"
     },
     {
@@ -3537,12 +3537,12 @@
       "daily": {
         "sessions": "1",
         "users": "1",
-        "pageviews": "2"
+        "pageviews": "1"
       },
       "weekly": {
         "sessions": "12",
         "users": "9",
-        "pageviews": "34"
+        "pageviews": "30"
       }
     }
   },
@@ -3570,19 +3570,19 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "3,500",
+      "val": "3,209",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$2.4M",
+      "val": "$1.8M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "25 (>$10K)",
+      "val": "26 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
-      "val": "10",
+      "val": "9",
       "color": "blue"
     }
   },
