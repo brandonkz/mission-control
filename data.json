@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/28, 22:04:03",
+  "updated": "2026/03/29, 00:09:48",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,524",
+      "val": "1,525",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "38",
+      "val": "39",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "357,248",
+      "val": "357,398",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "19h 3m",
+      "val": "21h 9m",
       "color": "blue"
     },
     "Restarts": {
@@ -2237,7 +2237,7 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 17,
+      "logs": 18,
       "joined": "2026/03/21",
       "lastActive": "2026-03-28",
       "goal": 1999,
@@ -3492,6 +3492,10 @@
   "fitsortedErrors": [
     {
       "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T20:21:49.304Z|27837787970|27837787970|5x marshmallow|150|0|37|0|0|AI --account alphaxasset@gmail.com"
+    },
+    {
+      "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T19:20:21.610Z|27832127571|27832127571|small slice of mouse cake (~50g)|200|2|30|9|1|AI --account alphaxasset@gmail.com"
     },
     {
@@ -3505,59 +3509,55 @@
     {
       "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T19:19:28.855Z|27832127571|27832127571|Lamb breyani (half plate, ~250g)|450|25|60|15|5|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T18:33:21.909Z|27837787970|27837787970|3x chicken sausage|360|30|0|27|0|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "20",
-        "users": "16",
-        "pageviews": "46"
+        "sessions": "6",
+        "users": "6",
+        "pageviews": "6"
       },
       "weekly": {
-        "sessions": "80",
-        "users": "53",
-        "pageviews": "113"
+        "sessions": "86",
+        "users": "58",
+        "pageviews": "119"
       }
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "8",
-        "users": "7",
-        "pageviews": "7"
+        "sessions": "5",
+        "users": "5",
+        "pageviews": "5"
       },
       "weekly": {
-        "sessions": "71",
-        "users": "56",
-        "pageviews": "70"
+        "sessions": "67",
+        "users": "53",
+        "pageviews": "67"
       }
     },
     "BetSorted": {
       "daily": {
-        "sessions": "15",
-        "users": "10",
-        "pageviews": "21"
+        "sessions": "13",
+        "users": "8",
+        "pageviews": "17"
       },
       "weekly": {
-        "sessions": "15",
-        "users": "10",
-        "pageviews": "21"
+        "sessions": "13",
+        "users": "8",
+        "pageviews": "17"
       }
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "5",
-        "users": "5",
-        "pageviews": "4"
+        "sessions": "46",
+        "users": "41",
+        "pageviews": "47"
       },
       "weekly": {
-        "sessions": "140",
-        "users": "120",
-        "pageviews": "166"
+        "sessions": "182",
+        "users": "156",
+        "pageviews": "209"
       }
     },
     "CryptoCasinoSorted": {
