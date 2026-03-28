@@ -4,8 +4,8 @@
   "proUsers": 1,
   "activeToday": 11,
   "activeWeek": 119,
-  "logsToday": 31,
-  "totalLogsAllTime": 1517,
+  "logsToday": 33,
+  "totalLogsAllTime": 1519,
   "signupsToday": 1,
   "signupsThisWeek": 156,
   "signupsByDay": {
@@ -92,5 +92,5 @@
       "setup": true
     }
   ],
-  "updatedAt": "2026-03-28T18:00:01.262Z"
+  "updatedAt": "2026-03-28T18:30:01.288Z"
 }
