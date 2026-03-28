@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/28, 18:04:04",
+  "updated": "2026/03/28, 20:04:02",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "10",
+      "val": "11",
       "color": "green"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,513",
+      "val": "1,519",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "27",
+      "val": "33",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "352,693",
+      "val": "355,538",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "15h 3m",
+      "val": "17h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -135,9 +135,9 @@
     {
       "name": "Ulrieg",
       "phone": "2763****663",
-      "logs": 5,
+      "logs": 7,
       "joined": "2026/03/27",
-      "lastActive": "2026-03-27",
+      "lastActive": "2026-03-28",
       "goal": 2635,
       "age": 23,
       "gender": "male",
@@ -630,7 +630,7 @@
     {
       "name": "Herman",
       "phone": "2772****878",
-      "logs": 40,
+      "logs": 43,
       "joined": "2026/03/23",
       "lastActive": "2026-03-28",
       "goal": 2013,
@@ -2196,7 +2196,7 @@
     {
       "name": "hammaad92@gmail.com",
       "phone": "2761****214",
-      "logs": 24,
+      "logs": 25,
       "joined": "2026/03/23",
       "lastActive": "2026-03-28",
       "goal": 3486,
@@ -3479,23 +3479,23 @@
   "fitsortedErrors": [
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T15:45:33.527Z|27837787970|27837787970|Red wine (175ml)|125|9|13|4|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T18:01:48.015Z|27724215878|27724215878|Fillet steak (~150g)|300|40|0|15|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T14:31:38.301Z|27795791972|27795791972|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T18:01:07.806Z|27610463214|27610463214|2x chicken burger|680|40|60|30|4|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T14:31:35.272Z|27795791972|27795791972|Wimpy Fullhouse Breakfast|800|40|60|45|5|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T17:30:32.458Z|27630740663|27630740663|2x slice of toast with butter|220|6|36|8|2|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T14:18:31.221Z|27725958572|27725958572|Pumpkin (1 cup, ~200g) and Beetroot (1 cup, ~150g)|150|5|35|1|10|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T17:29:56.287Z|27630740663|27630740663|3 eggs + 2 slices brown toast + 4 cheese sausages|730|40|56|44|8|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T14:18:27.394Z|27725958572|27725958572|Beef stew (~300g)|450|40|30|20|5|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T17:24:52.792Z|27724215878|27724215878|3x Caste lager double malt (440ml each)|465|35|47|16|0|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {
