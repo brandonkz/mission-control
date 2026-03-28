@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/28, 10:04:04",
+  "updated": "2026/03/28, 12:04:02",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,8 +64,8 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "3",
-      "color": "orange"
+      "val": "6",
+      "color": "green"
     },
     "Active (7d)": {
       "val": "116",
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,494",
+      "val": "1,502",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "8",
-      "color": "orange"
+      "val": "16",
+      "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "347,670",
+      "val": "349,345",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "7h 3m",
+      "val": "9h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -616,9 +616,9 @@
     {
       "name": "Herman",
       "phone": "2772****878",
-      "logs": 35,
+      "logs": 38,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-27",
+      "lastActive": "2026-03-28",
       "goal": 2013,
       "age": 41,
       "gender": "male",
@@ -2182,9 +2182,9 @@
     {
       "name": "hammaad92@gmail.com",
       "phone": "2761****214",
-      "logs": 21,
+      "logs": 24,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-27",
+      "lastActive": "2026-03-28",
       "goal": 3486,
       "age": 22,
       "gender": "male",
@@ -2210,9 +2210,9 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 13,
+      "logs": 15,
       "joined": "2026/03/21",
-      "lastActive": "2026-03-27",
+      "lastActive": "2026-03-28",
       "goal": 1999,
       "age": 38,
       "gender": "male",
@@ -3403,7 +3403,7 @@
   "fitsortedTopFoods": [
     [
       "coffee with milk (1 cup)",
-      26
+      27
     ],
     [
       "boiled egg (1 large) (1 egg)",
@@ -3442,6 +3442,10 @@
       5
     ],
     [
+      "toast (white bread, 2 slices) (2 slices)",
+      5
+    ],
+    [
       "hot cross bun (~100g)",
       5
     ],
@@ -3456,32 +3460,28 @@
     [
       "scrambled eggs (2 eggs)",
       4
-    ],
-    [
-      "toast (white bread, 2 slices) (2 slices)",
-      4
     ]
   ],
   "fitsortedErrors": [
     {
       "count": 1,
-      "error": "heets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-27T09:25:35.015Z|27828528359|27828528359|Protein smoothie (220ml)|150|20|15|3|2|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T09:38:35.879Z|27610463214|27610463214|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T07:02:47.684Z|27825700657|27825700657|Yogurt (1 cup, ~245g)|150|8|12|8|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T09:38:18.505Z|27610463214|27610463214|Toast (white bread, 2 slices) (2 slices)|160|5|30|2|2|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T07:02:28.430Z|27825700657|27825700657|Beef breakfast sausage (~100g)|300|15|2|25|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T09:38:12.598Z|27610463214|27610463214|2x scrambled eggs|140|12|2|10|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T06:51:37.123Z|27828296749|27828296749|Bacon (~50g) with mayonnaise (~30g) and cheese (~30g)|380|15|2|35|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T09:09:57.078Z|27724215878|27724215878|Koeksister|250|3|38|10|1|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T06:51:33.058Z|27828296749|27828296749|breakfast bun with egg (~150g)|240|8|28|9|1|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T09:04:46.389Z|27724215878|27724215878|Called lager double malt (440ml)|155|1|13|0|0|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {
