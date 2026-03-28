@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/28, 14:04:09",
+  "updated": "2026/03/28, 16:04:03",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "116 active",
+      "traffic": "117 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "7",
+      "val": "8",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "116",
+      "val": "117",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,505",
+      "val": "1,507",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "19",
+      "val": "21",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "350,270",
+      "val": "350,968",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "11h 4m",
+      "val": "13h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -2653,15 +2653,15 @@
     {
       "name": "Mihle",
       "phone": "2767****524",
-      "logs": 1,
+      "logs": 3,
       "joined": "2026/03/15",
-      "lastActive": "2026-03-15",
+      "lastActive": "2026-03-28",
       "goal": 1993,
       "age": 21,
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": false,
+      "active7d": true,
       "joinedRaw": "2026-03-15T16:57:59.628Z"
     },
     {
@@ -3465,6 +3465,10 @@
   "fitsortedErrors": [
     {
       "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T12:11:41.149Z|27673241524|27673241524|Chicken breast (~150g) with mixed vegetables (~100g) and sweet potatoes (~150g)|450|40|60|10|8|AI --account alphaxasset@gmail.com"
+    },
+    {
+      "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T11:29:49.119Z|27836569534|27836569534|Bar One milkshake (350ml)|420|10|60|15|2|AI --account alphaxasset@gmail.com"
     },
     {
@@ -3478,10 +3482,6 @@
     {
       "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T09:38:35.879Z|27610463214|27610463214|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T09:38:18.505Z|27610463214|27610463214|Toast (white bread, 2 slices) (2 slices)|160|5|30|2|2|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {
