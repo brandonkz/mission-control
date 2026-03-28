@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/28, 16:04:03",
+  "updated": "2026/03/28, 18:04:04",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "117 active",
+      "traffic": "118 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "240",
+      "val": "241",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "8",
+      "val": "10",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "117",
+      "val": "118",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,507",
+      "val": "1,513",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "21",
+      "val": "27",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "350,968",
+      "val": "352,693",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "13h 3m",
+      "val": "15h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -105,6 +105,20 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "kay",
+      "phone": "2779****972",
+      "logs": 2,
+      "joined": "2026/03/28",
+      "lastActive": "2026-03-28",
+      "goal": 1247,
+      "age": 19,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-28T14:27:32.443Z"
+    },
     {
       "name": "You think I should eat 2732 calories?",
       "phone": "1646****312",
@@ -369,9 +383,9 @@
     {
       "name": "Kagiso",
       "phone": "2772****572",
-      "logs": 17,
+      "logs": 20,
       "joined": "2026/03/24",
-      "lastActive": "2026-03-27",
+      "lastActive": "2026-03-28",
       "goal": 2201,
       "age": 33,
       "gender": "male",
@@ -2210,7 +2224,7 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 15,
+      "logs": 16,
       "joined": "2026/03/21",
       "lastActive": "2026-03-28",
       "goal": 1999,
@@ -3403,7 +3417,7 @@
   "fitsortedTopFoods": [
     [
       "coffee with milk (1 cup)",
-      27
+      28
     ],
     [
       "boiled egg (1 large) (1 egg)",
@@ -3465,23 +3479,23 @@
   "fitsortedErrors": [
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T12:11:41.149Z|27673241524|27673241524|Chicken breast (~150g) with mixed vegetables (~100g) and sweet potatoes (~150g)|450|40|60|10|8|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T15:45:33.527Z|27837787970|27837787970|Red wine (175ml)|125|9|13|4|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T11:29:49.119Z|27836569534|27836569534|Bar One milkshake (350ml)|420|10|60|15|2|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T14:31:38.301Z|27795791972|27795791972|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T10:33:19.663Z|27724215878|27724215878|Biltong (100g)|350|56|8|8|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T14:31:35.272Z|27795791972|27795791972|Wimpy Fullhouse Breakfast|800|40|60|45|5|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T10:33:01.855Z|27724215878|27724215878|Caste lager (440ml)|155|1|13|0|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T14:18:31.221Z|27725958572|27725958572|Pumpkin (1 cup, ~200g) and Beetroot (1 cup, ~150g)|150|5|35|1|10|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T09:38:35.879Z|27610463214|27610463214|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T14:18:27.394Z|27725958572|27725958572|Beef stew (~300g)|450|40|30|20|5|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {
