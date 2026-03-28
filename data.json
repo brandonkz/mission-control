@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/28, 08:04:03",
+  "updated": "2026/03/28, 10:04:04",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "3",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,486",
+      "val": "1,494",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "8",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "345,620",
+      "val": "347,670",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "5h 3m",
+      "val": "7h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -190,9 +190,9 @@
     {
       "name": "Christine",
       "phone": "2763****997",
-      "logs": 9,
+      "logs": 12,
       "joined": "2026/03/25",
-      "lastActive": "2026-03-26",
+      "lastActive": "2026-03-28",
       "goal": 1700,
       "age": 38,
       "gender": "female",
@@ -1498,9 +1498,9 @@
     {
       "name": "Jan",
       "phone": "2782****657",
-      "logs": 57,
+      "logs": 59,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-27",
+      "lastActive": "2026-03-28",
       "goal": 3006,
       "age": 43,
       "gender": "male",
@@ -1595,9 +1595,9 @@
     {
       "name": "Quintin",
       "phone": "2782****749",
-      "logs": 25,
+      "logs": 28,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-27",
+      "lastActive": "2026-03-28",
       "goal": 2320,
       "age": 28,
       "gender": "male",
@@ -3465,48 +3465,48 @@
   "fitsortedErrors": [
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-27T20:46:06.395Z|27828296749|27828296749|Pizza (~300g)|800|30|90|35|4|AI --account alphaxasset@gmail.com"
+      "error": "heets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-27T09:25:35.015Z|27828528359|27828528359|Protein smoothie (220ml)|150|20|15|3|2|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-27T20:46:05.411Z|27828296749|27828296749|4x Guinness beer (440ml)|620|8|56|0|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T07:02:47.684Z|27825700657|27825700657|Yogurt (1 cup, ~245g)|150|8|12|8|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-27T18:26:58.837Z|27630740663|27630740663|squash session (2 hours)|1200|0|0|0|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T07:02:28.430Z|27825700657|27825700657|Beef breakfast sausage (~100g)|300|15|2|25|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-27T18:21:19.710Z|27735757700|27735757700|Red wine (175ml)|125|9|13|4|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T06:51:37.123Z|27828296749|27828296749|Bacon (~50g) with mayonnaise (~30g) and cheese (~30g)|380|15|2|35|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-27T18:21:10.550Z|27735757700|27735757700|Draught beer (440ml)|155|1|13|0|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T06:51:33.058Z|27828296749|27828296749|breakfast bun with egg (~150g)|240|8|28|9|1|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "17",
-        "users": "15",
-        "pageviews": "31"
+        "sessions": "20",
+        "users": "16",
+        "pageviews": "46"
       },
       "weekly": {
-        "sessions": "77",
-        "users": "52",
-        "pageviews": "98"
+        "sessions": "80",
+        "users": "53",
+        "pageviews": "113"
       }
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "6",
-        "users": "5",
-        "pageviews": "5"
+        "sessions": "8",
+        "users": "7",
+        "pageviews": "7"
       },
       "weekly": {
-        "sessions": "69",
+        "sessions": "71",
         "users": "56",
-        "pageviews": "68"
+        "pageviews": "70"
       }
     },
     "BetSorted": {
@@ -3523,12 +3523,12 @@
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "4",
-        "users": "4",
+        "sessions": "5",
+        "users": "5",
         "pageviews": "4"
       },
       "weekly": {
-        "sessions": "139",
+        "sessions": "140",
         "users": "120",
         "pageviews": "166"
       }
