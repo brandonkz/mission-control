@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/29, 18:05:44",
+  "updated": "2026/03/29, 20:04:02",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "2",
+      "val": "3",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,529",
+      "val": "1,540",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "4",
-      "color": "orange"
+      "val": "15",
+      "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "358,058",
+      "val": "361,326",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "15h 5m",
+      "val": "17h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -1346,9 +1346,9 @@
     {
       "name": "Rob",
       "phone": "2771****896",
-      "logs": 18,
+      "logs": 26,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-27",
+      "lastActive": "2026-03-29",
       "goal": 2527,
       "age": 28,
       "gender": "male",
@@ -1636,7 +1636,7 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 28,
+      "logs": 30,
       "joined": "2026/03/23",
       "lastActive": "2026-03-29",
       "goal": 2018,
@@ -2237,7 +2237,7 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 19,
+      "logs": 20,
       "joined": "2026/03/21",
       "lastActive": "2026-03-29",
       "goal": 1999,
@@ -3465,6 +3465,10 @@
       5
     ],
     [
+      "scrambled eggs (2 eggs)",
+      5
+    ],
+    [
       "coke zero 330ml",
       5
     ],
@@ -3483,32 +3487,28 @@
     [
       "unknown",
       4
-    ],
-    [
-      "scrambled eggs (2 eggs)",
-      4
     ]
   ],
   "fitsortedErrors": [
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-29T10:28:28.723Z|27832127571|27832127571|2x cheese griller|320|16|4|28|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-29T17:31:02.814Z|27718808896|27718808896|2x banana|210|2|54|0|6|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-29T10:28:10.668Z|27832127571|27832127571|Tomato chutney (~100g)|80|1|20|0|2|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-29T17:30:33.221Z|27718808896|27718808896|plain baguette (~250g)|700|20|140|10|6|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-29T10:27:48.808Z|27832127571|27832127571|3x scrambled eggs|210|18|3|15|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-29T17:30:09.465Z|27718808896|27718808896|2x slice of sourdough bread|160|6|30|2|4|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-29T10:26:21.760Z|27832127571|27832127571|Boiled egg (1 large) (1 egg)|78|6|1|5|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-29T17:29:37.516Z|27718808896|27718808896|Chicken breast (grilled, 150g) (150g)|248|46|0|5|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-29T05:56:21.419Z|27837787970|27837787970|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-29T17:29:18.378Z|27718808896|27718808896|Rice (1/2 cup cooked, ~75g)|90|2|20|0|0|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {
