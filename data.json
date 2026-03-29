@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/29, 06:04:03",
+  "updated": "2026/03/29, 08:05:11",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "1",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,525",
+      "val": "1,526",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "1",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "357,398",
+      "val": "357,448",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "3h 3m",
+      "val": "5h 5m",
       "color": "blue"
     },
     "Restarts": {
@@ -2237,9 +2237,9 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 18,
+      "logs": 19,
       "joined": "2026/03/21",
-      "lastActive": "2026-03-28",
+      "lastActive": "2026-03-29",
       "goal": 1999,
       "age": 38,
       "gender": "male",
@@ -3430,7 +3430,7 @@
   "fitsortedTopFoods": [
     [
       "coffee with milk (1 cup)",
-      28
+      29
     ],
     [
       "boiled egg (1 large) (1 egg)",
@@ -3492,6 +3492,10 @@
   "fitsortedErrors": [
     {
       "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-29T05:56:21.419Z|27837787970|27837787970|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
+    },
+    {
+      "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T20:21:49.304Z|27837787970|27837787970|5x marshmallow|150|0|37|0|0|AI --account alphaxasset@gmail.com"
     },
     {
@@ -3505,10 +3509,6 @@
     {
       "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T19:19:46.334Z|27832127571|27832127571|Roast lamb (~100g) with gravy|250|25|5|15|0|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-28T19:19:28.855Z|27832127571|27832127571|Lamb breyani (half plate, ~250g)|450|25|60|15|5|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {
