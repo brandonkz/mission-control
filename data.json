@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/29, 22:04:06",
+  "updated": "2026/03/30, 00:13:07",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "1h 49m",
+      "val": "3h 58m",
       "color": "blue"
     },
     "Restarts": {
@@ -3511,68 +3511,7 @@
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-29T17:29:18.378Z|27718808896|27718808896|Rice (1/2 cup cooked, ~75g)|90|2|20|0|0|AI --account alphaxasset@gmail.com"
     }
   ],
-  "analytics": {
-    "FitSorted": {
-      "daily": {
-        "sessions": "8",
-        "users": "8",
-        "pageviews": "8"
-      },
-      "weekly": {
-        "sessions": "88",
-        "users": "59",
-        "pageviews": "121"
-      }
-    },
-    "PaidProperly": {
-      "daily": {
-        "sessions": "5",
-        "users": "5",
-        "pageviews": "5"
-      },
-      "weekly": {
-        "sessions": "67",
-        "users": "53",
-        "pageviews": "67"
-      }
-    },
-    "BetSorted": {
-      "daily": {
-        "sessions": "13",
-        "users": "8",
-        "pageviews": "17"
-      },
-      "weekly": {
-        "sessions": "13",
-        "users": "8",
-        "pageviews": "17"
-      }
-    },
-    "RetirementSorted": {
-      "daily": {
-        "sessions": "50",
-        "users": "45",
-        "pageviews": "53"
-      },
-      "weekly": {
-        "sessions": "187",
-        "users": "160",
-        "pageviews": "215"
-      }
-    },
-    "CryptoCasinoSorted": {
-      "daily": {
-        "sessions": "12",
-        "users": "9",
-        "pageviews": "30"
-      },
-      "weekly": {
-        "sessions": "12",
-        "users": "9",
-        "pageviews": "30"
-      }
-    }
-  },
+  "analytics": {},
   "revenue": {
     "FitSorted MRR": {
       "val": "R0",
