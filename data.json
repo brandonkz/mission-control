@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/29, 00:09:48",
+  "updated": "2026/03/29, 02:04:04",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,8 +64,8 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "12",
-      "color": "green"
+      "val": "0",
+      "color": "orange"
     },
     "Active (7d)": {
       "val": "118",
@@ -80,8 +80,8 @@
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "39",
-      "color": "green"
+      "val": "0",
+      "color": "orange"
     },
     "Total Calories Tracked": {
       "val": "357,398",
@@ -92,15 +92,15 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "21h 9m",
+      "val": "1h 1m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "135",
+      "val": "137",
       "color": "orange"
     },
     "Food Database": {
-      "val": "1612 foods",
+      "val": "1632 foods",
       "color": "blue"
     }
   },
@@ -3550,21 +3550,21 @@
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "46",
-        "users": "41",
-        "pageviews": "47"
+        "sessions": "48",
+        "users": "43",
+        "pageviews": "50"
       },
       "weekly": {
-        "sessions": "182",
-        "users": "156",
-        "pageviews": "209"
+        "sessions": "184",
+        "users": "158",
+        "pageviews": "212"
       }
     },
     "CryptoCasinoSorted": {
       "daily": {
-        "sessions": "1",
-        "users": "1",
-        "pageviews": "1"
+        "sessions": "12",
+        "users": "9",
+        "pageviews": "30"
       },
       "weekly": {
         "sessions": "12",
@@ -3597,19 +3597,19 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "3,209",
+      "val": "4,401",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$1.8M",
+      "val": "$2.3M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "26 (>$10K)",
+      "val": "33 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
-      "val": "9",
+      "val": "10",
       "color": "blue"
     }
   },
