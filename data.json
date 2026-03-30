@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/30, 06:04:00",
+  "updated": "2026/03/30, 08:08:11",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "1",
       "color": "orange"
     },
     "Active (7d)": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "3h 3m",
+      "val": "5h 8m",
       "color": "blue"
     },
     "Restarts": {
@@ -482,7 +482,7 @@
       "phone": "4475****334",
       "logs": 66,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-27",
+      "lastActive": "2026-03-30",
       "goal": 1503,
       "age": 37,
       "gender": "female",
@@ -3492,6 +3492,10 @@
   "fitsortedErrors": [
     {
       "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T05:39:56.666Z|447541558334|447541558334|Medium lemon (~100g)|29|1|9|0|3|AI --account alphaxasset@gmail.com"
+    },
+    {
+      "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-29T17:31:02.814Z|27718808896|27718808896|2x banana|210|2|54|0|6|AI --account alphaxasset@gmail.com"
     },
     {
@@ -3505,10 +3509,6 @@
     {
       "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-29T17:29:37.516Z|27718808896|27718808896|Chicken breast (grilled, 150g) (150g)|248|46|0|5|0|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-29T17:29:18.378Z|27718808896|27718808896|Rice (1/2 cup cooked, ~75g)|90|2|20|0|0|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
