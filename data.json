@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/30, 08:08:11",
+  "updated": "2026/03/30, 12:03:59",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,8 +64,8 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "1",
-      "color": "orange"
+      "val": "4",
+      "color": "green"
     },
     "Active (7d)": {
       "val": "71",
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,540",
+      "val": "1,549",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "9",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "361,326",
+      "val": "363,276",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "5h 8m",
+      "val": "9h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -354,9 +354,9 @@
     {
       "name": "Shelley",
       "phone": "2774****649",
-      "logs": 4,
+      "logs": 5,
       "joined": "2026/03/24",
-      "lastActive": "2026-03-24",
+      "lastActive": "2026-03-30",
       "goal": 930,
       "age": 45,
       "gender": "female",
@@ -1622,9 +1622,9 @@
     {
       "name": "Quintin",
       "phone": "2782****749",
-      "logs": 28,
+      "logs": 35,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-28",
+      "lastActive": "2026-03-30",
       "goal": 2320,
       "age": 28,
       "gender": "male",
@@ -1636,9 +1636,9 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 30,
+      "logs": 31,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-29",
+      "lastActive": "2026-03-30",
       "goal": 2018,
       "age": 35,
       "gender": "male",
@@ -3430,7 +3430,7 @@
   "fitsortedTopFoods": [
     [
       "coffee with milk (1 cup)",
-      29
+      30
     ],
     [
       "boiled egg (1 large) (1 egg)",
@@ -3481,34 +3481,34 @@
       5
     ],
     [
-      "rooibos tea no sugar (1 cup (250ml))",
+      "boerewors (1 link, grilled) (1 link (~100g))",
       5
     ],
     [
-      "unknown",
-      4
+      "rooibos tea no sugar (1 cup (250ml))",
+      5
     ]
   ],
   "fitsortedErrors": [
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T05:39:56.666Z|447541558334|447541558334|Medium lemon (~100g)|29|1|9|0|3|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T09:37:59.043Z|27828296749|27828296749|Flat white (250ml)|120|6|12|6|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-29T17:31:02.814Z|27718808896|27718808896|2x banana|210|2|54|0|6|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T09:19:47.382Z|27744447649|27744447649|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-29T17:30:33.221Z|27718808896|27718808896|plain baguette (~250g)|700|20|140|10|6|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T08:59:46.325Z|27832127571|27832127571|Diet Protein Shake (1 scoop)|150|25|8|2|3|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-29T17:30:09.465Z|27718808896|27718808896|2x slice of sourdough bread|160|6|30|2|4|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T08:03:29.321Z|27828296749|27828296749|Onions (1 medium, ~100g) and Mushrooms (1 cup, ~70g)|60|4|12|0|3|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-29T17:29:37.516Z|27718808896|27718808896|Chicken breast (grilled, 150g) (150g)|248|46|0|5|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T08:03:26.068Z|27828296749|27828296749|tomato (~100g)|50|1|4|0|1|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
