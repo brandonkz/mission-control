@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/30, 18:03:56",
+  "updated": "2026/03/30, 20:04:39",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "72 active",
+      "traffic": "74 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "7",
+      "val": "9",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "72",
+      "val": "74",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,570",
+      "val": "1,576",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "30",
+      "val": "36",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "367,015",
+      "val": "370,195",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "15h 3m",
+      "val": "17h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -108,14 +108,15 @@
     {
       "name": "Melian",
       "phone": "2782****810",
-      "logs": 0,
+      "logs": 5,
       "joined": "2026/03/30",
-      "lastActive": "never",
+      "lastActive": "2026-03-30",
       "goal": 1091,
       "age": 35,
       "gender": "female",
       "email": "",
       "premium": false,
+      "active7d": true,
       "joinedRaw": "2026-03-30T14:50:50.076Z"
     },
     {
@@ -2541,15 +2542,15 @@
     {
       "name": "Carl Aaron Pillay",
       "phone": "2779****833",
-      "logs": 1,
+      "logs": 2,
       "joined": "2026/03/17",
-      "lastActive": "2026-03-17",
+      "lastActive": "2026-03-30",
       "goal": 1683,
       "age": 36,
       "gender": "male",
-      "email": "",
+      "email": "carlpillay24@gmail.com",
       "premium": false,
-      "active7d": false,
+      "active7d": true,
       "joinedRaw": "2026-03-17T12:09:57.552Z"
     },
     {
@@ -3519,23 +3520,23 @@
   "fitsortedErrors": [
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T15:44:04.377Z|27824497997|27824497997|Pasta (1 cup cooked) (1 cup)|200|7|40|1|2|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T16:38:31.824Z|27824413810|27824413810|Easter chocolates (~380g)|1900|15|250|90|10|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T15:42:17.581Z|27824497997|27824497997|splash of milk (~30ml)|50|1|1|1|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T16:31:58.993Z|27824413810|27824413810|Watermelon (~300g), 1 avocado, Marmite (1 tsp), Cucumber (1/4), Celery (100g), Blueberries (1 cup)|370|6|80|18|20|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T15:42:13.070Z|27824497997|27824497997|honey (1 teaspoon, ~7g)|21|0|5.8|0|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T16:30:35.114Z|27824413810|27824413810|Easter chocolates (~380g)|1890|15|240|100|10|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T15:42:07.979Z|27824497997|27824497997|Cocoa powder (1 heaped teaspoon, ~5g)|20|1|4|0|2|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T16:30:13.923Z|27824413810|27824413810|3 tablespoons cream cheese (~45g)|150|3|3|15|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T15:40:31.079Z|27824497997|27824497997|Cremora (8 heaped teaspoons, ~40g)|220|0|30|10|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T16:29:48.144Z|27824413810|27824413810|Anchovies (50g)|100|20|0|3|0|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
