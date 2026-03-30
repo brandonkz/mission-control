@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/30, 14:04:22",
+  "updated": "2026/03/30, 16:04:07",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,558",
+      "val": "1,564",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "18",
+      "val": "24",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "364,377",
+      "val": "365,784",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "11h 4m",
+      "val": "13h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -108,7 +108,7 @@
     {
       "name": "Jacey",
       "phone": "2772****781",
-      "logs": 8,
+      "logs": 9,
       "joined": "2026/03/30",
       "lastActive": "2026-03-30",
       "goal": 1896,
@@ -1650,7 +1650,7 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 31,
+      "logs": 36,
       "joined": "2026/03/23",
       "lastActive": "2026-03-30",
       "goal": 2018,
@@ -3506,23 +3506,23 @@
   "fitsortedErrors": [
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T11:12:17.044Z|27722544781|27722544781|2x slice honey & oats bread|160|6|30|2|4|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T13:38:11.111Z|27832127571|27832127571|Cola (440ml)|155|0|39|0|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T11:12:10.560Z|27722544781|27722544781|quarter avocado (~50g)|80|1|4|7|3|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T12:58:47.722Z|27832127571|27832127571|Picana (~300g) and roast potatoes (~150g)|660|60|30|40|4|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T11:12:05.686Z|27722544781|27722544781|2x tablespoon cottage cheese (~30g)|40|6|2|1|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T12:58:33.107Z|27832127571|27832127571|Half a roll (~40g)|100|3|20|1|1|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T10:53:41.230Z|27722544781|27722544781|Steri Stumpi iced coffee (150ml)|90|2|15|3|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T12:58:18.207Z|27832127571|27832127571|3x snails in creamy garlic sauce|210|15|6|15|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T10:51:00.668Z|27722544781|27722544781|Steri Stumpie iced coffee (300ml)|150|3|30|3|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T12:57:54.073Z|27832127571|27832127571|2x Carpaccio beef slices (~60g)|192|17|3|14|0|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
