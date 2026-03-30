@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/30, 16:04:07",
+  "updated": "2026/03/30, 18:03:56",
   "projects": [
     {
       "name": "FitSorted",
@@ -60,11 +60,11 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "243",
+      "val": "244",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "5",
+      "val": "7",
       "color": "green"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,564",
+      "val": "1,570",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "24",
+      "val": "30",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "365,784",
+      "val": "367,015",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "13h 4m",
+      "val": "15h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -105,6 +105,19 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Melian",
+      "phone": "2782****810",
+      "logs": 0,
+      "joined": "2026/03/30",
+      "lastActive": "never",
+      "goal": 1091,
+      "age": 35,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "joinedRaw": "2026-03-30T14:50:50.076Z"
+    },
     {
       "name": "Jacey",
       "phone": "2772****781",
@@ -875,13 +888,13 @@
     {
       "name": "Robyn",
       "phone": "2782****997",
-      "logs": 10,
+      "logs": 15,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-25",
+      "lastActive": "2026-03-30",
       "goal": 861,
       "age": 49,
       "gender": "female",
-      "email": "",
+      "email": "therushtonz@gmail.com",
       "premium": false,
       "active7d": true,
       "joinedRaw": "2026-03-23T09:38:59.326Z"
@@ -2251,9 +2264,9 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 20,
+      "logs": 21,
       "joined": "2026/03/21",
-      "lastActive": "2026-03-29",
+      "lastActive": "2026-03-30",
       "goal": 1999,
       "age": 38,
       "gender": "male",
@@ -3506,23 +3519,23 @@
   "fitsortedErrors": [
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T13:38:11.111Z|27832127571|27832127571|Cola (440ml)|155|0|39|0|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T15:44:04.377Z|27824497997|27824497997|Pasta (1 cup cooked) (1 cup)|200|7|40|1|2|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T12:58:47.722Z|27832127571|27832127571|Picana (~300g) and roast potatoes (~150g)|660|60|30|40|4|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T15:42:17.581Z|27824497997|27824497997|splash of milk (~30ml)|50|1|1|1|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T12:58:33.107Z|27832127571|27832127571|Half a roll (~40g)|100|3|20|1|1|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T15:42:13.070Z|27824497997|27824497997|honey (1 teaspoon, ~7g)|21|0|5.8|0|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T12:58:18.207Z|27832127571|27832127571|3x snails in creamy garlic sauce|210|15|6|15|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T15:42:07.979Z|27824497997|27824497997|Cocoa powder (1 heaped teaspoon, ~5g)|20|1|4|0|2|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T12:57:54.073Z|27832127571|27832127571|2x Carpaccio beef slices (~60g)|192|17|3|14|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T15:40:31.079Z|27824497997|27824497997|Cremora (8 heaped teaspoons, ~40g)|220|0|30|10|0|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
