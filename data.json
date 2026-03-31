@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/31, 16:05:12",
+  "updated": "2026/03/31, 18:09:59",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,636",
+      "val": "1,638",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "36",
+      "val": "38",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "382,314",
+      "val": "382,594",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "13h 5m",
+      "val": "15h 9m",
       "color": "blue"
     },
     "Restarts": {
@@ -3160,7 +3160,7 @@
     {
       "name": "Dilshad",
       "phone": "2779****580",
-      "logs": 24,
+      "logs": 26,
       "joined": "2026/03/11",
       "lastActive": "2026-03-31",
       "goal": 1103,
@@ -3561,6 +3561,14 @@
   "fitsortedErrors": [
     {
       "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T15:09:30.452Z|27790944580|27790944580|Trigz chips (27g)|140|2|16|7|1|AI --account alphaxasset@gmail.com"
+    },
+    {
+      "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T15:07:25.813Z|27790944580|27790944580|Caring candies mint chocolate (28g)|140|1|30|5|0|AI --account alphaxasset@gmail.com"
+    },
+    {
+      "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T13:35:01.043Z|27722544781|27722544781|Red apple (~150g)|80|0|22|0|4|AI --account alphaxasset@gmail.com"
     },
     {
@@ -3570,14 +3578,6 @@
     {
       "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T13:23:28.521Z|27790944580|27790944580|2 tsp Cremora (~10g)|50|0|6|3|0|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T13:22:33.456Z|27790944580|27790944580|Minced beef (~130g) with sweet potato (1 cup, ~200g), half avocado, and sour cream (3 tablespoons)|570|36|45|30|10|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T13:20:02.427Z|27790944580|27790944580|10 almonds (~28g)|160|6|6|14|3|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
