@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/31, 00:18:38",
+  "updated": "2026/03/31, 02:04:25",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "74 active",
+      "traffic": "43 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "10",
-      "color": "green"
+      "val": "0",
+      "color": "orange"
     },
     "Active (7d)": {
-      "val": "74",
+      "val": "43",
       "color": "green"
     },
     "Premium Users": {
@@ -80,8 +80,8 @@
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "52",
-      "color": "green"
+      "val": "0",
+      "color": "orange"
     },
     "Total Calories Tracked": {
       "val": "373,629",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "21h 18m",
+      "val": "23h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -294,7 +294,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-24T18:17:26.007Z"
     },
     {
@@ -335,7 +335,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-24T15:00:15.120Z"
     },
     {
@@ -376,7 +376,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-24T07:22:54.497Z"
     },
     {
@@ -404,7 +404,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-24T06:36:07.788Z"
     },
     {
@@ -418,7 +418,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-24T05:17:13.168Z"
     },
     {
@@ -446,7 +446,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-24T04:35:52.090Z"
     },
     {
@@ -611,7 +611,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T13:54:39.984Z"
     },
     {
@@ -638,7 +638,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T13:35:43.800Z"
     },
     {
@@ -652,7 +652,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T13:26:48.552Z"
     },
     {
@@ -746,7 +746,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T11:32:40.272Z"
     },
     {
@@ -1050,7 +1050,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T08:55:27.890Z"
     },
     {
@@ -1064,7 +1064,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T08:48:01.226Z"
     },
     {
@@ -1134,7 +1134,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T08:30:07.927Z"
     },
     {
@@ -1148,7 +1148,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T08:25:57.591Z"
     },
     {
@@ -1203,7 +1203,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T07:52:53.160Z"
     },
     {
@@ -1244,7 +1244,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T07:24:52.767Z"
     },
     {
@@ -1327,7 +1327,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T06:59:59.854Z"
     },
     {
@@ -1368,7 +1368,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T06:51:07.291Z"
     },
     {
@@ -1478,7 +1478,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T06:28:36.391Z"
     },
     {
@@ -1519,7 +1519,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T06:27:22.973Z"
     },
     {
@@ -1533,7 +1533,7 @@
       "gender": "",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T06:19:56.781Z"
     },
     {
@@ -1547,7 +1547,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T06:17:52.086Z"
     },
     {
@@ -1821,7 +1821,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T05:29:11.405Z"
     },
     {
@@ -1835,7 +1835,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T05:24:59.903Z"
     },
     {
@@ -1984,7 +1984,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T04:53:54.375Z"
     },
     {
@@ -2012,7 +2012,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T04:53:09.249Z"
     },
     {
@@ -2026,7 +2026,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T04:52:33.874Z"
     },
     {
@@ -2040,7 +2040,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T04:52:19.334Z"
     },
     {
@@ -2120,7 +2120,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T04:34:09.792Z"
     },
     {
@@ -2134,7 +2134,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T04:33:16.130Z"
     },
     {
@@ -2162,7 +2162,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T04:24:36.711Z"
     },
     {
@@ -3564,15 +3564,15 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "3,529",
+      "val": "3,213",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$2.2M",
+      "val": "$2.1M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "27 (>$10K)",
+      "val": "24 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
