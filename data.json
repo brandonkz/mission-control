@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/31, 12:03:58",
+  "updated": "2026/03/31, 14:05:02",
   "projects": [
     {
       "name": "FitSorted",
@@ -60,11 +60,11 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "245",
+      "val": "246",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "4",
+      "val": "7",
       "color": "green"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,613",
+      "val": "1,624",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "13",
+      "val": "24",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "377,490",
+      "val": "379,435",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "9h 3m",
+      "val": "11h 5m",
       "color": "blue"
     },
     "Restarts": {
@@ -105,6 +105,19 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Vee",
+      "phone": "2781****535",
+      "logs": 0,
+      "joined": "2026/03/31",
+      "lastActive": "never",
+      "goal": 2591,
+      "age": 23,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "joinedRaw": "2026-03-31T11:17:58.592Z"
+    },
     {
       "name": "Jaime",
       "phone": "2773****721",
@@ -122,7 +135,7 @@
     {
       "name": "Melian",
       "phone": "2782****810",
-      "logs": 9,
+      "logs": 10,
       "joined": "2026/03/30",
       "lastActive": "2026-03-31",
       "goal": 1091,
@@ -136,7 +149,7 @@
     {
       "name": "Jacey",
       "phone": "2772****781",
-      "logs": 18,
+      "logs": 24,
       "joined": "2026/03/30",
       "lastActive": "2026-03-31",
       "goal": 1896,
@@ -163,9 +176,9 @@
     {
       "name": "kay",
       "phone": "2779****972",
-      "logs": 2,
+      "logs": 3,
       "joined": "2026/03/28",
-      "lastActive": "2026-03-28",
+      "lastActive": "2026-03-31",
       "goal": 1247,
       "age": 19,
       "gender": "female",
@@ -259,9 +272,9 @@
     {
       "name": "Christine",
       "phone": "2763****997",
-      "logs": 12,
+      "logs": 13,
       "joined": "2026/03/25",
-      "lastActive": "2026-03-28",
+      "lastActive": "2026-03-31",
       "goal": 1700,
       "age": 38,
       "gender": "female",
@@ -1678,9 +1691,9 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 36,
+      "logs": 38,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-30",
+      "lastActive": "2026-03-31",
       "goal": 2018,
       "age": 35,
       "gender": "male",
@@ -3491,6 +3504,10 @@
       8
     ],
     [
+      "rice (1 cup cooked) (1 cup)",
+      6
+    ],
+    [
       "2x boiled egg",
       6
     ],
@@ -3504,10 +3521,6 @@
     ],
     [
       "oats (1 cup cooked) (1 cup)",
-      5
-    ],
-    [
-      "rice (1 cup cooked) (1 cup)",
       5
     ],
     [
@@ -3534,23 +3547,23 @@
   "fitsortedErrors": [
     {
       "count": 1,
-      "error": "s append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-29T17:29:18.378Z|27718808896|27718808896|Rice (1/2 cup cooked, ~75g)|90|2|20|0|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T11:51:58.357Z|27824413810|27824413810|Frozen blueberries (150g)|85|1|21|0|3|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T09:54:10.256Z|27824413810|27824413810|2x easter egg|300|4|40|15|2|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T11:40:40.730Z|27832127571|27832127571|Steak (~100g) and mashed potatoes (1 spoon, ~50g)|290|30|15|15|2|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T09:53:49.268Z|27824413810|27824413810|small chocolate and coconut smoothie (~250ml)|200|3|30|8|2|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T11:17:26.621Z|27639688997|27639688997|Woolworths tuna baguette|450|30|50|15|5|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T09:53:25.288Z|27824413810|27824413810|2 eggs"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T10:52:58.288Z|27722544781|27722544781|Quarter cooked onion (~50g) & 1 teaspoon salad dressing (~5g)|30|0|7|2|1|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T08:49:03.636Z|27722544781|27722544781|vida matcha latte with oat milk (~350ml)|150|3|20|5|1|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T10:52:07.053Z|27722544781|27722544781|4x prawns (~80g)|80|18|0|1|0|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
