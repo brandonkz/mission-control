@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/31, 18:09:59",
+  "updated": "2026/03/31, 20:04:42",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,638",
+      "val": "1,640",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "38",
+      "val": "40",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "382,594",
+      "val": "383,444",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "15h 9m",
+      "val": "17h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -108,7 +108,7 @@
     {
       "name": "Bridget",
       "phone": "2784****861",
-      "logs": 2,
+      "logs": 3,
       "joined": "2026/03/31",
       "lastActive": "2026-03-31",
       "goal": 1369,
@@ -1705,7 +1705,7 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 38,
+      "logs": 39,
       "joined": "2026/03/23",
       "lastActive": "2026-03-31",
       "goal": 2018,
@@ -3561,6 +3561,10 @@
   "fitsortedErrors": [
     {
       "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T16:56:40.084Z|27832127571|27832127571|Saltimbocca pasta (half portion, ~200g)|400|15|60|10|5|AI --account alphaxasset@gmail.com"
+    },
+    {
+      "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T15:09:30.452Z|27790944580|27790944580|Trigz chips (27g)|140|2|16|7|1|AI --account alphaxasset@gmail.com"
     },
     {
@@ -3574,10 +3578,6 @@
     {
       "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T13:27:37.631Z|27790944580|27790944580|Oats (1 cup cooked) (1 cup)|150|6|27|3|4|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T13:23:28.521Z|27790944580|27790944580|2 tsp Cremora (~10g)|50|0|6|3|0|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
