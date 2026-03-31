@@ -1,5 +1,5 @@
 {
-  "updated": "2026/03/31, 20:04:42",
+  "updated": "2026/03/31, 22:04:25",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,640",
+      "val": "1,646",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "40",
+      "val": "46",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "383,444",
+      "val": "385,509",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "17h 4m",
+      "val": "19h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -163,7 +163,7 @@
     {
       "name": "Jacey",
       "phone": "2772****781",
-      "logs": 27,
+      "logs": 29,
       "joined": "2026/03/30",
       "lastActive": "2026-03-31",
       "goal": 1896,
@@ -217,7 +217,7 @@
     {
       "name": "Ulrieg",
       "phone": "2763****663",
-      "logs": 10,
+      "logs": 14,
       "joined": "2026/03/27",
       "lastActive": "2026-03-31",
       "goal": 2635,
@@ -3518,6 +3518,10 @@
       8
     ],
     [
+      "toast (white bread, 2 slices) (2 slices)",
+      7
+    ],
+    [
       "oats (1 cup cooked) (1 cup)",
       6
     ],
@@ -3527,10 +3531,6 @@
     ],
     [
       "2x boiled egg",
-      6
-    ],
-    [
-      "toast (white bread, 2 slices) (2 slices)",
       6
     ],
     [
@@ -3561,23 +3561,23 @@
   "fitsortedErrors": [
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T16:56:40.084Z|27832127571|27832127571|Saltimbocca pasta (half portion, ~200g)|400|15|60|10|5|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T18:44:29.323Z|27722544781|27722544781|Corona beer (440ml)|155|1|13|0|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T15:09:30.452Z|27790944580|27790944580|Trigz chips (27g)|140|2|16|7|1|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T18:14:24.045Z|27630740663|27630740663|5x rusk slice|400|10|80|10|5|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T15:07:25.813Z|27790944580|27790944580|Caring candies mint chocolate (28g)|140|1|30|5|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T18:14:18.754Z|27630740663|27630740663|3x cheese griller|540|30|6|45|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T13:35:01.043Z|27722544781|27722544781|Red apple (~150g)|80|0|22|0|4|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T18:14:13.592Z|27630740663|27630740663|Toast (white bread, 2 slices) (2 slices)|160|5|30|2|2|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T13:27:37.631Z|27790944580|27790944580|Oats (1 cup cooked) (1 cup)|150|6|27|3|4|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T18:14:08.678Z|27630740663|27630740663|3 Eggs (boiled)|210|18|2|15|0|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
