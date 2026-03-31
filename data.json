@@ -1,11 +1,11 @@
 {
-  "updated": "2026/03/31, 08:06:38",
+  "updated": "2026/03/31, 10:03:58",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "43 active",
+      "traffic": "44 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "244",
+      "val": "245",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "2",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "43",
+      "val": "44",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,592",
+      "val": "1,609",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "9",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "373,629",
+      "val": "376,800",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "5h 6m",
+      "val": "7h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -105,6 +105,20 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Jaime",
+      "phone": "2773****721",
+      "logs": 14,
+      "joined": "2026/03/31",
+      "lastActive": "2026-03-31",
+      "goal": 1062,
+      "age": 25,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-03-31T07:02:43.952Z"
+    },
     {
       "name": "Melian",
       "phone": "2782****810",
@@ -176,9 +190,9 @@
     {
       "name": "Ulrieg",
       "phone": "2763****663",
-      "logs": 7,
+      "logs": 10,
       "joined": "2026/03/27",
-      "lastActive": "2026-03-28",
+      "lastActive": "2026-03-31",
       "goal": 2635,
       "age": 23,
       "gender": "male",
@@ -3497,6 +3511,10 @@
       5
     ],
     [
+      "avocado (1 medium)",
+      5
+    ],
+    [
       "scrambled eggs (2 eggs)",
       5
     ],
@@ -3511,32 +3529,28 @@
     [
       "boerewors (1 link, grilled) (1 link (~100g))",
       5
-    ],
-    [
-      "rooibos tea no sugar (1 cup (250ml))",
-      5
     ]
   ],
   "fitsortedErrors": [
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T19:41:21.328Z|27610463214|27610463214|Mutton curry (~200g)|400|30|20|25|5|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T08:01:42.565Z|27630740663|27630740663|Cappuccino (1 serving) with 3x rusk slices|370|10|60|10|3|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T19:41:11.140Z|27610463214|27610463214|Wrap/Tortilla (1)|120|3|20|3|1|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T07:51:18.937Z|27630740663|27630740663|5x slice of rusk|400|10|80|10|5|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T19:40:59.745Z|27610463214|27610463214|Chicken breast (~130g)|200|37|0|4|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T07:51:13.611Z|27630740663|27630740663|3x eggs + 2 slices toast + bacon (~100g)|550|36|40|30|4|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T19:40:51.331Z|27610463214|27610463214|2 Scrambled Eggs (with butter)|200|12|2|15|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T07:46:05.556Z|27731096721|27731096721|clear all food logs since yesterday (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-30T19:40:38.234Z|27610463214|27610463214|Toast (white bread, 2 slices) (2 slices)|160|5|30|2|2|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-03-31T07:45:00.819Z|27731096721|27731096721|Feta cheese (30g)|75|4|1|6|0|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
