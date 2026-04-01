@@ -1,13 +1,13 @@
 {
-  "totalUsers": 248,
+  "totalUsers": 249,
   "setupComplete": 215,
   "proUsers": 1,
   "activeToday": 7,
   "activeWeek": 47,
   "logsToday": 33,
   "totalLogsAllTime": 1680,
-  "signupsToday": 1,
-  "signupsThisWeek": 17,
+  "signupsToday": 2,
+  "signupsThisWeek": 18,
   "signupsByDay": {
     "2026-03-21": 2,
     "2026-03-04": 4,
@@ -31,9 +31,15 @@
     "2026-03-28": 2,
     "2026-03-30": 2,
     "2026-03-31": 3,
-    "2026-04-01": 1
+    "2026-04-01": 2
   },
   "recentSignups": [
+    {
+      "phone": "278***97",
+      "name": "anon",
+      "created": "2026-04-01T17:11:00.851Z",
+      "setup": false
+    },
     {
       "phone": "278***00",
       "name": "Doron",
@@ -87,13 +93,7 @@
       "name": "You think I should eat 2732 calories?",
       "created": "2026-03-27T19:02:41.161Z",
       "setup": true
-    },
-    {
-      "phone": "276***63",
-      "name": "Ulrieg",
-      "created": "2026-03-27T10:19:42.843Z",
-      "setup": true
     }
   ],
-  "updatedAt": "2026-04-01T17:00:01.364Z"
+  "updatedAt": "2026-04-01T17:40:01.385Z"
 }
