@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/01, 16:03:57",
+  "updated": "2026/04/01, 18:04:11",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,673",
+      "val": "1,680",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "26",
+      "val": "33",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "390,857",
+      "val": "391,581",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "13h 3m",
+      "val": "15h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -122,7 +122,7 @@
     {
       "name": "Bridget",
       "phone": "2784****861",
-      "logs": 5,
+      "logs": 12,
       "joined": "2026/03/31",
       "lastActive": "2026-04-01",
       "goal": 1369,
@@ -3575,23 +3575,23 @@
   "fitsortedErrors": [
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T13:06:33.591Z|27722544781|27722544781|Triglycerides (40g)|360|0|0|40|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T14:34:47.957Z|27849860861|27849860861|5x baby tomatoes (~100g)|50|1|4|0|1|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T13:04:45.075Z|27844040200|27844040200|Biltong (100g)|350|56|8|8|2|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T14:32:27.881Z|27849860861|27849860861|2x tiny chocolate egg|140|2|18|7|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T13:04:35.695Z|27844040200|27844040200|Spicy cucumber salad (~150g)|50|2|10|1|2|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T14:32:23.135Z|27849860861|27849860861|4 grapes (~40g)|50|0|4|0|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T13:04:14.343Z|27722544781|27722544781|Trig (40g)|200|20|0|14|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T14:32:18.053Z|27849860861|27849860861|cling peach|60|1|15|0|2|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T13:03:18.732Z|27844040200|27844040200|Crispy beef with special sauce and noodles (~300g)|600|30|70|25|3|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T14:32:10.950Z|27849860861|27849860861|5x slices Gouda cheese|300|30|0|24|0|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
@@ -3619,19 +3619,19 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "3,728",
+      "val": "3,714",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$2.3M",
+      "val": "$1.0M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "21 (>$10K)",
+      "val": "8 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
-      "val": "9",
+      "val": "8",
       "color": "blue"
     }
   },
