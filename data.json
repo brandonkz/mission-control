@@ -1,11 +1,11 @@
 {
-  "updated": "2026/04/01, 14:03:58",
+  "updated": "2026/04/01, 16:03:57",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "36 active",
+      "traffic": "37 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "247",
+      "val": "248",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "6",
+      "val": "7",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "36",
+      "val": "37",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,664",
+      "val": "1,673",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "17",
+      "val": "26",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "388,744",
+      "val": "390,857",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "11h 3m",
+      "val": "13h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -105,6 +105,20 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Doron",
+      "phone": "2784****200",
+      "logs": 4,
+      "joined": "2026/04/01",
+      "lastActive": "2026-04-01",
+      "goal": 1280,
+      "age": 41,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-04-01T12:59:01.169Z"
+    },
     {
       "name": "Bridget",
       "phone": "2784****861",
@@ -163,7 +177,7 @@
     {
       "name": "Jacey",
       "phone": "2772****781",
-      "logs": 35,
+      "logs": 38,
       "joined": "2026/03/30",
       "lastActive": "2026-04-01",
       "goal": 1896,
@@ -3160,7 +3174,7 @@
     {
       "name": "Dilshad",
       "phone": "2779****580",
-      "logs": 28,
+      "logs": 30,
       "joined": "2026/03/11",
       "lastActive": "2026-04-01",
       "goal": 1103,
@@ -3534,11 +3548,11 @@
       6
     ],
     [
-      "avocado (1 medium)",
-      6
+      "apple (medium)",
+      5
     ],
     [
-      "apple (medium)",
+      "avocado (1 medium)",
       5
     ],
     [
@@ -3561,23 +3575,23 @@
   "fitsortedErrors": [
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T12:02:33.839Z|27722544781|27722544781|Cottage Cheese (100g)|98|11|3|4|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T13:06:33.591Z|27722544781|27722544781|Triglycerides (40g)|360|0|0|40|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T12:02:31.339Z|27722544781|27722544781|Avocado (1 medium)|240|3|12|22|10|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T13:04:45.075Z|27844040200|27844040200|Biltong (100g)|350|56|8|8|2|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T12:02:26.493Z|27722544781|27722544781|2x slice honey oats bread|160|6|30|2|4|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T13:04:35.695Z|27844040200|27844040200|Spicy cucumber salad (~150g)|50|2|10|1|2|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T11:07:56.606Z|27824413810|27824413810|2x small toffies|80|0|20|0|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T13:04:14.343Z|27722544781|27722544781|Trig (40g)|200|20|0|14|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T11:06:51.173Z|27824413810|27824413810|Frozen blueberries (40g)|23|0|6|0|1|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T13:03:18.732Z|27844040200|27844040200|Crispy beef with special sauce and noodles (~300g)|600|30|70|25|3|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
