@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/01, 10:04:00",
+  "updated": "2026/04/01, 12:03:58",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,8 +64,8 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "3",
-      "color": "orange"
+      "val": "4",
+      "color": "green"
     },
     "Active (7d)": {
       "val": "36",
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,653",
+      "val": "1,654",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "6",
+      "val": "7",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "386,815",
+      "val": "386,965",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "7h 3m",
+      "val": "9h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -1976,9 +1976,9 @@
     {
       "name": "Gary",
       "phone": "2783****220",
-      "logs": 7,
+      "logs": 8,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-26",
+      "lastActive": "2026-04-01",
       "goal": 2926,
       "age": 44,
       "gender": "male",
@@ -3518,12 +3518,12 @@
       8
     ],
     [
-      "toast (white bread, 2 slices) (2 slices)",
+      "oats (1 cup cooked) (1 cup)",
       7
     ],
     [
-      "oats (1 cup cooked) (1 cup)",
-      6
+      "toast (white bread, 2 slices) (2 slices)",
+      7
     ],
     [
       "rice (1 cup cooked) (1 cup)",
@@ -3561,6 +3561,10 @@
   "fitsortedErrors": [
     {
       "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T08:49:00.446Z|27837771220|27837771220|Oats (1 cup cooked) (1 cup)|150|6|27|3|4|AI --account alphaxasset@gmail.com"
+    },
+    {
+      "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T07:49:38.774Z|27722544781|27722544781|Clover full cream milk (1 cup) (250ml)|150|8|12|8|0|AI --account alphaxasset@gmail.com"
     },
     {
@@ -3574,10 +3578,6 @@
     {
       "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T07:30:53.079Z|27849860861|27849860861|I want to build muscle (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T07:12:39.933Z|27832127571|27832127571|Diet Protein Shake (1 scoop)|150|25|8|2|3|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
