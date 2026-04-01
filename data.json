@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/01, 12:03:58",
+  "updated": "2026/04/01, 14:03:58",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "4",
+      "val": "6",
       "color": "green"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,654",
+      "val": "1,664",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "7",
-      "color": "orange"
+      "val": "17",
+      "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "386,965",
+      "val": "388,744",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "9h 3m",
+      "val": "11h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -149,9 +149,9 @@
     {
       "name": "Melian",
       "phone": "2782****810",
-      "logs": 10,
+      "logs": 15,
       "joined": "2026/03/30",
-      "lastActive": "2026-03-31",
+      "lastActive": "2026-04-01",
       "goal": 1091,
       "age": 35,
       "gender": "female",
@@ -163,7 +163,7 @@
     {
       "name": "Jacey",
       "phone": "2772****781",
-      "logs": 32,
+      "logs": 35,
       "joined": "2026/03/30",
       "lastActive": "2026-04-01",
       "goal": 1896,
@@ -3160,9 +3160,9 @@
     {
       "name": "Dilshad",
       "phone": "2779****580",
-      "logs": 26,
+      "logs": 28,
       "joined": "2026/03/11",
-      "lastActive": "2026-03-31",
+      "lastActive": "2026-04-01",
       "goal": 1103,
       "age": 35,
       "gender": "female",
@@ -3507,7 +3507,7 @@
     ],
     [
       "boiled egg (1 large) (1 egg)",
-      13
+      14
     ],
     [
       "3x eggs",
@@ -3534,11 +3534,11 @@
       6
     ],
     [
-      "apple (medium)",
-      5
+      "avocado (1 medium)",
+      6
     ],
     [
-      "avocado (1 medium)",
+      "apple (medium)",
       5
     ],
     [
@@ -3561,23 +3561,23 @@
   "fitsortedErrors": [
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T08:49:00.446Z|27837771220|27837771220|Oats (1 cup cooked) (1 cup)|150|6|27|3|4|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T12:02:33.839Z|27722544781|27722544781|Cottage Cheese (100g)|98|11|3|4|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T07:49:38.774Z|27722544781|27722544781|Clover full cream milk (1 cup) (250ml)|150|8|12|8|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T12:02:31.339Z|27722544781|27722544781|Avocado (1 medium)|240|3|12|22|10|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T07:49:35.389Z|27722544781|27722544781|Banana (1 medium)|90|1|23|0|3|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T12:02:26.493Z|27722544781|27722544781|2x slice honey oats bread|160|6|30|2|4|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T07:49:32.170Z|27722544781|27722544781|2x Weet-Bix bricks|136|6|28|1|4|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T11:07:56.606Z|27824413810|27824413810|2x small toffies|80|0|20|0|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T07:30:53.079Z|27849860861|27849860861|I want to build muscle (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T11:06:51.173Z|27824413810|27824413810|Frozen blueberries (40g)|23|0|6|0|1|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
