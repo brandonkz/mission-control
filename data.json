@@ -1,11 +1,11 @@
 {
-  "updated": "2026/04/01, 18:04:11",
+  "updated": "2026/04/03, 12:03:59",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "37 active",
+      "traffic": "27 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "248",
+      "val": "249",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "7",
-      "color": "green"
+      "val": "3",
+      "color": "orange"
     },
     "Active (7d)": {
-      "val": "37",
+      "val": "27",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,680",
+      "val": "1,712",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "33",
-      "color": "green"
+      "val": "9",
+      "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "391,581",
+      "val": "398,572",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "15h 4m",
+      "val": "9h 3m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "148",
+      "val": "150",
       "color": "orange"
     },
     "Food Database": {
@@ -105,6 +105,20 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Tom",
+      "phone": "2783****997",
+      "logs": 12,
+      "joined": "2026/04/01",
+      "lastActive": "2026-04-03",
+      "goal": 3012,
+      "age": 42,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-04-01T17:11:00.851Z"
+    },
     {
       "name": "Doron",
       "phone": "2784****200",
@@ -163,9 +177,9 @@
     {
       "name": "Melian",
       "phone": "2782****810",
-      "logs": 15,
+      "logs": 25,
       "joined": "2026/03/30",
-      "lastActive": "2026-04-01",
+      "lastActive": "2026-04-03",
       "goal": 1091,
       "age": 35,
       "gender": "female",
@@ -266,7 +280,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-27T09:21:33.524Z"
     },
     {
@@ -280,7 +294,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-26T12:33:55.331Z"
     },
     {
@@ -294,7 +308,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-26T11:33:45.305Z"
     },
     {
@@ -376,7 +390,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-24T16:05:23.280Z"
     },
     {
@@ -404,7 +418,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-24T13:43:26.373Z"
     },
     {
@@ -869,7 +883,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T10:58:35.118Z"
     },
     {
@@ -944,9 +958,9 @@
     {
       "name": "Robyn",
       "phone": "2782****997",
-      "logs": 15,
+      "logs": 17,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-30",
+      "lastActive": "2026-04-02",
       "goal": 861,
       "age": 49,
       "gender": "female",
@@ -966,7 +980,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T09:38:25.327Z"
     },
     {
@@ -1333,15 +1347,15 @@
     {
       "name": "Heike",
       "phone": "2760****145",
-      "logs": 8,
+      "logs": 13,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-23",
+      "lastActive": "2026-04-03",
       "goal": 2012,
       "age": 55,
       "gender": "female",
-      "email": "",
+      "email": "sunstone46@hotmail.com",
       "premium": false,
-      "active7d": false,
+      "active7d": true,
       "joinedRaw": "2026-03-23T07:13:06.653Z"
     },
     {
@@ -1374,15 +1388,15 @@
     {
       "name": "Daniel",
       "phone": "2776****638",
-      "logs": 11,
+      "logs": 13,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-24",
+      "lastActive": "2026-04-02",
       "goal": 2043,
       "age": 19,
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": false,
+      "active7d": true,
       "joinedRaw": "2026-03-23T06:59:59.854Z"
     },
     {
@@ -1478,7 +1492,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T06:40:13.536Z"
     },
     {
@@ -1754,7 +1768,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T05:48:40.006Z"
     },
     {
@@ -1822,7 +1836,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T05:37:20.775Z"
     },
     {
@@ -2203,7 +2217,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T04:29:04.633Z"
     },
     {
@@ -2272,7 +2286,7 @@
       "gender": "male",
       "email": "taahirbhaiyat01@gmail.com",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T04:11:07.783Z"
     },
     {
@@ -2320,9 +2334,9 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 24,
+      "logs": 25,
       "joined": "2026/03/21",
-      "lastActive": "2026-03-31",
+      "lastActive": "2026-04-02",
       "goal": 1999,
       "age": 38,
       "gender": "male",
@@ -2838,7 +2852,7 @@
       "gender": "female",
       "email": "tasneem61@gmail.com",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-14T20:00:55.955Z"
     },
     {
@@ -3513,15 +3527,15 @@
   "fitsortedTopFoods": [
     [
       "coffee with milk (1 cup)",
-      30
-    ],
-    [
-      "banana (1 medium)",
-      14
+      31
     ],
     [
       "boiled egg (1 large) (1 egg)",
-      14
+      16
+    ],
+    [
+      "banana (1 medium)",
+      15
     ],
     [
       "3x eggs",
@@ -3574,24 +3588,24 @@
   ],
   "fitsortedErrors": [
     {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T14:34:47.957Z|27849860861|27849860861|5x baby tomatoes (~100g)|50|1|4|0|1|AI --account alphaxasset@gmail.com"
+      "count": 3,
+      "error": "Food lookup error: Request failed with status code 429"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T14:32:27.881Z|27849860861|27849860861|2x tiny chocolate egg|140|2|18|7|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-03T08:54:30.736Z|27838606997|27838606997|The ingredients I posted above (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T14:32:23.135Z|27849860861|27849860861|4 grapes (~40g)|50|0|4|0|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-03T08:54:07.271Z|27838606997|27838606997|smoothie|250|5|45|5|5|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T14:32:18.053Z|27849860861|27849860861|cling peach|60|1|15|0|2|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-03T08:47:58.027Z|27607688145|27607688145|2x slice Sasco Sam wholewheat bread|160|8|30|2|6|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-01T14:32:10.950Z|27849860861|27849860861|5x slices Gouda cheese|300|30|0|24|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-03T08:45:06.604Z|27607688145|27607688145|Fat free yoghurt (1/4 cup, ~60g)|40|4|6|0|0|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
@@ -3619,15 +3633,15 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "3,714",
+      "val": "3,990",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$1.0M",
+      "val": "$2.3M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "8 (>$10K)",
+      "val": "14 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
