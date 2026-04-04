@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/04, 12:04:04",
+  "updated": "2026/04/04, 14:03:58",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,8 +64,8 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "1",
-      "color": "orange"
+      "val": "4",
+      "color": "green"
     },
     "Active (7d)": {
       "val": "22",
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,729",
+      "val": "1,737",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "1",
+      "val": "9",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "402,157",
+      "val": "404,002",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "9h 4m",
+      "val": "11h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -108,7 +108,7 @@
     {
       "name": "Tom",
       "phone": "2783****997",
-      "logs": 20,
+      "logs": 21,
       "joined": "2026/04/01",
       "lastActive": "2026-04-04",
       "goal": 3012,
@@ -177,9 +177,9 @@
     {
       "name": "Melian",
       "phone": "2782****810",
-      "logs": 27,
+      "logs": 29,
       "joined": "2026/03/30",
-      "lastActive": "2026-04-03",
+      "lastActive": "2026-04-04",
       "goal": 1091,
       "age": 35,
       "gender": "female",
@@ -1719,10 +1719,10 @@
     {
       "name": "Quintin",
       "phone": "2782****749",
-      "logs": 38,
+      "logs": 42,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-30",
-      "goal": 2320,
+      "lastActive": "2026-04-04",
+      "goal": 2313,
       "age": 28,
       "gender": "male",
       "email": "krugerquintin5@gmail.com",
@@ -2334,9 +2334,9 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 25,
+      "logs": 26,
       "joined": "2026/03/21",
-      "lastActive": "2026-04-02",
+      "lastActive": "2026-04-04",
       "goal": 1999,
       "age": 38,
       "gender": "male",
@@ -3530,12 +3530,12 @@
       31
     ],
     [
-      "boiled egg (1 large) (1 egg)",
+      "banana (1 medium)",
       16
     ],
     [
-      "banana (1 medium)",
-      15
+      "boiled egg (1 large) (1 egg)",
+      16
     ],
     [
       "3x eggs",
@@ -3593,19 +3593,19 @@
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-04T09:55:18.917Z|27838606997|27838606997|Avocado (1 medium)|240|3|12|22|10|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-04T11:45:06.976Z|27837787970|27837787970|Matzah (1 piece, ~30g)|100|3|22|0|1|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-03T20:57:57.483Z|27722544781|27722544781|Steers ice cream cone with flake|300|5|40|15|1|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-04T11:29:27.722Z|27824413810|27824413810|8x Easter egg|640|8|80|32|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-03T20:57:20.101Z|27722544781|27722544781|Mixed vegetables (1 cup, ~150g)|50|3|10|0|4|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-04T11:29:03.207Z|27824413810|27824413810|2x eggs with 1 tablespoon cream cheese|200|14|2|16|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-03T20:57:14.249Z|27722544781|27722544781|Baked potato (1 medium (150g))|160|4|36|0.2|2|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-04T10:11:54.368Z|27828296749|27828296749|Bottle of water (500ml) with lemon extract|0|0|0|0|0|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
