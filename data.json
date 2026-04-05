@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/05, 20:04:12",
+  "updated": "2026/04/05, 22:03:58",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "17h 4m",
+      "val": "19h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -2408,7 +2408,7 @@
       "lastActive": "never",
       "goal": "?",
       "age": "",
-      "gender": "",
+      "gender": "male",
       "email": "",
       "premium": false,
       "joinedRaw": "2026-03-17T17:44:22.771Z"
