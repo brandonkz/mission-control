@@ -1,11 +1,11 @@
 {
-  "updated": "2026/04/06, 00:06:44",
+  "updated": "2026/04/06, 02:03:55",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "23 active",
+      "traffic": "19 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "3",
+      "val": "0",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "23",
+      "val": "19",
       "color": "green"
     },
     "Premium Users": {
@@ -80,7 +80,7 @@
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "3",
+      "val": "0",
       "color": "orange"
     },
     "Total Calories Tracked": {
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "21h 6m",
+      "val": "23h 3m",
       "color": "blue"
     },
     "Restarts": {
@@ -473,7 +473,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-24T07:10:10.785Z"
     },
     {
@@ -599,7 +599,7 @@
       "gender": "female",
       "email": "vickywidegger@gmail.com",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T18:38:39.277Z"
     },
     {
@@ -2328,7 +2328,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T04:06:02.069Z"
     },
     {
@@ -2633,7 +2633,7 @@
       "gender": "male",
       "email": "carlpillay24@gmail.com",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-17T12:09:57.552Z"
     },
     {
@@ -3647,19 +3647,19 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "1,067",
+      "val": "3,205",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$0.0M",
+      "val": "$1.3M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "0 (>$10K)",
+      "val": "18 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
-      "val": "974",
+      "val": "9",
       "color": "blue"
     }
   },
