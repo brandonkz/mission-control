@@ -1,11 +1,11 @@
 {
-  "updated": "2026/04/07, 18:05:01",
+  "updated": "2026/04/08, 00:04:46",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "19 active",
+      "traffic": "21 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "252",
+      "val": "253",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "3",
-      "color": "orange"
+      "val": "6",
+      "color": "green"
     },
     "Active (7d)": {
-      "val": "19",
+      "val": "21",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,762",
+      "val": "1,772",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "3",
-      "color": "orange"
+      "val": "13",
+      "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "410,355",
+      "val": "413,536",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "3h 59m",
+      "val": "3h 26m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "160",
+      "val": "161",
       "color": "orange"
     },
     "Food Database": {
@@ -105,6 +105,20 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Cameron",
+      "phone": "2782****299",
+      "logs": 1,
+      "joined": "2026/04/07",
+      "lastActive": "2026-04-07",
+      "goal": 1545,
+      "age": 37,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-04-07T16:17:57.804Z"
+    },
     {
       "name": "Rafique",
       "phone": "2779****786",
@@ -1320,15 +1334,15 @@
     {
       "name": "Andrew",
       "phone": "2782****283",
-      "logs": 20,
+      "logs": 28,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-25",
+      "lastActive": "2026-04-07",
       "goal": 2480,
       "age": 57,
       "gender": "male",
-      "email": "",
+      "email": "andrew@threezero.co.za",
       "premium": true,
-      "active7d": false,
+      "active7d": true,
       "joinedRaw": "2026-03-23T07:37:50.085Z"
     },
     {
@@ -2376,9 +2390,9 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 27,
+      "logs": 28,
       "joined": "2026/03/21",
-      "lastActive": "2026-04-04",
+      "lastActive": "2026-04-07",
       "goal": 1999,
       "age": 38,
       "gender": "male",
@@ -3631,23 +3645,23 @@
   "fitsortedErrors": [
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-07T13:33:06.254Z|27792968786|27792968786|These grams of carbs are wrong (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-07T18:30:48.987Z|27824452283|27824452283|beer (440ml)|155|1|13|0|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-07T13:31:58.570Z|27792968786|27792968786|I want grams of carbs not calories (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-07T18:30:44.891Z|27824452283|27824452283|Green beans (1 cup, ~125g) + 2 squares dark chocolate (~30g)|200|5|30|10|8|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-07T09:01:50.318Z|27834117861|27834117861|I fell off the wagon and want to start logging again (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-07T18:30:40.203Z|27824452283|27824452283|Cauliflower (100g)|25|2|5|0|2|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-07T09:01:45.689Z|27834117861|27834117861|Hi There (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-07T18:30:37.953Z|27824452283|27824452283|Coconut milk (1 cup, ~240ml)|445|5|6|48|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-07T08:10:05.528Z|447541558334|447541558334|2x eggs|140|12|2|10|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-07T18:30:32.401Z|27824452283|27824452283|Chickpea vegetable curry with butternut (~300g)|450|15|70|15|12|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
