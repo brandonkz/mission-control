@@ -1,11 +1,11 @@
 {
-  "updated": "2026/04/07, 06:04:10",
+  "updated": "2026/04/07, 16:04:58",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "16 active",
+      "traffic": "19 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "251",
+      "val": "252",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "3",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "16",
+      "val": "19",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,759",
+      "val": "1,762",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "3",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "409,715",
+      "val": "410,355",
       "color": "blue"
     },
     "Bot Status": {
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "3h 4m",
+      "val": "1h 59m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "159",
+      "val": "160",
       "color": "orange"
     },
     "Food Database": {
@@ -105,6 +105,20 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Rafique",
+      "phone": "2779****786",
+      "logs": 0,
+      "joined": "2026/04/07",
+      "lastActive": "2026-04-07",
+      "goal": 1548,
+      "age": 44,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-04-07T13:28:15.052Z"
+    },
     {
       "name": "Tristan",
       "phone": "2782****621",
@@ -605,15 +619,15 @@
     {
       "name": "Vicky",
       "phone": "4475****334",
-      "logs": 66,
+      "logs": 67,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-30",
+      "lastActive": "2026-04-07",
       "goal": 1503,
       "age": 37,
       "gender": "female",
       "email": "vickywidegger@gmail.com",
       "premium": false,
-      "active7d": false,
+      "active7d": true,
       "joinedRaw": "2026-03-23T18:38:39.277Z"
     },
     {
@@ -2237,15 +2251,15 @@
     {
       "name": "Ebrahim",
       "phone": "2783****861",
-      "logs": 17,
+      "logs": 19,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-26",
+      "lastActive": "2026-04-07",
       "goal": 1806,
       "age": 39,
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": false,
+      "active7d": true,
       "joinedRaw": "2026-03-23T04:29:04.633Z"
     },
     {
@@ -3616,24 +3630,24 @@
   ],
   "fitsortedErrors": [
     {
-      "count": 3,
-      "error": "Food lookup error: Request failed with status code 429"
+      "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-07T13:33:06.254Z|27792968786|27792968786|These grams of carbs are wrong (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-06T15:51:49.886Z|27827194621|27827194621|toasted cheese sandwich with lean bacon (~150g)|450|20|40|25|2|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-07T13:31:58.570Z|27792968786|27792968786|I want grams of carbs not calories (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-05T08:55:04.200Z|27824413810|27824413810|Banana (1 medium)|105|1|27|0|3|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-07T09:01:50.318Z|27834117861|27834117861|I fell off the wagon and want to start logging again (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-05T08:08:54.356Z|27838606997|27838606997|Scrambled egg on toast (sourdough, 1 slice) with 1/4 avocado and 1 slice cheese|185|9|15|11|2|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-07T09:01:45.689Z|27834117861|27834117861|Hi There (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-05T05:28:48.383Z|26876340221|26876340221|Small espresso with almond milk|30|1|2|2|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-07T08:10:05.528Z|447541558334|447541558334|2x eggs|140|12|2|10|0|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
