@@ -1,11 +1,11 @@
 {
-  "updated": "2026/04/08, 00:04:46",
+  "updated": "2026/04/08, 02:04:14",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "21 active",
+      "traffic": "16 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "6",
-      "color": "green"
+      "val": "0",
+      "color": "orange"
     },
     "Active (7d)": {
-      "val": "21",
+      "val": "16",
       "color": "green"
     },
     "Premium Users": {
@@ -80,8 +80,8 @@
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "13",
-      "color": "green"
+      "val": "0",
+      "color": "orange"
     },
     "Total Calories Tracked": {
       "val": "413,536",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "3h 26m",
+      "val": "5h 26m",
       "color": "blue"
     },
     "Restarts": {
@@ -186,7 +186,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-04-01T12:59:01.169Z"
     },
     {
@@ -200,7 +200,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-31T13:15:43.645Z"
     },
     {
@@ -1797,7 +1797,7 @@
       "gender": "male",
       "email": "fredericks.a@hotmail.com",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T05:52:57.644Z"
     },
     {
@@ -2068,7 +2068,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T05:04:00.894Z"
     },
     {
@@ -3252,7 +3252,7 @@
       "gender": "female",
       "email": "dilshad501@gmail.com",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-11T19:27:36.567Z"
     },
     {
@@ -3689,19 +3689,19 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "1,124",
+      "val": "3,948",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$0.0M",
+      "val": "$1.1M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "0 (>$10K)",
+      "val": "6 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
-      "val": "1016",
+      "val": "8",
       "color": "blue"
     }
   },
