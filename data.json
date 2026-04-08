@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/08, 06:04:27",
+  "updated": "2026/04/08, 18:45:35",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "2",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,27 +76,27 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,772",
+      "val": "1 776",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "4",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "413,536",
+      "val": "413 876",
       "color": "blue"
     },
     "Bot Status": {
-      "val": "online",
-      "color": "green"
+      "val": "unknown",
+      "color": "red"
     },
     "Uptime": {
-      "val": "3h 4m",
+      "val": "?",
       "color": "blue"
     },
     "Restarts": {
-      "val": "162",
+      "val": "?",
       "color": "orange"
     },
     "Food Database": {
@@ -108,9 +108,9 @@
     {
       "name": "Cameron",
       "phone": "2782****299",
-      "logs": 1,
+      "logs": 2,
       "joined": "2026/04/07",
-      "lastActive": "2026-04-07",
+      "lastActive": "2026-04-08",
       "goal": 1545,
       "age": 37,
       "gender": "male",
@@ -2390,9 +2390,9 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 28,
+      "logs": 31,
       "joined": "2026/03/21",
-      "lastActive": "2026-04-07",
+      "lastActive": "2026-04-08",
       "goal": 1999,
       "age": 38,
       "gender": "male",
@@ -3583,7 +3583,7 @@
   "fitsortedTopFoods": [
     [
       "coffee with milk (1 cup)",
-      32
+      35
     ],
     [
       "banana (1 medium)",
@@ -3642,28 +3642,7 @@
       5
     ]
   ],
-  "fitsortedErrors": [
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-07T18:30:48.987Z|27824452283|27824452283|beer (440ml)|155|1|13|0|0|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-07T18:30:44.891Z|27824452283|27824452283|Green beans (1 cup, ~125g) + 2 squares dark chocolate (~30g)|200|5|30|10|8|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-07T18:30:40.203Z|27824452283|27824452283|Cauliflower (100g)|25|2|5|0|2|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-07T18:30:37.953Z|27824452283|27824452283|Coconut milk (1 cup, ~240ml)|445|5|6|48|0|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-07T18:30:32.401Z|27824452283|27824452283|Chickpea vegetable curry with butternut (~300g)|450|15|70|15|12|AI --account alphaxasset@gmail.com"
-    }
-  ],
+  "fitsortedErrors": [],
   "analytics": {},
   "revenue": {
     "FitSorted MRR": {
