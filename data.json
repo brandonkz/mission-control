@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/09, 12:04:30",
+  "updated": "2026/04/09, 14:05:15",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "0h 35m",
+      "val": "2h 36m",
       "color": "blue"
     },
     "Restarts": {
@@ -3645,23 +3645,23 @@
   "fitsortedErrors": [
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-09T09:36:15.600Z|27837787970|27837787970|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-09T11:47:58.916Z|27761612638|27761612638|https://1drv.ms/f/c/9581af3facd2868e/IgBQBM2hWNNkR66Pj80IVWVzAbf6lS9cRVIjHWVYfoHNGHM?e=B5UJtm (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-09T09:35:50.602Z|27837787970|27837787970|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-09T11:31:03.840Z|27837787970|27837787970|2 Eggs (boiled)|140|12|1|10|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-09T09:34:27.824Z|27837787970|27837787970|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-09T11:30:38.580Z|27837787970|27837787970|2x matzah with 2 eggs|380|16|60|10|2|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-08T11:22:09.902Z|27837787970|27837787970|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-09T10:52:54.696Z|27607688145|27607688145|Easy veg soup packet (800g)|320|8|64|4|16|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-08T10:06:16.464Z|27837787970|27837787970|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-09T10:52:39.190Z|27607688145|27607688145|Canned whole tomato (1 cup, ~240g)|50|2|11|0|3|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
