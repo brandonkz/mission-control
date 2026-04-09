@@ -1,11 +1,11 @@
 {
-  "updated": "2026/04/09, 00:11:22",
+  "updated": "2026/04/09, 04:04:59",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "16 active",
+      "traffic": "14 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "2",
+      "val": "0",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "16",
+      "val": "14",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1 776",
+      "val": "1,776",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "4",
+      "val": "0",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "413 876",
+      "val": "413,876",
       "color": "blue"
     },
     "Bot Status": {
@@ -1022,7 +1022,7 @@
       "gender": "female",
       "email": "therushtonz@gmail.com",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T09:38:59.326Z"
     },
     {
@@ -1452,7 +1452,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T06:59:59.854Z"
     },
     {
@@ -3668,19 +3668,19 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "900",
+      "val": "3,204",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$0.0M",
+      "val": "$1.8M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "0 (>$10K)",
+      "val": "22 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
-      "val": "810",
+      "val": "8",
       "color": "blue"
     }
   },
