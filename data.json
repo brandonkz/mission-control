@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/09, 20:05:12",
+  "updated": "2026/04/10, 00:09:59",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "8h 36m",
+      "val": "12h 40m",
       "color": "blue"
     },
     "Restarts": {
@@ -3645,23 +3645,23 @@
   "fitsortedErrors": [
     {
       "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-09T19:58:24.366Z|27837787970|27837787970|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
+    },
+    {
+      "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-09T19:33:16.129Z|27837787970|27837787970|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
+    },
+    {
+      "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-09T19:25:43.480Z|27837787970|27837787970|Ocean Basket fish & chips (1 serving)|720|35|70|32|4|AI --account alphaxasset@gmail.com"
+    },
+    {
+      "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-09T16:09:47.077Z|27837787970|27837787970|Clover full cream milk (1 cup) (250ml)|150|8|12|8|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-09T15:38:58.362Z|27837787970|27837787970|Ocean Basket fish & chips (1 serving)|720|35|70|32|4|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-09T12:38:35.232Z|27837787970|27837787970|Steak (~300g)|660|60|0|45|0|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-09T11:47:58.916Z|27761612638|27761612638|https://1drv.ms/f/c/9581af3facd2868e/IgBQBM2hWNNkR66Pj80IVWVzAbf6lS9cRVIjHWVYfoHNGHM?e=B5UJtm (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-09T11:31:03.840Z|27837787970|27837787970|2 Eggs (boiled)|140|12|1|10|0|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
