@@ -1,13 +1,13 @@
 {
-  "totalUsers": 251,
-  "setupComplete": 218,
+  "totalUsers": 254,
+  "setupComplete": 221,
   "proUsers": 1,
-  "activeToday": 1,
-  "activeWeek": 23,
-  "logsToday": 1,
-  "totalLogsAllTime": 1759,
+  "activeToday": 3,
+  "activeWeek": 16,
+  "logsToday": 16,
+  "totalLogsAllTime": 1793,
   "signupsToday": 1,
-  "signupsThisWeek": 9,
+  "signupsThisWeek": 5,
   "signupsByDay": {
     "2026-03-21": 2,
     "2026-03-04": 4,
@@ -33,9 +33,29 @@
     "2026-03-31": 3,
     "2026-04-01": 2,
     "2026-04-04": 1,
-    "2026-04-06": 1
+    "2026-04-06": 1,
+    "2026-04-07": 2,
+    "2026-04-09": 1
   },
   "recentSignups": [
+    {
+      "phone": "278***58",
+      "name": "Charmaine",
+      "created": "2026-04-09T10:25:32.067Z",
+      "setup": true
+    },
+    {
+      "phone": "278***99",
+      "name": "Cameron",
+      "created": "2026-04-07T16:17:57.804Z",
+      "setup": true
+    },
+    {
+      "phone": "277***86",
+      "name": "Rafique",
+      "created": "2026-04-07T13:28:15.052Z",
+      "setup": true
+    },
     {
       "phone": "278***21",
       "name": "Tristan",
@@ -77,25 +97,7 @@
       "name": "Jaime",
       "created": "2026-03-31T07:02:43.952Z",
       "setup": true
-    },
-    {
-      "phone": "278***10",
-      "name": "Melian",
-      "created": "2026-03-30T14:50:50.076Z",
-      "setup": true
-    },
-    {
-      "phone": "277***81",
-      "name": "Jacey",
-      "created": "2026-03-30T10:16:56.712Z",
-      "setup": true
-    },
-    {
-      "phone": "277***78",
-      "name": "anon",
-      "created": "2026-03-28T18:48:53.048Z",
-      "setup": false
     }
   ],
-  "updatedAt": "2026-04-06T20:00:01.985Z"
+  "updatedAt": "2026-04-09T20:04:05.308Z"
 }
