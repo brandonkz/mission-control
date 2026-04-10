@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/10, 16:05:15",
+  "updated": "2026/04/10, 22:04:12",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "13h 5m",
+      "val": "19h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -3645,23 +3645,23 @@
   "fitsortedErrors": [
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-10T08:55:18.048Z|27713621806|27713621806|5x Woolworths wheaten rosemary crackers|150|3|25|5|2|AI --account alphaxasset@gmail.com"
+      "error": "append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-03T20:57:14.249Z|27722544781|27722544781|Baked potato (1 medium (150g))|160|4|36|0.2|2|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-10T08:23:26.037Z|27713621806|27713621806|2x sweetener (2 servings) (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-10T18:40:45.168Z|27626321027|27626321027|Rice (1 small bowl, ~150g) with onion and tomato soup + Chicken wing (~100g)|380|20|60|10|3|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-10T08:23:18.809Z|27713621806|27713621806|2x americano coffee with low fat milk|80|4|8|2|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-10T18:37:48.430Z|27626321027|27626321027|Rice (1 cup, ~150g) and tomato onion soup (~250ml)|330|8|60|5|5|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-09T19:58:24.366Z|27837787970|27837787970|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-10T18:32:37.406Z|27626321027|27626321027|2x polony|320|16|8|28|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-09T19:33:16.129Z|27837787970|27837787970|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-10T18:32:33.196Z|27626321027|27626321027|Albany brown bread (2 slices)|180|7|32|2|4|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
