@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/11, 18:04:06",
+  "updated": "2026/04/11, 20:04:54",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "15h 4m",
+      "val": "17h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -3645,7 +3645,15 @@
   "fitsortedErrors": [
     {
       "count": 1,
-      "error": "s append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-04T11:29:03.207Z|27824413810|27824413810|2x eggs with 1 tablespoon cream cheese|200|14|2|16|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-11T17:50:57.261Z|27610463214|27610463214|Fillet burger (~150g)|350|20|30|18|2|AI --account alphaxasset@gmail.com"
+    },
+    {
+      "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-11T17:50:48.279Z|27610463214|27610463214|Chicken burger (~150g)|350|25|30|15|2|AI --account alphaxasset@gmail.com"
+    },
+    {
+      "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-11T17:50:44.691Z|27610463214|27610463214|Smash burger (~150g)|400|25|30|25|2|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
@@ -3654,14 +3662,6 @@
     {
       "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-11T14:57:20.257Z|27713621806|27713621806|2x mini pita with chicken (~100g) & salad (~50g)|360|30|50|10|5|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-11T14:57:00.564Z|27713621806|27713621806|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-11T13:54:43.030Z|27610463214|27610463214|Biryani (1 plate, ~300g)|600|20|80|20|5|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
