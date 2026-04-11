@@ -1,13 +1,13 @@
 {
-  "totalUsers": 254,
-  "setupComplete": 221,
+  "totalUsers": 257,
+  "setupComplete": 224,
   "proUsers": 1,
-  "activeToday": 0,
-  "activeWeek": 15,
-  "logsToday": 0,
-  "totalLogsAllTime": 1793,
-  "signupsToday": 0,
-  "signupsThisWeek": 5,
+  "activeToday": 4,
+  "activeWeek": 20,
+  "logsToday": 6,
+  "totalLogsAllTime": 1809,
+  "signupsToday": 1,
+  "signupsThisWeek": 8,
   "signupsByDay": {
     "2026-03-21": 2,
     "2026-03-04": 4,
@@ -35,9 +35,29 @@
     "2026-04-04": 1,
     "2026-04-06": 1,
     "2026-04-07": 2,
-    "2026-04-09": 1
+    "2026-04-09": 1,
+    "2026-04-10": 2,
+    "2026-04-11": 1
   },
   "recentSignups": [
+    {
+      "phone": "277***12",
+      "name": "Leanne",
+      "created": "2026-04-11T09:11:28.792Z",
+      "setup": true
+    },
+    {
+      "phone": "276***27",
+      "name": "But l also want to lose belly fat",
+      "created": "2026-04-10T18:04:34.846Z",
+      "setup": true
+    },
+    {
+      "phone": "277***06",
+      "name": "Which is the best for my age, aggressive or normal",
+      "created": "2026-04-10T08:19:53.568Z",
+      "setup": true
+    },
     {
       "phone": "278***58",
       "name": "Charmaine",
@@ -79,25 +99,7 @@
       "name": "Doron",
       "created": "2026-04-01T12:59:01.169Z",
       "setup": true
-    },
-    {
-      "phone": "278***61",
-      "name": "Bridget",
-      "created": "2026-03-31T13:15:43.645Z",
-      "setup": true
-    },
-    {
-      "phone": "278***35",
-      "name": "Vee",
-      "created": "2026-03-31T11:17:58.592Z",
-      "setup": true
-    },
-    {
-      "phone": "277***21",
-      "name": "Jaime",
-      "created": "2026-03-31T07:02:43.952Z",
-      "setup": true
     }
   ],
-  "updatedAt": "2026-04-10T06:05:01.412Z"
+  "updatedAt": "2026-04-11T14:05:00.960Z"
 }
