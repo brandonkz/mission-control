@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/11, 06:05:07",
+  "updated": "2026/04/11, 08:05:39",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "3h 5m",
+      "val": "5h 5m",
       "color": "blue"
     },
     "Restarts": {
@@ -3645,7 +3645,7 @@
   "fitsortedErrors": [
     {
       "count": 1,
-      "error": "append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-03T20:57:14.249Z|27722544781|27722544781|Baked potato (1 medium (150g))|160|4|36|0.2|2|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-11T06:02:22.689Z|27713621806|27713621806|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
